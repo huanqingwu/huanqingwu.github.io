@@ -1,10 +1,6 @@
 {% comment %}
     @param {Boolean} center
 {% endcomment %}
-<head>
-  <!-- Place your kit's code here -->
-  <script src="https://kit.fontawesome.com/836fb81cfd.js" crossorigin="anonymous"></script>
-</head>
 {% if include.center %}
 <ul class="list-inline text-center">
 {% else %}
@@ -37,16 +33,6 @@
       <span class="fa-stack fa-lg">
         <i class="fa fa-circle fa-stack-2x"></i>
         <i class="fa  fa-stack-1x fa-inverse">bili</i>
-      </span>
-    </a>
-  </li>
-  {% endif %}
-  {% if site.email_username %}
-  <li>
-    <a target="_blank" href="mailto:{{ site.email_username }}">
-      <span class="fa-stack fa-lg">
-        <i class="fa fa-circle fa-stack-2x"></i>
-        <i class="fa fa-envelope fa-lg"></i>
       </span>
     </a>
   </li>
@@ -98,6 +84,16 @@
       <span class="fa-stack fa-lg">
         <i class="fa fa-circle fa-stack-2x"></i>
         <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+  </li>
+  {% endif %}
+  {% if site.email_username %}
+  <li>
+    <a target="_blank" href="mailto:{{ site.email_username }}">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa  fa-stack-1x fa-inverse">mail</i>
       </span>
     </a>
   </li>
