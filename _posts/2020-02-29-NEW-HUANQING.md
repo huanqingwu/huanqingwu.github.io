@@ -43,9 +43,9 @@ $\Sigma = \\{0, 1\\}$，所以「编码」即一个对象的二进制字符串�
 
 而「计算问题」有多少个呢？
 
-这个问题可以等同于，我们有多少个形如 $\\{000, 010\\}$ 这样的 0，1 序列的集合？即 $\Sigma^{*}$ 这个集合有多少个子集？用数学语言描述就是求 $\Sigma^{*}$ 的幂集的势 $| P(\Sigma^{*})|$ 。
+这个问题可以等同于，我们有多少个形如 $\\{000, 010\\}$ 这样的 0，1 序列的集合？即 $\Sigma^{*}$ 这个集合有多少个子集？用数学语言描述就是求 $\Sigma^{*}$ 的幂集的势 $\| P(\Sigma^{*})\|$ 。
 
-由于 $\Sigma^{*}$ 与 $Z$ 是等势的，所以这个问题等价于求 $|P(Z)|$ 的大小。根据 [Cantor's theorem](https://en.wikipedia.org/wiki/Cantor%2527s_theorem)，一个「无穷可数」的集合的幂集是「无穷不可数（uncountably infinite）」的。（注 3）
+由于 $\Sigma^{*}$ 与 $Z$ 是等势的，所以这个问题等价于求 $\|P(Z)\|$ 的大小。根据 [Cantor's theorem](https://en.wikipedia.org/wiki/Cantor%2527s_theorem)，一个「无穷可数」的集合的幂集是「无穷不可数（uncountably infinite）」的。（注 3）
 
 <br>
 
