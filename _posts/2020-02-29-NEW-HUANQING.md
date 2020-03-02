@@ -11,3 +11,6 @@ tags:
 ---
 
 ## ~这里什么都没有~
+
+试着播放一个视频
+<video src="http://qiniu.swarma.org/newUser.mp4" controls="controls" width="100%" height="auto"/>
