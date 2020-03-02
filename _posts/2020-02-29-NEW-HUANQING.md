@@ -20,12 +20,12 @@ Your browser does not support the audio tag.
 </audio>
 </html>
 
-试着播放一个视频
-<html>
-<video src="http://qiniu.swarma.org/newUser.mp4" controls="controls" width="100%" height="auto"/>
-</html>
+//试着播放一个视频
+//<html>
+//<video src="http://qiniu.swarma.org/newUser.mp4" controls="controls" width="100%" height="auto"/>
+//</html>
 
 ondrive视频：
 <html>
-<video src="https://pmjs-my.sharepoint.com/personal/hawkingwu19950930_my365_tw/Documents/视频教程/AD10教程重置.mp4" controls="controls" width="100%" height="auto"/>
+<video src="https://pmjs-my.sharepoint.com/personal/hawkingwu19950930_my365_tw/Documents/VID_20190522_153516.mp4" controls="controls" width="100%" height="auto"/>
 </html>
