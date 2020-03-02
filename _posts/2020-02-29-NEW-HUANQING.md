@@ -15,7 +15,7 @@ tags:
 
 音频：
 <html>
-<audio src="https://pmjs-my.sharepoint.com/personal/hawkingwu19950930_my365_tw/Documents/Shall%20We%20Begin-%20-%20Ramin%20Djawadi.mp3" controls="controls">
+<audio src="https://link.gimhoy.com/sharepoint/aHR0cHM6Ly9wbWpzLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2hhd2tpbmd3dTE5OTUwOTMwX215MzY1X3R3L0VTYWZBdUVNTTRoR2tpdV9CTk5lOVRVQlBfM2lWZ0dxWVVnUHRvTXgwR2pyTEE/ZT0xY292Z20=.mp3" controls="controls">
 Your browser does not support the audio tag.
 </audio>
 </html>
