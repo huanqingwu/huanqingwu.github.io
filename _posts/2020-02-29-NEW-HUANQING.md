@@ -24,8 +24,3 @@ Your browser does not support the audio tag.
 //<html>
 //<video src="http://qiniu.swarma.org/newUser.mp4" controls="controls" width="100%" height="auto"/>
 //</html>
-
-ondrive视频：
-<html>
-<video src="https://pmjs-my.sharepoint.com/personal/hawkingwu19950930_my365_tw/Documents/VID_20190522_153516.mp4" controls="controls" width="100%" height="auto"/>
-</html>
