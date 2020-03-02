@@ -24,6 +24,11 @@ Your browser does not support the audio tag.
 </audio>
 </html>
 
+试着播放一个视频
+<html>
+<video src="http://qiniu.swarma.org/newUser.mp4" controls="controls" width="100%" height="auto"/>
+</html>
+
 ondrive视频：
 <html>
 <video src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9wbWpzLW15LnNoYXJlcG9pbnQuY29tLzp2Oi9nL3BlcnNvbmFsL2hhd2tpbmd3dTE5OTUwOTMwX215MzY1X3R3L0VTaHNsb0FSaExKQW9zYmhucDNNRHZJQjFyWlpPZy1qRGtZaEJnQUdqUTZ6d2c/ZT1iaWdpeWQ=.mp4" controls="controls" width="100%" height="auto"/>
