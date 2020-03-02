@@ -27,5 +27,5 @@ Your browser does not support the audio tag.
 
 ondrive视频：
 <html>
-<video src="https://link.gimhoy.com/sharepoint/aHR0cHM6Ly9wbWpzLW15LnNoYXJlcG9pbnQuY29tLzp2Oi9nL3BlcnNvbmFsL2hhd2tpbmd3dTE5OTUwOTMwX215MzY1X3R3L0VjWTdZSFUtM21wTXNta0YwU21HSkY0QlpZdXloeTZkbGU3MXMxNlhJN3Q4enc/ZT1oTm5wbXk=.mp4" controls="controls" width="100%" height="auto"/>
+<video src="https://pmjs-my.sharepoint.com/personal/hawkingwu19950930_my365_tw/Documents/视频教程/AD10教程重置.mp4" controls="controls" width="100%" height="auto"/>
 </html>
