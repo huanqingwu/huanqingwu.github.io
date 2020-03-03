@@ -21,11 +21,10 @@ tags:
 从为人处世、理解现实到日常工作、企业管理，覆盖管理者、普通白领、一般大众。所提炼的原则，也包括投资方面的感悟、公司治理、人类进化等，合适多层次、多领域的读者阅读.   
 
 **资源下载：**  
-[喜马拉雅原版](https://eduinhk-my.sharepoint.com/:f:/g/personal/huanqing_eduinhk_onmicrosoft_com/EvSBUimSgqNGjQeO9rMe3rEB3SE9EUyodImlXOlzeL7U4A?e=fEvwem).m4a  
-[喜马拉雅原版m4a打包](https://eduinhk-my.sharepoint.com/:u:/g/personal/huanqing_eduinhk_onmicrosoft_com/Ef2dFTSRSJhPsgxgn1qpoZYBukeYTVMxuVRdg9qHnUTgCw?e=zLkkvR).zip  
-[后压](https://eduinhk-my.sharepoint.com/:f:/g/personal/huanqing_eduinhk_onmicrosoft_com/Eqz8fW0pNjxCj43Teg39cEcBU9kjhdO5ottD2PYMMK3Zww?e=Vu2f3s).mp3  
+[喜马拉雅原版](https://eduinhk-my.sharepoint.com/:f:/g/personal/huanqing_eduinhk_onmicrosoft_com/EvSBUimSgqNGjQeO9rMe3rEB3SE9EUyodImlXOlzeL7U4A?e=fEvwem){:target="_blank"}.m4a  
+[喜马拉雅原版m4a打包](https://eduinhk-my.sharepoint.com/:u:/g/personal/huanqing_eduinhk_onmicrosoft_com/Ef2dFTSRSJhPsgxgn1qpoZYBukeYTVMxuVRdg9qHnUTgCw?e=zLkkvR){:target="_blank"}.zip  
+[后压](https://eduinhk-my.sharepoint.com/:f:/g/personal/huanqing_eduinhk_onmicrosoft_com/Eqz8fW0pNjxCj43Teg39cEcBU9kjhdO5ottD2PYMMK3Zww?e=Vu2f3s){:target="_blank"}.mp3  
 后压mp3打包.zip  
-
 
 ------
 
