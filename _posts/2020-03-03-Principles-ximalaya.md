@@ -30,13 +30,13 @@ tags:
 
 
 001 中文版序
-<audio src="https://eduinhk-my.sharepoint.com/personal/huanqing_eduinhk_onmicrosoft_com/Documents/urls/mp3/ximalaya/Principles/001.mp3" controls="controls">
+<audio src="https://mail.qq.com/cgi-bin/viewfile?sid=nYlqheT1R1ULCiZ4&upfilelistitem=8rrfZ79%2ByUVPPIQ6XOolSyAv0SOKbSwzagxnPPR1c0y17vRk88%2FC3LW1KTBCDJSo2b286IxdDfR%2FWWoHJUy%2BmItNuZYUtoYGn3w0GKgtZmP9Bf9Kbi4hzRxsfFLDMnSEYHMTa7RNavg%3D&mailattach=&filename=001.mp3" controls="controls">
 Your browser does not support the audio tag.
 </audio> 
 
 
 002 导言
-<audio src="https://eduinhk-my.sharepoint.com/personal/huanqing_eduinhk_onmicrosoft_com/Documents/urls/mp3/ximalaya/Principles/002.mp3" controls="controls">
+<audio src="https://mail.qq.com/cgi-bin/viewfile?sid=nYlqheT1R1ULCiZ4&upfilelistitem=FQIcn0LnK0yxwaLlX7afFo2VNBT8kxlzXuMaUmDZ6aN4oYP2Q1hKbPO%2BF%2B6a4KlTM6XRLwsBCPc6R2mpksR6DSs%2BmvXZdfyhtQ%2BdAOzMor%2F%2BQExGQKVoDSGs64LrkLgLtSTBE%2FFciHY%3D&mailattach=&filename=002.mp3" controls="controls">
 Your browser does not support the audio tag.
 </audio> 
 
