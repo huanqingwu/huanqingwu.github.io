@@ -22,9 +22,9 @@ tags:
 
 **资源下载：**  
 [喜马拉雅原版](https://eduinhk-my.sharepoint.com/:f:/g/personal/huanqing_eduinhk_onmicrosoft_com/EvSBUimSgqNGjQeO9rMe3rEB3SE9EUyodImlXOlzeL7U4A?e=fEvwem){:target="_blank"}.m4a  
-[喜马拉雅原版m4a打包](https://eduinhk-my.sharepoint.com/personal/huanqing_eduinhk_onmicrosoft_com/Documents/share/ximalaya/principles/PRINCIPLESm4a.zip){:target="_blank"}.zip  
+[喜马拉雅原版m4a打包](https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VmMmRGVFNSU0poUHNneGduMXFwb1pZQnVrZVlUVk14dVZSZGc5cUhuVVRnQ3c/ZT1YZGFIaGY=.zip){:target="_blank"}.zip  
 [后压](https://eduinhk-my.sharepoint.com/:f:/g/personal/huanqing_eduinhk_onmicrosoft_com/Eqz8fW0pNjxCj43Teg39cEcBU9kjhdO5ottD2PYMMK3Zww?e=Vu2f3s){:target="_blank"}.mp3  
-后压mp3打包.zip  
+[后压mp3打包](https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VXcWlEckJ2a05CTXI5RlJDbE9vY1RRQmRFbVZCQ3VEblJ1MlVwR3lYMjFTWlE/ZT1XeUJNY3A=.mp3){:target="_blank"}.zip  
 
 ------
 
