@@ -42,30 +42,34 @@ Your browser does not support the audio tag.
 
 
 003 我的探险召唤（1949—1967年）
-<audio src="https://sz.btfs.mail.ftn.qq.com/ftn_handler/e0f76f33ab632059cc8f38242f026cc5cf52b5334f4a2353ac9fd277459f56cde2003864b8052e7ba19d3e25abe25b754922375e4fb71df5f8c3709b84c69f2d?compressed=0&dtype=1&fname=003.mp3" controls="controls">
+<audio src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VWUmFpWDdydERwQmpMSTAwMFJHaTdFQmk3dkxVaE85eEVQVjVYSFJBVkJqeVE/ZT1RczNuZ3Q=.mp3" controls="controls">
 Your browser does not support the audio tag.
 </audio> 
 
 
 004 跨越门槛（1967—1979年）（上）
-<audio src="https://sz.btfs.mail.ftn.qq.com/ftn_handler/6f95c230494316a5866b63e496480404b2b6c1f17463319188c55d772bfec605f49f2eb2571633b103caf7559f06fae4c3e5383ffa967cf99a0e3a0400d61e14?compressed=0&dtype=1&fname=004.mp3" controls="controls">
+<audio src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VRRlhjcGZ1cXJsR3R1cDRRWXNjTF9FQkVwb3ZWbGNQUlh0eVFPRmxKUkI3Rnc/ZT1odlZncHk=.mp3" controls="controls">
 Your browser does not support the audio tag.
 </audio> 
 
 
 005 跨越门槛（1967—1979年）（下）
-<audio src="https://sz.btfs.mail.ftn.qq.com/ftn_handler/6f2410fee4e6fa8ceb92d8a88a55cd3155bde2fe2607c99c211d4c3c0d8a9f4379a3bd5e7872d3f3e9fdcc7b40797f16a078f58a447512d5abaad1911e98c204?compressed=0&dtype=1&fname=005.mp3" controls="controls">
+<audio src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VldXFDNzVBMmVWTm9iXzlIaERiVy1JQllMWjNiZkJuNVF6TnVFRDA1NFlHZHc/ZT1CUmlNRVo=.mp3" controls="controls">
 Your browser does not support the audio tag.
 </audio> 
 
 
 006 我的低谷（1979—1982）
-<audio src="https://sz.btfs.mail.ftn.qq.com/ftn_handler/abc3e25bba8ba8f15a286d51782d25f7750d0cb21efbd64a1e7af85306458bf4b98dcb777fa31d04a9373b53b83e040bbc38553a326f5a4dbad7bca91002bdc6?compressed=0&dtype=1&fname=006.mp3" controls="controls">
+<audio src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VmZDhxZGlwQ2t0SGc3WGZCa1IyVTRVQkxidU5pN1Vfc3lXNFU4SW9fcURJcUE/ZT1oeUhveFQ=.mp3" controls="controls">
 Your browser does not support the audio tag.
 </audio> 
 
 
 007 我的试炼之路（1983—1994）（上）
+<audio src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VmTEJidVYtZHF0QXBHOXI3X2s5aGpjQjZFMU9xa2REVUVsM2ZGbWM4NktOd2c/ZT1FdklkQVU=.mp3" controls="controls">
+Your browser does not support the audio tag.
+</audio> 
+
 
 008 我的试炼之路（1983—1994）（中）
 
