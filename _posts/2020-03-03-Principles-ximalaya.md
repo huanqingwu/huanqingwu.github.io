@@ -114,73 +114,73 @@ Your browser does not support the audio tag.
 
 
 015 最后的一年和最大的挑战（2016—2017）
-<audio src="url" controls="controls">
+<audio src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VaS0VsaUdkdlhwUGktWlpfR1RFOHJRQnVobUJQR3d2c0VmVVFqRTQ4U3pjNlE/ZT03aWNFS3U=.mp3" controls="controls">
 Your browser does not support the audio tag.
 </audio> 
 
 
 016 从更好的层面回顾
-<audio src="url" controls="controls">
+<audio src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VSR0daaGZQWGN0RXNBalRPWUZEVmpBQkQ4ZlBLVUFvckVSekNwclFWUjZ0d0E/ZT1lYXFzZFM=.mp3" controls="controls">
 Your browser does not support the audio tag.
 </audio> 
 
 
 017 拥抱现实，应对现实（上）
-<audio src="url" controls="controls">
+<audio src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VTVlF0SWZmdUpoSXV2b3J6YWd5YkxJQmxwUjhNdGdTeFVHUlZZa193OVpwRWc/ZT1HbjFKNDE=.mp3" controls="controls">
 Your browser does not support the audio tag.
 </audio> 
 
 
 018 拥抱现实，应对现实（下）
-<audio src="url" controls="controls">
+<audio src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VmZVBGd1hTN3ZwSm5vLVVqM1loX2JNQmZSRUY1WS1xdkpjcndPenIzRlJ1R3c/ZT1NSFNmN1U=.mp3" controls="controls">
 Your browser does not support the audio tag.
 </audio> 
 
 
 019 做到头脑极度开放（上）
-<audio src="url" controls="controls">
+<audio src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VWVjhfal9uS2xwQml0NUtiRndNejZFQmhQU05kN3R1ZmxSYUItSC1rZVJ1emc/ZT05R2xEZno=.mp3" controls="controls">
 Your browser does not support the audio tag.
 </audio> 
 
 
 020 做到头脑极度开放（中）
-<audio src="url" controls="controls">
+<audio src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VaVXg0Mmt0b1o5THJNU3diNTg4LVc0Ql9GQ1BnMXFSQnIzMHdzWUhMRlItTHc/ZT1xZUZXaDc=.mp3" controls="controls">
 Your browser does not support the audio tag.
 </audio> 
 
 
 021 做到头脑极度开放（下）
-<audio src="url" controls="controls">
+<audio src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VVbENZTjA2RHhaUHRkbVUtQVI5MVpFQjU4ZlBuMnEzMjNZUWNHd25tWkRMSkE/ZT1NWHR1cmc=.mp3" controls="controls">
 Your browser does not support the audio tag.
 </audio> 
 
 
 022 理解人与人大不相同（上）
-<audio src="url" controls="controls">
+<audio src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VWTUVKNnJab1cxS2ozcmdLX25TWjlJQlN4eEhOTHFfbnEzVmRnd3hmUTJtQXc/ZT0ybnN5QkU=.mp3" controls="controls">
 Your browser does not support the audio tag.
 </audio> 
 
 
 023 理解人与人大不相同（中）
-<audio src="url" controls="controls">
+<audio src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VUMU9rbTFSaUpsRm1QdUI0Ujh4Qld3Qm9LUlJOaGsxTm8tY3VSQnFoU2pLckE/ZT02U2Vib3A=.mp3" controls="controls">
 Your browser does not support the audio tag.
 </audio> 
 
 
 024 理解人与人大不相同（下）
-<audio src="url" controls="controls">
+<audio src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VZN2V4dzdaQmN4QXZQUXZhMXF1T09RQjQ4N2Ntb2Z1TER6SjR2Y2xTNnFtV2c/ZT1ISHpReW4=.mp3" controls="controls">
 Your browser does not support the audio tag.
 </audio> 
 
 
 025 学习如何有效决策（上）
-<audio src="url" controls="controls">
+<audio src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VTWTBEOGtjTFBGTGtrRVl2dG9aNXVVQjlObEs4cld6R1ZLaS1iUTI0TDhiVHc/ZT0wV2NBZjk=.mp3" controls="controls">
 Your browser does not support the audio tag.
 </audio> 
 
 
 026 学习如何有效决策（下）
-<audio src="url" controls="controls">
+<audio src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VZeGppSE1rZmRWTnJLZTdFeHdHejd3QlBHbWdNSEVQY19GaFRZU1cwT0x5UFE/ZT1pNVlGVko=.mp3" controls="controls">
 Your browser does not support the audio tag.
 </audio> 
 
