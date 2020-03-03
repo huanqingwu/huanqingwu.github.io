@@ -72,42 +72,118 @@ Your browser does not support the audio tag.
 
 
 008 我的试炼之路（1983—1994）（中）
+<audio src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0Vlb2I5Rlk2cnpoTm9FdkJlQ1M5R0swQmhCWFJtU3R2WE9yczR2S3JzYldGN1E/ZT1sQzdVV2Q=.mp3" controls="controls">
+Your browser does not support the audio tag.
+</audio> 
+
 
 009 我的试炼之路（1983—1994）（下）
+<audio src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VXTDNIaVFHZzVsTGk4bTVCa3BFbGpRQkxnUXJJMkxjVXNCWENtcU5nNlZkSlE/ZT1jaGtiTzI=.mp3" controls="controls">
+Your browser does not support the audio tag.
+</audio> 
+
 
 010 终极恩惠（1995—2010）（上）
+<audio src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VheTNNSGZzYnMxR2ptdk5ZZ05rSS1RQjVhRWdBN3JqWW5CLXZvQl9jcktLSWc/ZT1wM1lpbGI=.mp3" controls="controls">
+Your browser does not support the audio tag.
+</audio> 
+
 
 011 终极恩惠（1995—2010）（下）
+<audio src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VhOHo4UDl5UlFsTG1YelE2dGludVFjQnpad3ZuOHJnZHlNSU5qWG5zcnd0MWc/ZT1Bb1dXSWQ=.mp3" controls="controls">
+Your browser does not support the audio tag.
+</audio> 
+
 
 012 回报恩惠（2011—2015）（上）
+<audio src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VWM3V5Q1VNSVVsTnItS2Zqb0ZfWjVJQjFMUTl0R29nWUZON1l6ZFRyeTZoQlE/ZT0xWGxiWHc=.mp3" controls="controls">
+Your browser does not support the audio tag.
+</audio> 
+
 
 013 回报恩惠（2011—2015）（中）
+<audio src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VRWDlvRWw5UXRkRnEtaXppeDJYWVdrQjI5dDJNRzlUUVRDdkhKUEswRGthN3c/ZT1wdkJMVTE=.mp3" controls="controls">
+Your browser does not support the audio tag.
+</audio> 
+
 
 014 回报恩惠（2011—2015）（下）
+<audio src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0Vjd3ZySUFTU1pSRnJWbjdtVV9PckRjQkF4aFhrVFBncV9hblNWaDZ1WVlwVHc/ZT1qRWJqVFY=.mp3" controls="controls">
+Your browser does not support the audio tag.
+</audio> 
+
 
 015 最后的一年和最大的挑战（2016—2017）
+<audio src="url" controls="controls">
+Your browser does not support the audio tag.
+</audio> 
+
 
 016 从更好的层面回顾
+<audio src="url" controls="controls">
+Your browser does not support the audio tag.
+</audio> 
+
 
 017 拥抱现实，应对现实（上）
+<audio src="url" controls="controls">
+Your browser does not support the audio tag.
+</audio> 
+
 
 018 拥抱现实，应对现实（下）
+<audio src="url" controls="controls">
+Your browser does not support the audio tag.
+</audio> 
+
 
 019 做到头脑极度开放（上）
+<audio src="url" controls="controls">
+Your browser does not support the audio tag.
+</audio> 
+
 
 020 做到头脑极度开放（中）
+<audio src="url" controls="controls">
+Your browser does not support the audio tag.
+</audio> 
+
 
 021 做到头脑极度开放（下）
+<audio src="url" controls="controls">
+Your browser does not support the audio tag.
+</audio> 
+
 
 022 理解人与人大不相同（上）
+<audio src="url" controls="controls">
+Your browser does not support the audio tag.
+</audio> 
+
 
 023 理解人与人大不相同（中）
+<audio src="url" controls="controls">
+Your browser does not support the audio tag.
+</audio> 
+
 
 024 理解人与人大不相同（下）
+<audio src="url" controls="controls">
+Your browser does not support the audio tag.
+</audio> 
+
 
 025 学习如何有效决策（上）
+<audio src="url" controls="controls">
+Your browser does not support the audio tag.
+</audio> 
+
 
 026 学习如何有效决策（下）
+<audio src="url" controls="controls">
+Your browser does not support the audio tag.
+</audio> 
+
 
 027 生活原则总结
 
