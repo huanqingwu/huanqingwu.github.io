@@ -42,8 +42,22 @@ Your browser does not support the audio tag.
 
 
 003 我的探险召唤（1949—1967年）
+<audio src="https://sz.btfs.mail.ftn.qq.com/ftn_handler/5e6156fcc2c23f55348aa37da5de3c0f825441e729d10e0bc07a6086fef81cf08c5e5cf676dcf52138b212ddf3109ed1f5f24324031c689cb52ba1968d01e236?compressed=0&dtype=1&fname=003.mp3" controls="controls">
+Your browser does not support the audio tag.
+</audio> 
+
+
 004 跨越门槛（1967—1979年）（上）
+<audio src="https://sz.btfs.mail.ftn.qq.com/ftn_handler/db256d0bec5edcb4a545f39f962d8267570929824b525fc1f120dc3e3339c3404ee4d71b9e126dab170d85c96ea3881f55debaa642cecac6b1cf5106b48a7ee5?compressed=0&dtype=1&fname=004.mp3" controls="controls">
+Your browser does not support the audio tag.
+</audio> 
+
+
 005 跨越门槛（1967—1979年）（下）
+<audio src="https://sz.btfs.mail.ftn.qq.com/ftn_handler/98d8b0eba53e55c663215910aaf61bdb2b087a2707c323414c59e2c118225f1852f29b38e001a946d4b8a012c30c1f3fdd7c6c30d340c86387a2059312835fac?compressed=0&dtype=1&fname=005.mp3" controls="controls">
+Your browser does not support the audio tag.
+</audio> 
+
 
 006 我的低谷（1979—1982）
 
