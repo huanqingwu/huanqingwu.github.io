@@ -30,13 +30,13 @@ tags:
 
 
 001 中文版序
-<audio src="https://sz.btfs.mail.ftn.qq.com/ftn_handler/f5fc8d070a03b13a7620731acae8f34d54d70ff3ddd4cd7037778368381d4da99613ff7dad19a28aa5b6922ea01ef582c09680533b240990666e6ec5602afbca?compressed=0&dtype=1&fname=001.mp3" controls="controls">
+<audio src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VjVExoR1hMdDNkQXZyTWpxeXBSamRzQnRaRF9WUXM2SmxxTEt3VnNXUUVOd0E/ZT1tbGV0NWw=.mp3" controls="controls">
 Your browser does not support the audio tag.
 </audio> 
 
 
 002 导言
-<audio src="https://sz.btfs.mail.ftn.qq.com/ftn_handler/3ce030061e22a3038b0ebc1a3bd882a11dbd74f5bd7eaf09abf52aa656866558809f6ee2a4b1de050db5d0bd7864fb9a2f897193fbda7a2003ca60d321377327?compressed=0&dtype=1&fname=002.mp3" controls="controls">
+<audio src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VhVzBUS0dlVXk1TW5odmJva3FFb1A4QnRnWkVMdFIxNHBfcm9qVGhMSWdwV1E/ZT1VbmxBblc=.mp3" controls="controls">
 Your browser does not support the audio tag.
 </audio> 
 
