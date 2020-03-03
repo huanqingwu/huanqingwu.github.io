@@ -11,30 +11,35 @@ tags:
 ---
 
 ### 华尔街投资大神、对冲基金公司桥水创始人，人生经验之作
-​    作者[瑞·达利欧](https://en.wikipedia.org/wiki/Ray_Dalio)出身美国普通中产家庭，26岁时被炒鱿鱼后在自己的两居室内创办了[桥水](https://en.wikipedia.org/wiki/Bridgewater_Associates)，现在桥水管理资金超过1500亿美元，截至2015年年底，盈利超过450亿美元。达利欧曾成功预测2008年金融危机，现在将其白手起家以来40多年的生活和工作原则公开。
+​        作者[瑞·达利欧](https://en.wikipedia.org/wiki/Ray_Dalio)出身美国普通中产家庭，26岁时被炒鱿鱼后在自己的两居室内创办了[桥水](https://en.wikipedia.org/wiki/Bridgewater_Associates)，现在桥水管理资金超过1500亿美元，截至2015年年底，盈利超过450亿美元。达利欧曾成功预测2008年金融危机，现在将其白手起家以来40多年的生活和工作原则公开。
 
 - **多角度、立体阐述生活、工作、管理原则**
+
 《[原则](https://www.principles.com/)》一书包含21条高原则、139条中原则和365条分原则，涵盖为人处事、公司管理两大方面。此前从未有过的逐一详细解答，配合达利欧多年来的各种实例和感悟。任何人都可以轻松上手实践。用以指导桥水日常管理，是桥水的员工手册，帮助桥水屹立40余年不倒，经受住了现实考验。
 
 - **半个金融圈、投资界、管理层都在期待简体中文版**
+
 2010年起，简略版的原则被放在[桥水官网](https://www.bridgewater.com/)上，至今共计被下载了超过300万次，无数企业、管理者、职场人士争相阅读。
 
 - **适合多层次、多领域的读者**
+
 从为人处世、理解现实到日常工作、企业管理，覆盖管理者、普通白领、一般大众。所提炼的原则，也包括投资方面的感悟、公司治理、人类进化等，合适多层次、多领域的读者阅读. 
 
 **资源下载：**
+
 [喜马拉雅原版](https://eduinhk-my.sharepoint.com/:f:/g/personal/huanqing_eduinhk_onmicrosoft_com/EvSBUimSgqNGjQeO9rMe3rEB3SE9EUyodImlXOlzeL7U4A?e=fEvwem).m4a
+
 [喜马拉雅原版m4a打包](https://eduinhk-my.sharepoint.com/:u:/g/personal/huanqing_eduinhk_onmicrosoft_com/Ef2dFTSRSJhPsgxgn1qpoZYBukeYTVMxuVRdg9qHnUTgCw?e=zLkkvR).zip
+
 后压.mp3
+
 后压mp3打包.zip
 
 001 中文版序
-<html>
+
 <audio src="https://eduinhk-my.sharepoint.com/personal/huanqing_eduinhk_onmicrosoft_com/Documents/urls/mp3/ximalaya/Principles/001.mp3" controls="controls">
 Your browser does not support the audio tag.
 </audio>
-</html>
-
 ------
 
 
