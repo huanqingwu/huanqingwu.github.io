@@ -42,19 +42,19 @@ Your browser does not support the audio tag.
 
 
 003 我的探险召唤（1949—1967年）
-<audio src="https://sz.btfs.mail.ftn.qq.com/ftn_handler/5e6156fcc2c23f55348aa37da5de3c0f825441e729d10e0bc07a6086fef81cf08c5e5cf676dcf52138b212ddf3109ed1f5f24324031c689cb52ba1968d01e236?compressed=0&dtype=1&fname=003.mp3" controls="controls">
+<audio src="https://sz.btfs.mail.ftn.qq.com/ftn_handler/e0f76f33ab632059cc8f38242f026cc5cf52b5334f4a2353ac9fd277459f56cde2003864b8052e7ba19d3e25abe25b754922375e4fb71df5f8c3709b84c69f2d?compressed=0&dtype=1&fname=003.mp3" controls="controls">
 Your browser does not support the audio tag.
 </audio> 
 
 
 004 跨越门槛（1967—1979年）（上）
-<audio src="https://sz.btfs.mail.ftn.qq.com/ftn_handler/db256d0bec5edcb4a545f39f962d8267570929824b525fc1f120dc3e3339c3404ee4d71b9e126dab170d85c96ea3881f55debaa642cecac6b1cf5106b48a7ee5?compressed=0&dtype=1&fname=004.mp3" controls="controls">
+<audio src="https://sz.btfs.mail.ftn.qq.com/ftn_handler/6f95c230494316a5866b63e496480404b2b6c1f17463319188c55d772bfec605f49f2eb2571633b103caf7559f06fae4c3e5383ffa967cf99a0e3a0400d61e14?compressed=0&dtype=1&fname=004.mp3" controls="controls">
 Your browser does not support the audio tag.
 </audio> 
 
 
 005 跨越门槛（1967—1979年）（下）
-<audio src="https://sz.btfs.mail.ftn.qq.com/ftn_handler/98d8b0eba53e55c663215910aaf61bdb2b087a2707c323414c59e2c118225f1852f29b38e001a946d4b8a012c30c1f3fdd7c6c30d340c86387a2059312835fac?compressed=0&dtype=1&fname=005.mp3" controls="controls">
+<audio src="https://sz.btfs.mail.ftn.qq.com/ftn_handler/6f2410fee4e6fa8ceb92d8a88a55cd3155bde2fe2607c99c211d4c3c0d8a9f4379a3bd5e7872d3f3e9fdcc7b40797f16a078f58a447512d5abaad1911e98c204?compressed=0&dtype=1&fname=005.mp3" controls="controls">
 Your browser does not support the audio tag.
 </audio> 
 
