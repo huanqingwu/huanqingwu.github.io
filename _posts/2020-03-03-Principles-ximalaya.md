@@ -30,13 +30,13 @@ tags:
 
 
 001 中文版序
-<audio src="https://mail.qq.com/cgi-bin/viewfile?sid=nYlqheT1R1ULCiZ4&upfilelistitem=8rrfZ79%2ByUVPPIQ6XOolSyAv0SOKbSwzagxnPPR1c0y17vRk88%2FC3LW1KTBCDJSo2b286IxdDfR%2FWWoHJUy%2BmItNuZYUtoYGn3w0GKgtZmP9Bf9Kbi4hzRxsfFLDMnSEYHMTa7RNavg%3D&mailattach=&filename=001.mp3" controls="controls">
+<audio src="https://sz.btfs.mail.ftn.qq.com/ftn_handler/f5fc8d070a03b13a7620731acae8f34d54d70ff3ddd4cd7037778368381d4da99613ff7dad19a28aa5b6922ea01ef582c09680533b240990666e6ec5602afbca?compressed=0&dtype=1&fname=001.mp3" controls="controls">
 Your browser does not support the audio tag.
 </audio> 
 
 
 002 导言
-<audio src="https://mail.qq.com/cgi-bin/viewfile?sid=nYlqheT1R1ULCiZ4&upfilelistitem=FQIcn0LnK0yxwaLlX7afFo2VNBT8kxlzXuMaUmDZ6aN4oYP2Q1hKbPO%2BF%2B6a4KlTM6XRLwsBCPc6R2mpksR6DSs%2BmvXZdfyhtQ%2BdAOzMor%2F%2BQExGQKVoDSGs64LrkLgLtSTBE%2FFciHY%3D&mailattach=&filename=002.mp3" controls="controls">
+<audio src="https://sz.btfs.mail.ftn.qq.com/ftn_handler/3ce030061e22a3038b0ebc1a3bd882a11dbd74f5bd7eaf09abf52aa656866558809f6ee2a4b1de050db5d0bd7864fb9a2f897193fbda7a2003ca60d321377327?compressed=0&dtype=1&fname=002.mp3" controls="controls">
 Your browser does not support the audio tag.
 </audio> 
 
@@ -60,6 +60,10 @@ Your browser does not support the audio tag.
 
 
 006 我的低谷（1979—1982）
+<audio src="https://sz.btfs.mail.ftn.qq.com/ftn_handler/abc3e25bba8ba8f15a286d51782d25f7750d0cb21efbd64a1e7af85306458bf4b98dcb777fa31d04a9373b53b83e040bbc38553a326f5a4dbad7bca91002bdc6?compressed=0&dtype=1&fname=006.mp3" controls="controls">
+Your browser does not support the audio tag.
+</audio> 
+
 
 007 我的试炼之路（1983—1994）（上）
 
