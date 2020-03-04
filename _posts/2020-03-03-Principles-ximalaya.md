@@ -233,6 +233,8 @@ Your browser does not support the audio tag.
 049 结语及附录
 
 
+播放器正在努力改进中
+
 <html>
 <head>
     <link href="https://cdn.bootcss.com/aplayer/1.10.1/APlayer.min.css" rel="stylesheet">
@@ -244,23 +246,41 @@ Your browser does not support the audio tag.
 </head>
 <body>
     <div class="demo">
-        <p><strong>自制音乐播放器</strong></p>
+        <p><strong>播放器</strong></p>
         <div id="player1">
         </div>
     </div>
     <script>
         var ap = new APlayer
                 ({
-                    element: document.getElementById('player1'),
-                    narrow: false,
-                    autoplay: true,
-                    showlrc: false,
-                    music: {
-                            title: '遇见',
-                            author: '孙燕姿',
-                            url: 'http://music.163.com/song/media/outer/url?id=287035.mp3',
-                            pic: 'http://y.gtimg.cn/music/photo_new/T002R300x300M000002ehzTm0TxXC2.jpg'
-                            }
+                  container: document.getElementById('player1'),
+                  mini: false,
+                  autoplay: false,
+                  theme: '#FADFA3',
+                  loop: 'all',
+                  order: 'random',
+                  preload: 'auto',
+                  volume: 0.7,
+                  mutex: true,
+                  listFolded: false,
+                  listMaxHeight: 90,
+                  lrcType: 3,
+                  audio: [
+                      {
+                          name: 'name1',
+                          artist: 'artist1',
+                          url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/yourname.mp3',
+                          cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.jpg',
+                          theme: '#ebd0c2'
+                      },
+                      {
+                          name: 'name2',
+                          artist: 'artist2',
+                          url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.mp3',
+                          cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.jpg',
+                          theme: '#46718b'
+                      }
+                  ]
                 });
         ap.init();
     </script>
