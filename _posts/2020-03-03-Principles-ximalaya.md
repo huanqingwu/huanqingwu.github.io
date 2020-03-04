@@ -236,6 +236,8 @@ Your browser does not support the audio tag.
 <link rel="stylesheet" href="APlayer.min.css">
 <div id="aplayer"></div>
 <script src="APlayer.min.js"></script>
+
+<scripttype="text/javascript">
 const ap = new APlayer({
     container: document.getElementById('player'),
     mini: false,
@@ -266,5 +268,6 @@ const ap = new APlayer({
         }
     ]
 });
+</script>
 
 </html>
