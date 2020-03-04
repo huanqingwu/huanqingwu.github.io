@@ -33,23 +33,35 @@ tags:
 <body>
   <table width="400" height="100" border="0" cellpadding="0" cellspacing="0">
   <tr>
-      <td id="showbfq" height="20" align="left" bgcolor="#D9D9D9" onclick="if(bfq.style.display=='none'){bfq.style.display='';showbfq.innerText='　中文版序 ↑';}else{bfq.style.display='none';showbfq.innerText='　中文版序 ↓';}">　中文版序 ↓</td>
+      <td id="showbfq" height="20" align="left" bgcolor="#F0F0F0" onclick="if(bfq.style.display=='none'){bfq.style.display='';showbfq.innerText='　中文版序  ↑';}else{bfq.style.display='none';showbfq.innerText='　中文版序 ↓';}">　中文版序 ↓</td>
   </tr>
   <tr>
-      <td height="80" align="left" bgcolor="#F0F0F0" id="bfq" style="display:none;"><audio src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VjVExoR1hMdDNkQXZyTWpxeXBSamRzQnRaRF9WUXM2SmxxTEt3VnNXUUVOd0E/ZT1tbGV0NWw=.mp3" controls="controls">
-      Your browser does not support the audio tag.
-      </audio>
+      <td height="80" align="left" bgcolor="#FAFAFA" id="bfq" style="display:none;">
+      001 中文版序：
+      <audio src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VjVExoR1hMdDNkQXZyTWpxeXBSamRzQnRaRF9WUXM2SmxxTEt3VnNXUUVOd0E/ZT1tbGV0NWw=.mp3" controls="controls">
+      Your browser does not support the audio tag. </audio>
       </td>
   </tr>
   </table>
 </body>
 </html>
 
-
-002 导言
-<audio src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VhVzBUS0dlVXk1TW5odmJva3FFb1A4QnRnWkVMdFIxNHBfcm9qVGhMSWdwV1E/ZT1VbmxBblc=.mp3" controls="controls">
-Your browser does not support the audio tag.
-</audio>
+<html>
+<body>
+  <table width="400" height="100" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+      <td id="showbfq" height="20" align="left" bgcolor="#F0F0F0" onclick="if(bfq.style.display=='none'){bfq.style.display='';showbfq.innerText='　导言  ↑';}else{bfq.style.display='none';showbfq.innerText='　导言 ↓';}">　导言 ↓</td>
+  </tr>
+  <tr>
+      <td height="80" align="left" bgcolor="#FAFAFA" id="bfq" style="display:none;">
+      002 导言：
+      <audio src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VhVzBUS0dlVXk1TW5odmJva3FFb1A4QnRnWkVMdFIxNHBfcm9qVGhMSWdwV1E/ZT1VbmxBblc=.mp3" controls="controls">
+      Your browser does not support the audio tag. </audio>
+      </td>
+  </tr>
+  </table>
+</body>
+</html>
 
 
 003 我的探险召唤（1949—1967年）
