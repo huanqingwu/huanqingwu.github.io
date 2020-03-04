@@ -232,7 +232,7 @@ Your browser does not support the audio tag.
 
 049 结语及附录
 
-<!DOCTYPE html>
+
 <html>
 <head>
     <link href="https://cdn.bootcss.com/aplayer/1.10.1/APlayer.min.css" rel="stylesheet">
@@ -245,6 +245,8 @@ Your browser does not support the audio tag.
 <body>
     <div class="demo">
         <p><strong>自制音乐播放器</strong></p>
+        <div id="player1">
+        </div>
     </div>
     <script>
         var ap = new APlayer
