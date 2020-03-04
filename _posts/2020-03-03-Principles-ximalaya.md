@@ -29,7 +29,7 @@ tags:
 ------
 
 
-<html>
+
 <body>
   <table width="400" height="100" border="0" cellpadding="0" cellspacing="0">
   <tr>
@@ -44,9 +44,7 @@ tags:
   </tr>
   </table>
 </body>
-</html>
 
-<html>
 <body>
   <table width="400" height="100" border="0" cellpadding="0" cellspacing="0">
   <tr>
@@ -61,7 +59,7 @@ tags:
   </tr>
   </table>
 </body>
-</html>
+
 
 
 003 我的探险召唤（1949—1967年）
