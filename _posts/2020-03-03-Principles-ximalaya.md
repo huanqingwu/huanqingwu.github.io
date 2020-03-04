@@ -254,7 +254,7 @@ Your browser does not support the audio tag.
                     element: document.getElementById('player1'),
                     narrow: false,
                     autoplay: true,
-                    showlrc: true,
+                    showlrc: false,
                     music: {
                             title: '遇见',
                             author: '孙燕姿',
