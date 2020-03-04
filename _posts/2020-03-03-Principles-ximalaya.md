@@ -264,7 +264,6 @@ Your browser does not support the audio tag.
                   mutex: true,
                   listFolded: false,
                   listMaxHeight: 90,
-                  lrcType: 3,
                   audio: [
                       {
                           name: 'name1',
