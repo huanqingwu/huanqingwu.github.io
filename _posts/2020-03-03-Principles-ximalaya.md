@@ -237,37 +237,44 @@ Your browser does not support the audio tag.
 <div id="aplayer"></div>
 <script src="APlayer.min.js"></script>
 
-<scripttype="text/javascript">
-const ap = new APlayer({
-    container: document.getElementById('player'),
-    mini: false,
-    autoplay: false,
-    theme: '#FADFA3',
-    loop: 'all',
-    order: 'random',
-    preload: 'auto',
-    volume: 0.7,
-    mutex: true,
-    listFolded: false,
-    listMaxHeight: 90,
-    lrcType: 3,
-    audio: [
-        {
-            name: 'name1',
-            artist: 'artist1',
-            url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/yourname.mp3',
-            cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.jpg',
-            theme: '#ebd0c2'
-        },
-        {
-            name: 'name2',
-            artist: 'artist2',
-            url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.mp3',
-            cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.jpg',
-            theme: '#46718b'
-        }
-    ]
-});
-</script>
+<head>
+    <meta charset="UTF-8">
+    <title>title</title>
+    <script type="text/javascript">
+    const ap = new APlayer({
+        container: document.getElementById('player'),
+        mini: false,
+        autoplay: false,
+        theme: '#FADFA3',
+        loop: 'all',
+        order: 'random',
+        preload: 'auto',
+        volume: 0.7,
+        mutex: true,
+        listFolded: false,
+        listMaxHeight: 90,
+        lrcType: 3,
+        audio: [
+            {
+                name: 'name1',
+                artist: 'artist1',
+                url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/yourname.mp3',
+                cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.jpg',
+                theme: '#ebd0c2'
+            },
+            {
+                name: 'name2',
+                artist: 'artist2',
+                url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.mp3',
+                cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.jpg',
+                theme: '#46718b'
+            }
+        ]
+    });
+    </script>
+</head>
+<body>
+</body>
+
 
 </html>
