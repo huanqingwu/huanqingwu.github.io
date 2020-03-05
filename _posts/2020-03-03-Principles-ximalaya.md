@@ -406,6 +406,13 @@ Your browser does not support the audio tag.
                           theme: '#46718b'
                       },
                       {
+                          name: '做到头脑极度开放（下）',
+                          artist: '《原则》',
+                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VVbENZTjA2RHhaUHRkbVUtQVI5MVpFQjU4ZlBuMnEzMjNZUWNHd25tWkRMSkE/ZT1NWHR1cmc=.mp3',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
+                          theme: '#46718b'
+                      },
+                      {
                           name: '理解人与人大不相同（上）',
                           artist: '《原则》',
                           url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VWTUVKNnJab1cxS2ozcmdLX25TWjlJQlN4eEhOTHFfbnEzVmRnd3hmUTJtQXc/ZT0ybnN5QkU=.mp3',
