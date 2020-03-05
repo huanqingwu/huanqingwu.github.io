@@ -404,20 +404,6 @@ OneDrive外链，加载可能有点慢，请耐心等待。
                           theme: '#46718b'
                       },
 
-                      {
-                          name: 'name1',
-                          artist: 'artist1',
-                          url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/yourname.mp3',
-                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
-                          theme: '#46718b'
-                      },
-                      {
-                          name: 'name2',
-                          artist: 'artist2',
-                          url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.mp3',
-                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
-                          theme: '#46718b'
-                      }
                   ]
                 });
         ap.init();
