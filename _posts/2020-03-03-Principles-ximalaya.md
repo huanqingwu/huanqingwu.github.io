@@ -266,6 +266,20 @@ Your browser does not support the audio tag.
                   listMaxHeight: 90,
                   audio: [
                       {
+                          name: '中文版序',
+                          artist: '原则',
+                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VjVExoR1hMdDNkQXZyTWpxeXBSamRzQnRaRF9WUXM2SmxxTEt3VnNXUUVOd0E/ZT1tbGV0NWw=.mp3',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '导言',
+                          artist: '原则',
+                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VhVzBUS0dlVXk1TW5odmJva3FFb1A4QnRnWkVMdFIxNHBfcm9qVGhMSWdwV1E/ZT1VbmxBblc=.mp3',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
+                          theme: '#46718b'
+                      },
+                      {
                           name: 'name1',
                           artist: 'artist1',
                           url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/yourname.mp3',
