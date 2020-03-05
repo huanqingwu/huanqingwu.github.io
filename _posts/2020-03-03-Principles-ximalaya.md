@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "有声书《原则》"
-subtitle: "喜马拉雅听|有声书|原则|瑞达利欧"
+subtitle: "喜马拉雅听 | 有声书 | 原则 | 瑞达利欧"
 author: "Huanqing"
 header-img: "img/post-bg-ray-dalio.jpg"
 header-mask: 0.3
@@ -276,6 +276,132 @@ Your browser does not support the audio tag.
                           name: '导言',
                           artist: '《原则》',
                           url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VhVzBUS0dlVXk1TW5odmJva3FFb1A4QnRnWkVMdFIxNHBfcm9qVGhMSWdwV1E/ZT1VbmxBblc=.mp3',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '我的探险召唤（1949—1967年）',
+                          artist: '《原则》',
+                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VWUmFpWDdydERwQmpMSTAwMFJHaTdFQmk3dkxVaE85eEVQVjVYSFJBVkJqeVE/ZT1RczNuZ3Q=.mp3',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '跨越门槛（1967—1979年）（上）',
+                          artist: '《原则》',
+                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VRRlhjcGZ1cXJsR3R1cDRRWXNjTF9FQkVwb3ZWbGNQUlh0eVFPRmxKUkI3Rnc/ZT1odlZncHk=.mp3',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '跨越门槛（1967—1979年）（下）',
+                          artist: '《原则》',
+                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VldXFDNzVBMmVWTm9iXzlIaERiVy1JQllMWjNiZkJuNVF6TnVFRDA1NFlHZHc/ZT1CUmlNRVo=.mp3',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '我的低谷（1979—1982）',
+                          artist: '《原则》',
+                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VmZDhxZGlwQ2t0SGc3WGZCa1IyVTRVQkxidU5pN1Vfc3lXNFU4SW9fcURJcUE/ZT1oeUhveFQ=.mp3',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '我的试炼之路（1983—1994）（上）',
+                          artist: '《原则》',
+                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VmTEJidVYtZHF0QXBHOXI3X2s5aGpjQjZFMU9xa2REVUVsM2ZGbWM4NktOd2c/ZT1FdklkQVU=.mp3',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '我的试炼之路（1983—1994）（中）',
+                          artist: '《原则》',
+                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0Vlb2I5Rlk2cnpoTm9FdkJlQ1M5R0swQmhCWFJtU3R2WE9yczR2S3JzYldGN1E/ZT1sQzdVV2Q=.mp3',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '我的试炼之路（1983—1994）（下）',
+                          artist: '《原则》',
+                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VXTDNIaVFHZzVsTGk4bTVCa3BFbGpRQkxnUXJJMkxjVXNCWENtcU5nNlZkSlE/ZT1jaGtiTzI=.mp3',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '终极恩惠（1995—2010）（上）',
+                          artist: '《原则》',
+                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VheTNNSGZzYnMxR2ptdk5ZZ05rSS1RQjVhRWdBN3JqWW5CLXZvQl9jcktLSWc/ZT1wM1lpbGI=.mp3',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '终极恩惠（1995—2010）（下）',
+                          artist: '《原则》',
+                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VhOHo4UDl5UlFsTG1YelE2dGludVFjQnpad3ZuOHJnZHlNSU5qWG5zcnd0MWc/ZT1Bb1dXSWQ=.mp3',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '回报恩惠（2011—2015）（上）',
+                          artist: '《原则》',
+                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VWM3V5Q1VNSVVsTnItS2Zqb0ZfWjVJQjFMUTl0R29nWUZON1l6ZFRyeTZoQlE/ZT0xWGxiWHc=.mp3',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '回报恩惠（2011—2015）（中）',
+                          artist: '《原则》',
+                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VRWDlvRWw5UXRkRnEtaXppeDJYWVdrQjI5dDJNRzlUUVRDdkhKUEswRGthN3c/ZT1wdkJMVTE=.mp3',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '回报恩惠（2011—2015）（下）',
+                          artist: '《原则》',
+                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0Vjd3ZySUFTU1pSRnJWbjdtVV9PckRjQkF4aFhrVFBncV9hblNWaDZ1WVlwVHc/ZT1qRWJqVFY=.mp3',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '最后的一年和最大的挑战（2016—2017）',
+                          artist: '《原则》',
+                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VaS0VsaUdkdlhwUGktWlpfR1RFOHJRQnVobUJQR3d2c0VmVVFqRTQ4U3pjNlE/ZT03aWNFS3U=.mp3',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '从更好的层面回顾',
+                          artist: '《原则》',
+                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VSR0daaGZQWGN0RXNBalRPWUZEVmpBQkQ4ZlBLVUFvckVSekNwclFWUjZ0d0E/ZT1lYXFzZFM=.mp3',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '拥抱现实，应对现实（上）',
+                          artist: '《原则》',
+                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VTVlF0SWZmdUpoSXV2b3J6YWd5YkxJQmxwUjhNdGdTeFVHUlZZa193OVpwRWc/ZT1HbjFKNDE=.mp3',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '拥抱现实，应对现实（下）',
+                          artist: '《原则》',
+                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VmZVBGd1hTN3ZwSm5vLVVqM1loX2JNQmZSRUY1WS1xdkpjcndPenIzRlJ1R3c/ZT1NSFNmN1U=.mp3',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '做到头脑极度开放（上）',
+                          artist: '《原则》',
+                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VWVjhfal9uS2xwQml0NUtiRndNejZFQmhQU05kN3R1ZmxSYUItSC1rZVJ1emc/ZT05R2xEZno=.mp3',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '做到头脑极度开放（中）',
+                          artist: '《原则》',
+                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VaVXg0Mmt0b1o5THJNU3diNTg4LVc0Ql9GQ1BnMXFSQnIzMHdzWUhMRlItTHc/ZT1xZUZXaDc=.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
                           theme: '#46718b'
                       },
