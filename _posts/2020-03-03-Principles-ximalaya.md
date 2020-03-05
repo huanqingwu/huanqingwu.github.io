@@ -269,14 +269,14 @@ Your browser does not support the audio tag.
                           name: 'name1',
                           artist: 'artist1',
                           url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/yourname.mp3',
-                          cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.jpg',
+                          cover: 'img\audio-bg-PRINCIPLES.jpg',
                           theme: '#ebd0c2'
                       },
                       {
                           name: 'name2',
                           artist: 'artist2',
                           url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.mp3',
-                          cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.jpg',
+                          cover: 'img\audio-bg-PRINCIPLES.jpg',
                           theme: '#46718b'
                       }
                   ]
