@@ -406,6 +406,41 @@ Your browser does not support the audio tag.
                           theme: '#46718b'
                       },
                       {
+                          name: '理解人与人大不相同（上）',
+                          artist: '《原则》',
+                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VWTUVKNnJab1cxS2ozcmdLX25TWjlJQlN4eEhOTHFfbnEzVmRnd3hmUTJtQXc/ZT0ybnN5QkU=.mp3',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '理解人与人大不相同（中）',
+                          artist: '《原则》',
+                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VUMU9rbTFSaUpsRm1QdUI0Ujh4Qld3Qm9LUlJOaGsxTm8tY3VSQnFoU2pLckE/ZT02U2Vib3A=.mp3',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '理解人与人大不相同（下）',
+                          artist: '《原则》',
+                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VZN2V4dzdaQmN4QXZQUXZhMXF1T09RQjQ4N2Ntb2Z1TER6SjR2Y2xTNnFtV2c/ZT1ISHpReW4=.mp3',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '学习如何有效决策（上）',
+                          artist: '《原则》',
+                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VTWTBEOGtjTFBGTGtrRVl2dG9aNXVVQjlObEs4cld6R1ZLaS1iUTI0TDhiVHc/ZT0wV2NBZjk=.mp3',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '学习如何有效决策（下）',
+                          artist: '《原则》',
+                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VZeGppSE1rZmRWTnJLZTdFeHdHejd3QlBHbWdNSEVQY19GaFRZU1cwT0x5UFE/ZT1pNVlGVko=.mp3',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
+                          theme: '#46718b'
+                      },
+                      {
                           name: 'name1',
                           artist: 'artist1',
                           url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/yourname.mp3',
