@@ -44,7 +44,7 @@ const dp = new DPlayer({
   },
   danmaku: {
         id: id,
-        api: 'https://dplayer.moerats.com/'    //这里填写弹幕地址
+        api: 'https://api.prprpr.me/dplayer/'    //这里填写弹幕地址
     }
 });
 </script>
