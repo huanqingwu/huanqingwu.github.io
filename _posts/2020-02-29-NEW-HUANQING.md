@@ -44,19 +44,19 @@ const dp = new DPlayer({
             {
                 name: '高清',
                 url: url,
-                type: 'hls',
+                //type: 'hls',
             },
             {
                 name: '标清',
                 url: url,
-                type: 'normal',
+                //type: 'normal',
             },
         ],
         defaultQuality: 0,
   },
-  danmaku: {
-        id: id,
-        api: 'https://api.prprpr.me/dplayer/'    //这里填写弹幕地址
+//  danmaku: {
+//        id: id,
+//        api: 'https://api.prprpr.me/dplayer/'    //这里填写弹幕地址
     }
 });
 </script>
