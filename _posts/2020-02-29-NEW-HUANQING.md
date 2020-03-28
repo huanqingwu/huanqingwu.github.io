@@ -53,7 +53,7 @@ const dp = new DPlayer({
             },
         ],
         defaultQuality: 0,
-  },
+  }//,
 //  danmaku: {
 //        id: id,
 //        api: 'https://api.prprpr.me/dplayer/'    //这里填写弹幕地址
