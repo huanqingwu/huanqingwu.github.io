@@ -43,7 +43,7 @@ var id=md5(url);
 const dp = new DPlayer({
     container: document.getElementById('dplayer'),
     video: {
-        url: 'magnet:?xt=urn:btih:508FFB0E2A3757767B36233A3A01BDD52483DDAC',
+        url: 'magnet:?xt=urn:btih:GXLTOK6HUYUR2OTAEW6KDVVFZ3KPXGYP',
         type: 'webtorrent',
     },
     pluginOptions: {
