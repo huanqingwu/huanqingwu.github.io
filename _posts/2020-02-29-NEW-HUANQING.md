@@ -12,15 +12,20 @@ tags:
 
 ## ~这里什么都没有~
 
-
-音频：
-<html>
-<audio src="https://link.gimhoy.com/sharepoint/aHR0cHM6Ly9wbWpzLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2hhd2tpbmd3dTE5OTUwOTMwX215MzY1X3R3L0VTYWZBdUVNTTRoR2tpdV9CTk5lOVRVQlBfM2lWZ0dxWVVnUHRvTXgwR2pyTEE/ZT0xY292Z20=.mp3" controls="controls">
-Your browser does not support the audio tag.
-</audio>
-</html>
-
-//试着播放一个视频
-//<html>
-//<video src="http://qiniu.swarma.org/newUser.mp4" controls="controls" width="100%" height="auto"/>
-//</html>
+front-matter example
+---
+layout:     post
+title:      "XXXX"
+subtitle:   " XXXX "
+date:       XXXX-XX-XX
+author:     "huanqing"
+header-img: "img/post-bg-XXXX.jpg"
+header-mask: 0.3 【？？？】
+catalog:      true
+multilingual: true
+mathjax:
+iframe:     "//xxxx.xxx/js-module-xxx/"
+tags: true
+    - XX
+    - XXXX
+---

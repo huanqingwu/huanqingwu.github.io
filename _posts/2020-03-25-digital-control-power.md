@@ -5,7 +5,6 @@ subtitle:   " 从快充识别芯片到数控可调电源 "
 date:       2020-03-25
 author:     "huanqing"
 header-img: "img/post-bg-digital-control-power.jpg"
-catalog: true
 tags:
     - 电源
     - 模拟电路
