@@ -44,10 +44,12 @@ const dp = new DPlayer({
             {
                 name: '高清',
                 url: url,
+                type: 'hls',
             },
             {
                 name: '标清',
                 url: url,
+                type: 'normal',
             },
         ],
         defaultQuality: 0,
