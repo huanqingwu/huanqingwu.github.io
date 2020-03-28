@@ -30,11 +30,8 @@ tags: true
     - XXXX
 ---
 
-播放器添加了对torrent的支持
-
 <link href="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.css" rel="stylesheet">
 <div id="dplayer"></div>
-<script src="https://cdn.bootcss.com/webtorrent/0.107.17/webtorrent.min.js"></script>
 <script src="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.js"></script>
 <script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script>
 <script>
@@ -43,16 +40,21 @@ var id=md5(url);
 const dp = new DPlayer({
     container: document.getElementById('dplayer'),
     video: {
-        url: 'magnet:?xt=urn:btih:508FFB0E2A3757767B36233A3A01BDD52483DDAC',
-        type: 'webtorrent',
-    },
-    pluginOptions: {
-        webtorrent: {
-            // webtorrent config
-        },
-    },
-});
-console.log(dp.plugins.webtorrent); // WebTorrent 实例
-
+        quality: [
+            {
+                name: '高清',
+                url: url,
+            },
+            {
+                name: '标清',
+                url: url,
+            },
+        ],
+        defaultQuality: 0,
+  },
+  danmaku: {
+        id: id,
+        api: 'https://api.prprpr.me/dplayer/'    //这里填写弹幕地址
+    }
 });
 </script>
