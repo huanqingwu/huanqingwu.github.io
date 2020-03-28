@@ -44,11 +44,12 @@ const dp = new DPlayer({
             {
                 name: '高清',
                 url: url,
-
+                //type: 'normal',
             },
             {
                 name: '标清',
-
+                url: url,
+                //type: 'normal',
             },
         ],
         defaultQuality: 0,
@@ -56,6 +57,6 @@ const dp = new DPlayer({
 //  danmaku: {
 //        id: id,
 //        api: 'https://api.prprpr.me/dplayer/'    //这里填写弹幕地址
-    }
+//    }
 });
 </script>
