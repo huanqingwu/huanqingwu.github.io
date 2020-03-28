@@ -40,7 +40,19 @@ var id=md5(url);
 const dp = new DPlayer({
     container: document.getElementById('dplayer'),
     video: {
-        url: url
+        quality: [
+            {
+                name: '高清',
+                url: url,
+                type: 'hls',
+            },
+            {
+                name: '标清',
+                url: url,
+                type: 'normal',
+            },
+        ],
+        defaultQuality: 0,
   },
   danmaku: {
         id: id,
