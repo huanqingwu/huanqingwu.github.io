@@ -29,3 +29,22 @@ tags: true
     - XX
     - XXXX
 ---
+
+<link href="https://www.moerats.com/usr/dplayer/DPlayer.min.css" rel="stylesheet">
+<div id="dplayer"></div>
+<script src="https://www.moerats.com/usr/dplayer/DPlayer.min.js"></script>
+<script src="https://cdnjs.loli.net/ajax/libs/blueimp-md5/2.10.0/js/md5.min.js"></script>
+<script>
+var url="https://csrc.vcloud.dogecdn.com/vcloud/17/v/20190424/1556036075_818c4125ec9c8cbc7a7a8a7cc1601512/1037/7d515b22c4958598c0fbd1e6290a5ca5.mp4";    //这里填写视频地址
+var id=md5(url);
+const dp = new DPlayer({
+    container: document.getElementById('dplayer'),
+    video: {
+        url: url
+  },
+  danmaku: {
+        id: id,
+        api: 'https://dplayer.moerats.com/'    //这里填写弹幕地址
+    }
+});
+</script>
