@@ -3,8 +3,8 @@ title: 欢庆的主页
 SEOTitle: 欢庆的主页 | huanqing’ Pages
 header-img: img/home-bg.jpg
 email: hawkingwu@gmail.com
-description: "关于程序与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 欢庆 的个人博客，与你一起发现更大的世界。"
-keyword: "huxpro, @huxpro, 欢庆的博客, Huanqing Blog, 博客, 个人网站, 互联网, Altium, 嵌入式, 设计"
+description: "关于电路与程序、产品与设计 | 欢庆, Geek, Electronic Engineer, Layout Engineer | 这里是 欢庆 的个人博客，与你一起发现更大的世界。"
+keyword: "huanqing, @huanqing, 欢庆的博客, Huanqing Blog, 博客, 个人网站, 互联网, Altium, 嵌入式, 设计"
 url: "https://huanqingwu.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
