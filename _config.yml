@@ -119,31 +119,19 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "乱序",
-        href: "http://mida.re/"
+        title: "吴川斌的博客",
+        href: "https://www.mr-wu.cn/"
     },{
-        title: "Sherry Wu",
-        href: "https://xuechundesign.github.io"
+        title: "稚晖的个人站",
+        href: "http://pengzhihui.com/"
     },{
-        title: "Luke 的自留地",
-        href: "http://hmqk1995.github.io"
+        title: "雷诺-玻尔兹曼的博客",
+        href: "http://blog.sina.com.cn/openuav"
     },{
-        title: "Ebn's Blog",
-        href: "http://ebnbin.com/"
+        title: "ELECTRONOOBS",
+        href: "https://electronoobs.com/"
     },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "JiyinYiyong",
-        href: "http://tiye.me/"
-    },{
-        title: "David's Game",
-        href: "https://www.ruoyaowu.com/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
+        title: "您的云端超级应用空间",
+        href: "https://www.uzer.me/"
     }
 ]
