@@ -18,13 +18,13 @@ tags:
 
 ### 下面提供一种方法使用API将公式转换成Markdown文本并插入Word
 
-##### 需要工具：
+#### 需要工具：
 
 1. 开发者账号，注册地址：[https://dashboard.mathpix.com](https://dashboard.mathpix.com)
 2. 信用卡一张
 3. **[Visual Studio](https://visualstudio.microsoft.com/zh-hans/downloads/)**
 
-##### 教程：
+#### 教程：
 
 1. 登陆开发者账号，填写信用卡信息，激活后会显示app_id和app_key
 2. 下载天若OCR项目源码，链接：[https://github.com/huanqingwu/MathpixOCR](https://github.com/huanqingwu/MathpixOCR)
@@ -33,6 +33,6 @@ tags:
 
 
 
-##### 使用方法：
+#### 使用方法：
 
 ![](https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzppOi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VYTkhrSm92R1ZWTnZhaV9TTTlDaWE4QmNubDNiUVd2YmNVN1F0d1EybTE5Nnc/ZT1RVTFFVDE=.gif)
