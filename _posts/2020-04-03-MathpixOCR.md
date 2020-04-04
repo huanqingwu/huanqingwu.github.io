@@ -4,7 +4,7 @@ title:      "MathpixOCR小工具"
 subtitle:   " 智能识别公式的小软件 "
 date:       2020-04-03
 author:     "Huanqing"
-header-img: "img/post-bg-digital-control-power.jpg"
+header-img: "img/post-bg-mathpix.jpg"
 tags:
     - Math
     - OCR
@@ -29,7 +29,7 @@ tags:
 1. 登陆开发者账号，填写信用卡信息，激活后会显示app_id和app_key
 2. 下载天若OCR项目源码，链接：[https://github.com/huanqingwu/MathpixOCR](https://github.com/huanqingwu/MathpixOCR)
 3. 双击下载的源码里的 **TrOCR.sln** 打开项目，搜索 **app_id** ，将 **app_id** 和 **app_key** 替换成你自己的。
-4. 点击 **生成 → 生成解决方案** ，快捷键 `Ctrl`+`Shift`+`B` 
+4. 点击 **生成 → 生成解决方案** ，快捷键 `Ctrl`+`Shift`+`B`
 
 
 
