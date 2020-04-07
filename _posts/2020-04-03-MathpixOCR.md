@@ -35,4 +35,12 @@ tags:
 
 #### 使用方法：
 
-![](https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzppOi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VYTkhrSm92R1ZWTnZhaV9TTTlDaWE4QmNubDNiUVd2YmNVN1F0d1EybTE5Nnc/ZT1RVTFFVDE=.gif)
+1. 使用MathYype：
+
+   ![](https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzppOi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VYTkhrSm92R1ZWTnZhaV9TTTlDaWE4QmNubDNiUVd2YmNVN1F0d1EybTE5Nnc/ZT1RVTFFVDE=.gif)
+
+   
+
+2. 作为程序员最爱使用的方法：将Markdown文本复制Typora，再导出Word公式
+
+<img src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzppOi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VmSDdWS0xvNHg1UG44dTlNQU1TUWRVQk9zT3lkUDhOZFhPc3RmQTE1RjBXV1E/ZT1mbmREQ0E=.jpg" style="zoom: 67%;" />
