@@ -3,4 +3,4 @@
 Hi, I am Huanqing, post-95 Electronics Engineer, I am passionate about product design, like to make some cool toys.  I am also a geek, [bilibili](https://space.bilibili.com/110937609) uploader. 
 
 
- Here is my [blog](https://huangqingwu.github.io), I will share some circuit knowledge, practical gadgets, open source small design here.
+ Here is my [blog](https://huangqingwu.github.io), I will share some circuit knowledge, practical gadgets, little open source design here.
