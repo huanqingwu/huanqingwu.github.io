@@ -24,6 +24,8 @@ tags:
 <img src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzppOi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VUckpNdkNuckJWSXV2b0xJWUJvVWxRQnZhTE43YmxOSGlzZFhEeFRWSklqMXc/ZT0wSVBOZng=.png" alt="source" style="zoom: 50%;" />
 
 $R_2$ 是电流采样电阻。当反馈电阻远大于 $R_2$ 时，反馈回路上的电流忽略不计。可以看出这是一个同向加法电路， $R_5$ 和 $R_3$ 分压取得 $V_{set}$ 和 $V_{o2}$ 的平均，$R_4$ 和 $R_1$ 构成了同向2倍放大。
+
+
 $$
 V_+ = {(V_{set} +V_{o2}) \over 2}
 $$
