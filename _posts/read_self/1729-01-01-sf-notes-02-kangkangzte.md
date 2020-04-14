@@ -16,12 +16,13 @@ tags:
 **菜逼前端，电子攻城狮欢庆祝康工拿大奖**
 
 
+Nokia Experts talk end-to-end 5G technology and the way forward
+
 <link href="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.css" rel="stylesheet">
 <div id="dplayer"></div>
 <script src="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.js"></script>
 <script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script>
 <script>
-var id=md5(url);
 const dp = new DPlayer({
     container: document.getElementById('dplayer'),
     autoplay: false,
