@@ -21,7 +21,6 @@ Nokia Experts talk end-to-end 5G technology and the way forward
 <link href="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.css" rel="stylesheet">
 <div id="dplayer"></div>
 <script src="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.js"></script>
-<script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script>
 <script>
 const dp = new DPlayer({
     container: document.getElementById('dplayer'),
