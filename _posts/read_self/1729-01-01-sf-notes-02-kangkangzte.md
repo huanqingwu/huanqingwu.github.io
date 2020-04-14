@@ -25,17 +25,8 @@ Nokia Experts talk end-to-end 5G technology and the way forward
 const dp = new DPlayer({
     container: document.getElementById('dplayer'),
     autoplay: false,
-    theme: '#FADFA3',
-    loop: true,
-    lang: 'zh-cn',
-    screenshot: true,
-    hotkey: true,
-    preload: 'auto',
-    volume: 0.7,
-    mutex: true,
     video: {
         url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp2Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0ViVW1lLXdYYVgxSXFuQjI4QTg1WjIwQjRWa245U1RsVnJqd3RrOVpET0FVeWc/ZT04b2F3aWE=.mp4',
-        type: 'auto',
     },
     subtitle: {
         url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VVN3NUbE5La05kTWlvSF8ybWVuRzV3QjM4cXZHQzhVbUIyc1lBOEFSNE9YV2c/ZT1pQkVLczM=.VTT',
