@@ -16,25 +16,33 @@ tags:
 **菜逼前端，电子攻城狮欢庆祝康工拿大奖**
 
 
-Nokia Experts talk end-to-end 5G technology and the way forward
-
 <link href="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.css" rel="stylesheet">
 <div id="dplayer"></div>
 <script src="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.js"></script>
+<script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script>
 <script>
+var url="https://eduinhk-my.sharepoint.com/personal/huanqing_eduinhk_onmicrosoft_com/Documents/urls/VIDEO/Nokia_Experts_talk_end-to-end_5G_technology_and_the_way_forward.mp4";    //这里填写视频地址
+var id=md5(url);
 const dp = new DPlayer({
     container: document.getElementById('dplayer'),
-    autoplay: false,
     video: {
-        url: 'https://eduinhk-my.sharepoint.com/personal/huanqing_eduinhk_onmicrosoft_com/Documents/urls/VIDEO/Nokia_Experts_talk_end-to-end_5G_technology_and_the_way_forward.mp4',
-    },
-    subtitle: {
-        url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VVN3NUbE5La05kTWlvSF8ybWVuRzV3QjM4cXZHQzhVbUIyc1lBOEFSNE9YV2c/ZT1pQkVLczM=.VTT',
-        type: 'webvtt',
-        fontSize: '25px',
-        bottom: '10%',
-        color: '#b7daff',
-    },
-
+        quality: [
+            {
+                name: '高清',
+                url: url,
+                //type: 'normal',
+            },
+            {
+                name: '标清',
+                url: url,
+                //type: 'normal',
+            },
+        ],
+        defaultQuality: 0,
+  }//,
+//  danmaku: {
+//        id: id,
+//        api: 'https://api.prprpr.me/dplayer/'    //这里填写弹幕地址
+//    }
 });
 </script>
