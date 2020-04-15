@@ -33,11 +33,6 @@ const dp = new DPlayer({
                 url: url,
                 //type: 'normal',
             },
-            {
-                name: '标清',
-                url: url,
-                //type: 'normal',
-            },
         ],
         defaultQuality: 0,
   }
