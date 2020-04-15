@@ -29,7 +29,7 @@ const dp = new DPlayer({
     video: {
         url: 'url',
         type: 'auto',
-    },
+    }
 
 //  danmaku: {
 //        id: id,
