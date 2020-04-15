@@ -43,13 +43,13 @@ const dp = new DPlayer({
         thumbnails: 'thumbnails.jpg',
         type: 'auto',
     },
-    subtitle: {
-        url: suburl,
-        type: 'webvtt',
-        fontSize: '25px',
-        bottom: '10%',
-        color: '#b7daff',
-    },
+//    subtitle: {
+//        url: suburl,
+//        type: 'webvtt',
+//        fontSize: '25px',
+//        bottom: '10%',
+//        color: '#b7daff',
+//    },
     contextmenu: [
         {
             text: 'custom1',
