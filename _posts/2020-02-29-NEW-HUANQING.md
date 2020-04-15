@@ -40,31 +40,28 @@ var suburl="https://csrc.vcloud.dogecdn.com/vcloud/17/v/20190424/1556036075_818c
 var id=md5(url);
 const dp = new DPlayer({
     container: document.getElementById('dplayer'),
+    autoplay: false,
+    theme: '#FADFA3',
+    loop: true,
+    lang: 'zh-cn',
+    screenshot: true,
+    hotkey: true,
+    preload: 'auto',
+    logo: 'logo.png',
+    volume: 0.7,
+    mutex: true,
     video: {
-        quality: [
-            {
-                name: '高清',
-                url: url,
-                //type: 'normal',
-            },
-            {
-                name: '标清',
-                url: url,
-                //type: 'normal',
-            },
-        ],
-        defaultQuality: 0,
-  },
-  subtitle: {
-    url: 'suburl',
-    type: 'webvtt',
-    fontSize: '25px',
-    bottom: '10%',
-    color: '#b7daff',
+        url: url,
+        pic: 'dplayer.png',
+        thumbnails: 'thumbnails.jpg',
+        type: 'auto',
     },
-//  danmaku: {
-//        id: id,
-//        api: 'https://api.prprpr.me/dplayer/'    //这里填写弹幕地址
-//    }
+    subtitle: {
+        url: suburl,
+        type: 'webvtt',
+        fontSize: '25px',
+        bottom: '10%',
+        color: '#b7daff',
+    },
 });
 </script>
