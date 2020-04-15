@@ -21,7 +21,7 @@ tags:
 <script src="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.js"></script>
 <script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script>
 <script>
-var url="https://eduinhk-my.sharepoint.com/personal/huanqing_eduinhk_onmicrosoft_com/Documents/urls/VIDEO/Nokia.mp4";    //这里填写视频地址
+var url="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp2Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VVS0JZLUl4VGl0RGxnMzhlOFVoaWtvQkJyN0lDNi00YnVwRUxRTXI1d1dSdlE/ZT1EZGowSUM=.mp4";    //这里填写视频地址
 var suburl="https://eduinhk-my.sharepoint.com/personal/huanqing_eduinhk_onmicrosoft_com/Documents/urls/VIDEO/Nokia.vtt";    //这里填写视频地址
 
 var id=md5(url);
