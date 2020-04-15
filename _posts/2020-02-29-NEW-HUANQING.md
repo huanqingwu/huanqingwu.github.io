@@ -61,7 +61,7 @@ const dp = new DPlayer({
     fontSize: '25px',
     bottom: '10%',
     color: '#b7daff',
-    }
+    },
 //  danmaku: {
 //        id: id,
 //        api: 'https://api.prprpr.me/dplayer/'    //这里填写弹幕地址
