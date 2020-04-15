@@ -28,7 +28,7 @@ const dp = new DPlayer({
     container: document.getElementById('dplayer'),
     video: {
         url: 'url',
-        type: 'auto'
+        type: 'auto',
     },
 
 //  danmaku: {
