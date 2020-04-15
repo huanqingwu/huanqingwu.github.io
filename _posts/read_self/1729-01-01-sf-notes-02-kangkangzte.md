@@ -27,27 +27,16 @@ var id=md5(url);
 const dp = new DPlayer({
     container: document.getElementById('dplayer'),
     video: {
-        quality: [
-            {
-                name: '高清',
-                url: url,
-                //type: 'normal',
-            },
-            {
-                name: '标清',
-                url: url,
-                //type: 'normal',
-            },
-        ],
-        defaultQuality: 0,
-        },
-        subtitle: {
-              url: 'suburl',
-              type: 'webvtt',
-              fontSize: '25px',
-              bottom: '10%',
-              color: '#b7daff',
-          },
+        url: 'url',
+        type: 'auto',
+    },
+    subtitle: {
+          url: 'suburl',
+          type: 'webvtt',
+          fontSize: '25px',
+          bottom: '10%',
+          color: '#b7daff',
+      },
 //  danmaku: {
 //        id: id,
 //        api: 'https://api.prprpr.me/dplayer/'    //这里填写弹幕地址
