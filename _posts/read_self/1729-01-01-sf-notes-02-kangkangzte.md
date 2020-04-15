@@ -41,7 +41,7 @@ const dp = new DPlayer({
         defaultQuality: 0,
         },
         subtitle: {
-              url: 'https://eduinhk-my.sharepoint.com/personal/huanqing_eduinhk_onmicrosoft_com/Documents/urls/VIDEO/Nokia_Experts_talk_end-to-end_5G_technology_and_the_way_forward.vtt',
+              url: "https://eduinhk-my.sharepoint.com/personal/huanqing_eduinhk_onmicrosoft_com/Documents/urls/VIDEO/Nokia_Experts_talk_end-to-end_5G_technology_and_the_way_forward.vtt",
               type: 'webvtt',
               fontSize: '25px',
               bottom: '10%',
