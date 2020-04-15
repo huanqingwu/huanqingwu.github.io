@@ -36,6 +36,7 @@ tags: true
 <script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script>
 <script>
 var url="https://csrc.vcloud.dogecdn.com/vcloud/17/v/20190424/1556036075_818c4125ec9c8cbc7a7a8a7cc1601512/1037/7d515b22c4958598c0fbd1e6290a5ca5.mp4";    //这里填写视频地址
+var suburl="https://csrc.vcloud.dogecdn.com/vcloud/17/v/20190424/1556036075_818c4125ec9c8cbc7a7a8a7cc1601512/1037/7d515b22c4958598c0fbd1e6290a5ca5.vtt";
 var id=md5(url);
 const dp = new DPlayer({
     container: document.getElementById('dplayer'),
@@ -53,7 +54,14 @@ const dp = new DPlayer({
             },
         ],
         defaultQuality: 0,
-  }//,
+  },
+  subtitle: {
+    url: 'suburl',
+    type: 'webvtt',
+    fontSize: '25px',
+    bottom: '10%',
+    color: '#b7daff',
+    }
 //  danmaku: {
 //        id: id,
 //        api: 'https://api.prprpr.me/dplayer/'    //这里填写弹幕地址
