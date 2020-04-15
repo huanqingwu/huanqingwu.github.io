@@ -26,7 +26,7 @@ const dp = new DPlayer({
     container: document.getElementById('dplayer'),
     autoplay: false,
     video: {
-        url: 'https://eduinhk-my.sharepoint.com/personal/huanqing_eduinhk_onmicrosoft_com/Documents/urls/VIDEO/Nokia%20Experts%20talk%20end-to-end%205G%20technology%20and%20the%20way%20forward.mp4',
+        url: 'https://eduinhk-my.sharepoint.com/personal/huanqing_eduinhk_onmicrosoft_com/Documents/urls/VIDEO/Nokia_Experts_talk_end-to-end_5G_technology_and_the_way_forward.mp4',
     },
     subtitle: {
         url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VVN3NUbE5La05kTWlvSF8ybWVuRzV3QjM4cXZHQzhVbUIyc1lBOEFSNE9YV2c/ZT1pQkVLczM=.VTT',
