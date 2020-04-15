@@ -51,13 +51,13 @@ const dp = new DPlayer({
     volume: 0.7,
     mutex: true,
     video: {
-        url: 'dplayer.mp4',
+        url: url,
         pic: 'dplayer.png',
         thumbnails: 'thumbnails.jpg',
         type: 'auto',
     },
     subtitle: {
-        url: 'dplayer.vtt',
+        url: suburl,
         type: 'webvtt',
         fontSize: '25px',
         bottom: '10%',
