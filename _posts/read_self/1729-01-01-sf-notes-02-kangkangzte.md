@@ -22,6 +22,7 @@ tags:
 <script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script>
 <script>
 var url="https://eduinhk-my.sharepoint.com/personal/huanqing_eduinhk_onmicrosoft_com/Documents/urls/VIDEO/Nokia_Experts_talk_end-to-end_5G_technology_and_the_way_forward.mp4";    //这里填写视频地址
+var suburl="https://eduinhk-my.sharepoint.com/personal/huanqing_eduinhk_onmicrosoft_com/Documents/urls/VIDEO/Nokia_Experts_talk_end-to-end_5G_technology_and_the_way_forward.vtt";    //这里填写视频地址
 var id=md5(url);
 const dp = new DPlayer({
     container: document.getElementById('dplayer'),
@@ -41,7 +42,7 @@ const dp = new DPlayer({
         defaultQuality: 0,
         },
         subtitle: {
-              url: "https://eduinhk-my.sharepoint.com/personal/huanqing_eduinhk_onmicrosoft_com/Documents/urls/VIDEO/Nokia_Experts_talk_end-to-end_5G_technology_and_the_way_forward.vtt",
+              url: 'suburl',
               type: 'webvtt',
               fontSize: '25px',
               bottom: '10%',
