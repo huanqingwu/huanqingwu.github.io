@@ -23,6 +23,7 @@ tags:
 <script>
 var url="https://eduinhk-my.sharepoint.com/personal/huanqing_eduinhk_onmicrosoft_com/Documents/urls/VIDEO/Nokia_Experts_talk_end-to-end_5G_technology_and_the_way_forward.mp4";    //这里填写视频地址
 var suburl="https://eduinhk-my.sharepoint.com/personal/huanqing_eduinhk_onmicrosoft_com/Documents/urls/VIDEO/Nokia_Experts_talk_end-to-end_5G_technology_and_the_way_forward.vtt";    //这里填写视频地址
+
 var id=md5(url);
 const dp = new DPlayer({
     container: document.getElementById('dplayer'),
