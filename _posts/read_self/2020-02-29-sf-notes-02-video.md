@@ -36,28 +36,18 @@ const dp = new DPlayer({
     volume: 0.7,
     mutex: true,
     video: {
-        url: 'dplayer.mp4',
-        pic: 'dplayer.png',
-        thumbnails: 'thumbnails.jpg',
+        url: 'url',
+        //pic: 'dplayer.png',
+        //thumbnails: 'thumbnails.jpg',
         type: 'auto',
     },
-    subtitle: {
-        url: 'dplayer.vtt',
-        type: 'webvtt',
-        fontSize: '25px',
-        bottom: '10%',
-        color: '#b7daff',
-    },
-    danmaku: {
-        id: '9E2E3368B56CDBB4',
-        api: 'https://api.prprpr.me/dplayer/',
-        token: 'tokendemo',
-        maximum: 1000,
-        addition: ['https://api.prprpr.me/dplayer/v3/bilibili?aid=4157142'],
-        user: 'DIYgod',
-        bottom: '15%',
-        unlimited: true,
-    },
+    //subtitle: {
+    //    url: 'dplayer.vtt',
+    //    type: 'webvtt',
+    //    fontSize: '25px',
+    //    bottom: '10%',
+    //    color: '#b7daff',
+    //},
     contextmenu: [
         {
             text: 'custom1',
