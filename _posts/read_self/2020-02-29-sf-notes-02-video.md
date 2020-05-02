@@ -71,3 +71,4 @@ const dp = new DPlayer({
         },
     ],
 });
+<script>
