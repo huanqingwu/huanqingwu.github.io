@@ -20,7 +20,7 @@ tags:
 <script src="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.js"></script>
 <script>
 var url="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9wbWpzLW15LnNoYXJlcG9pbnQuY29tLzp2Oi9nL3BlcnNvbmFsL2hhd2tpbmd3dTE5OTUwOTMwX215MzY1X3R3L0VaUmJKSmxGdF9sQnFoQVBzZVhnc2tvQndIWWNKdktYeXBMV0tsUUp0MTluTUE/ZT1uSUUxMk8=.mp4";    //这里填写视频地址
-var suburl="\_posts\video_sub\WestworldS03E01ParceDomine.vtt";
+//var suburl="\_posts\video_sub\WestworldS03E01ParceDomine.vtt";
 const dp = new DPlayer({
     container: document.getElementById('dplayer'),
     autoplay: false,
@@ -39,13 +39,13 @@ const dp = new DPlayer({
         thumbnails: 'thumbnails.jpg',
         type: 'auto',
     },
-    subtitle: {
-        url: suburl,
-        type: 'webvtt',
-        fontSize: '25px',
-        bottom: '10%',
-        color: '#b7daff',
-    },
+//    subtitle: {
+//        url: suburl,
+//        type: 'webvtt',
+//        fontSize: '25px',
+//        bottom: '10%',
+//        color: '#b7daff',
+//    },
     contextmenu: [
         {
             text: 'custom1',
