@@ -18,11 +18,9 @@ tags:
 <link href="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.css" rel="stylesheet">
 <div id="dplayer"></div>
 <script src="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.js"></script>
-<script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script>
 <script>
 var url="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9wbWpzLW15LnNoYXJlcG9pbnQuY29tLzp2Oi9nL3BlcnNvbmFsL2hhd2tpbmd3dTE5OTUwOTMwX215MzY1X3R3L0VaUmJKSmxGdF9sQnFoQVBzZVhnc2tvQndIWWNKdktYeXBMV0tsUUp0MTluTUE/ZT1uSUUxMk8=.mp4";    //这里填写视频地址
 var suburl="\_posts\video_sub\WestworldS03E01ParceDomine.vtt";
-var id=md5(url);
 const dp = new DPlayer({
     container: document.getElementById('dplayer'),
     autoplay: false,
