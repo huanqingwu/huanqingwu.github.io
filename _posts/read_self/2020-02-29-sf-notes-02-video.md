@@ -20,7 +20,7 @@ tags:
 <script src="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.js"></script>
 <script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script>
 <script>
-var url="https://pmjs-my.sharepoint.com/personal/huanqingsmovie_my365_tw/Documents/WestWorldS03/Westworld.S03E01.Parce.Domine.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Westworld.S03E01.Parce.Domine.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mp4";    //这里填写视频地址
+var url="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9wbWpzLW15LnNoYXJlcG9pbnQuY29tLzp2Oi9nL3BlcnNvbmFsL2hhd2tpbmd3dTE5OTUwOTMwX215MzY1X3R3L0VaUmJKSmxGdF9sQnFoQVBzZVhnc2tvQndIWWNKdktYeXBMV0tsUUp0MTluTUE/ZT1uSUUxMk8=.mp4";    //这里填写视频地址
 var suburl="\_posts\video_sub\WestworldS03E01ParceDomine.vtt";
 var id=md5(url);
 const dp = new DPlayer({
