@@ -19,7 +19,7 @@ tags:
 <div id="dplayer"></div>
 <script src="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.js"></script>
 <script>
-var url="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9wbWpzLW15LnNoYXJlcG9pbnQuY29tLzp2Oi9nL3BlcnNvbmFsL2hhd2tpbmd3dTE5OTUwOTMwX215MzY1X3R3L0VaUmJKSmxGdF9sQnFoQVBzZVhnc2tvQndIWWNKdktYeXBMV0tsUUp0MTluTUE/ZT1uSUUxMk8=.mp4";    //这里填写视频地址
+var url="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9wbWpzLW15LnNoYXJlcG9pbnQuY29tLzp2Oi9nL3BlcnNvbmFsL2hhd2tpbmd3dTE5OTUwOTMwX215MzY1X3R3L0VXTVk1cVRLelpCTXI1dVZMWGYtNF9FQmtyTzIyQ05sWUV0T3lPcm15Y0ZLWmc/ZT1mZlBCUnk=.mp4";    //这里填写视频地址
 //var suburl="\_posts\video_sub\WestworldS03E01ParceDomine.vtt";
 const dp = new DPlayer({
     container: document.getElementById('dplayer'),
