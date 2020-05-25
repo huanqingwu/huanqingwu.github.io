@@ -6,6 +6,7 @@ date:       2020-04-12
 author:     "huanqing"
 header-img: "img/post-bg-digital-control-power.jpg"
 mathjax: true
+catalog: true
 tags:
     - 电源
     - 模拟电路
@@ -51,7 +52,7 @@ $V_{set}$ 被传递到 $R_2$ 上，$R_2$ 上电流 $i= {V_{set} \over R_2}$
 
 <img src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzppOi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VVdEI1ZE1HU3FOQ2ppRHNweGstZVljQkZCQmlBQUk1Tkk1QUJSSGM2Y25qd2c/ZT1nNzdMaks=.png" alt="sink1" style="zoom: 50%;" />
 
-推导一遍也会得到  $V_{o2} - V_{o1} = V_{set}$ 
+推导一遍也会得到  $V_{o2} - V_{o1} = V_{set}$
 
 此电路的优点是即使恒流源输出的电位低到0.3V，运放仍能吸收几百uA的电流，而几百uA电流能在100K电阻上叠加几十V的电压！
 
