@@ -22,7 +22,7 @@ tags:
 
 先上原理图：
 
-<img src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzppOi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VUckpNdkNuckJWSXV2b0xJWUJvVWxRQnZhTE43YmxOSGlzZFhEeFRWSklqMXc/ZT0wSVBOZng=.png" alt="source" style="zoom: 50%;" />
+<img src="https://files.catbox.moe/44s4vf.jpg" alt="source" style="zoom: 50%;" />
 
 $R_2$ 是电流采样电阻。当反馈电阻远大于 $R_2$ 时，反馈回路上的电流忽略不计。可以看出这是一个同向加法电路， $R_5$ 和 $R_3$ 分压取得 $V_{set}$ 和 $V_{o2}$ 的平均，$R_4$ 和 $R_1$ 构成了同向2倍放大。
 
@@ -50,12 +50,12 @@ $V_{set}$ 被传递到 $R_2$ 上，$R_2$ 上电流 $i= {V_{set} \over R_2}$
 
 直觉告诉我，将 $R_2$ 两端的采样线交换一下，就会得到电流灌入运放的恒流源
 
-<img src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzppOi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VVdEI1ZE1HU3FOQ2ppRHNweGstZVljQkZCQmlBQUk1Tkk1QUJSSGM2Y25qd2c/ZT1nNzdMaks=.png" alt="sink1" style="zoom: 50%;" />
+<img src="https://files.catbox.moe/8kr4rg.jpg" alt="sink1" style="zoom: 50%;" />
 
 推导一遍也会得到  $V_{o2} - V_{o1} = V_{set}$
 
 此电路的优点是即使恒流源输出的电位低到0.3V，运放仍能吸收几百uA的电流，而几百uA电流能在100K电阻上叠加几十V的电压！
 
-<img src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzppOi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VSd3ZFbXpWV0o1UGd0ZzFBVDExX2xvQmpSTS1TWEt3d0V2UU03VjZBb1VNdXc/ZT1NeGpRVjM=.png" alt="sink2" style="zoom: 50%;" />
+<img src="https://files.catbox.moe/ccf94o.jpg" alt="sink2" style="zoom: 50%;" />
 
 至此，普通DC-DC变身数字可调电源的方案算是完善了。相信FP6601这样的快充协议芯片，内部也是类似的结构吧？
