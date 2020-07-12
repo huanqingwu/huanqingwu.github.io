@@ -216,49 +216,49 @@ OneDrive外链，加载可能有点慢，请耐心等待。
                       {
                           name: '第15章 科学与帝国的联姻（1）',
                           artist: '《人类简史》',
-                          url: 'mp3',
+                          url: 'https://files.catbox.moe/1xgmw8.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第15章 科学与帝国的联姻（2）',
                           artist: '《人类简史》',
-                          url: 'mp3',
+                          url: 'https://files.catbox.moe/plwa8z.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第16章 资本主义教条（1）',
                           artist: '《人类简史》',
-                          url: 'mp3',
+                          url: 'https://files.catbox.moe/ze9dpw.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第16章 资本主义教条（2）',
                           artist: '《人类简史》',
-                          url: 'mp3',
+                          url: 'https://files.catbox.moe/bdw5ms.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第17章 工业的巨轮',
                           artist: '《人类简史》',
-                          url: 'mp3',
+                          url: 'https://files.catbox.moe/oma0bs.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第18章 一场永远的革命（1）',
                           artist: '《人类简史》',
-                          url: 'mp3',
+                          url: 'https://files.catbox.moe/x5ff77.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第18章 一场永远的革命（2）',
                           artist: '《人类简史》',
-                          url: 'mp3',
+                          url: 'https://files.catbox.moe/fsc0ol.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
