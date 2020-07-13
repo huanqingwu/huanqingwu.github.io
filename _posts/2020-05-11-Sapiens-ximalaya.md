@@ -265,42 +265,42 @@ OneDrive外链，加载可能有点慢，请耐心等待。
                       {
                           name: '第19章 从此过着幸福快乐的日子（1）',
                           artist: '《人类简史》',
-                          url: 'mp3',
+                          url: 'https://files.catbox.moe/y8alpt.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第19章 从此过着幸福快乐的日子（2）',
                           artist: '《人类简史》',
-                          url: 'mp3',
+                          url: 'https://files.catbox.moe/x7ejmi.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第20章 智人末日（1）',
                           artist: '《人类简史》',
-                          url: 'mp3',
+                          url: 'https://files.catbox.moe/qgc4wk.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第20章 智人末日（2）',
                           artist: '《人类简史》',
-                          url: 'mp3',
+                          url: 'https://files.catbox.moe/yqij09.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '后记',
                           artist: '《人类简史》',
-                          url: 'mp3',
+                          url: 'https://files.catbox.moe/eoview.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '致谢',
                           artist: '《人类简史》',
-                          url: 'mp3',
+                          url: 'https://files.catbox.moe/cu36bb.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
