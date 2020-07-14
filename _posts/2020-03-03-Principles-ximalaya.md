@@ -268,133 +268,133 @@ APlayer
                       {
                           name: '做有意义的工作，发展有意义的人际关系',
                           artist: '《原则》',
-                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VaWEVPTVk3OTgxSXNhVkNBamVWV0RZQm9iQ0xrMy16V0dNX0lDWDFsbTFpMWc/ZT11a2c4anI=.mp3',
+                          url: 'https://files.catbox.moe/x0a5id.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '打造允许犯错，但不容忍罔顾教训、一错再错的文化',
                           artist: '《原则》',
-                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VVakxWbWMzMGw5Rm80eV9TWXJXU3RVQjZGeTVEZXZMc3UxWWUtekV4THpubnc/ZT1KenpNVXQ=.mp3',
+                          url: 'hhttps://files.catbox.moe/y25uej.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '求取共识并坚持',
                           artist: '《原则》',
-                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0ViUzJLUGhFRExST3VicWg3aU43WWVrQmxSc1dDa0NlLVlIcHREWkF0RWsyQUE/ZT03QmhlTXA=.mp3',
+                          url: 'https://files.catbox.moe/wwuymm.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '做决策时要从观点的可信度出发',
                           artist: '《原则》',
-                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VjemQteTF1aUNaQW5VX084alluS2VBQlA3MTk5UWRzT2JpbnRzem5UODFjSnc/ZT1MY2VBWGQ=.mp3',
+                          url: 'https://files.catbox.moe/jukgf9.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '知道如何超越分歧',
                           artist: '《原则》',
-                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0Vld1JLT2h0WGRoR3AycVNlSG9KVHVVQnVkWjBzcFpub2VSTVZIMUdPb1lYYXc/ZT0xaVdsWjA=.mp3',
+                          url: 'https://files.catbox.moe/4u2254.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '比做什么事更重要的是找对做事的人',
                           artist: '《原则》',
-                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VTdDVoWUd3cVhoRHJ5VlBoNnRoUGNjQkRrYjI3YTlHZnlpM25PYlNSNzdIbUE/ZT11ZlBUc3E=.mp3',
+                          url: 'https://files.catbox.moe/r7akk1.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '要用对人，因为用人不当的代价高昂',
                           artist: '《原则》',
-                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VWUC01SU5NQ3BaSW4xSHRBSUh1cjJNQndrVjZ1TU9GQjZtYmlPSWZlRUdhWXc/ZT1lYVF3UGs=.mp3',
+                          url: 'https://files.catbox.moe/uqkk5g.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '持续培训、测试、评估和调配员工（上）',
                           artist: '《原则》',
-                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0ViVXpiazEybkpkQnJqZEJRZDdBRnJNQlQ3ZG5mVUlQUlZpWFQ0ZUFldUFLeFE/ZT1lMmJWcGs=.mp3',
+                          url: 'https://files.catbox.moe/5te62q.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '持续培训、测试、评估和调配员工（下）',
                           artist: '《原则》',
-                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0Viby1FLXNSNnVGSGloRUllcmRIb0hFQm9uUGNOeWpyUWE1SUpuZkNzMWsybVE/ZT1naVJYYVk=.mp3',
+                          url: 'https://files.catbox.moe/j0t4dh.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '像操作一部机器那样进行管理以实现目标（上）',
                           artist: '《原则》',
-                          url: 'https://eduinhk-my.sharepoint.com/:u:/g/personal/huanqing_eduinhk_onmicrosoft_com/EdafoXy7GGRIscrIlHXmHAcB5OKoCEfnVMwTxCZYunPAJQ?e=KzQgVa',
+                          url: 'https://files.catbox.moe/vwu68s.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '像操作一部机器那样进行管理以实现目标（下）',
                           artist: '《原则》',
-                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VSRTU3RTl5OGVaUHMxN0toYlZ6T21ZQnY2SzJWTUY4NXpiOFFzRU5VVjZPenc/ZT1iYk05UDY=.mp3',
+                          url: 'https://files.catbox.moe/ws4ahb.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '发现问题，不容忍问题',
                           artist: '《原则》',
-                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VVRGsyc3VCYm94Rmdpc3RyT29lV25RQi03SWIzUUVFdXVQdnh1Z2xlUzRpbXc/ZT1oSW9zRmQ=.mp3',
+                          url: 'https://files.catbox.moe/ory7zh.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '诊断问题，探究根源',
                           artist: '《原则》',
-                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VTYURlT2pqVTB4TGhiVWhsNEtsWkdnQmN3SWt0TF84clBiaDZ2V0JUTy1IN1E/ZT0wVlhzSGg=.mp3',
+                          url: 'https://files.catbox.moe/ub6x5w.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '改进机器，解决问题（上）',
                           artist: '《原则》',
-                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VmZVNJVUlzZHVkR2dkbmszY2ZwaHpRQlZBenZ5dmFPQk04YlVlelN3M092Nnc/ZT1ybFpIbUo=.mp3',
+                          url: 'https://files.catbox.moe/tp9fyg.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '改进机器，解决问题（下）',
                           artist: '《原则》',
-                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VUNXFRY2VzUlhwR3J2VS1aUmc1ampZQk9XLUlCQjM4ZkJPWGN0TlNOeC1GZXc/ZT1sMllsVG8=.mp3',
+                          url: 'https://files.catbox.moe/w4lwe7.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '按既定计划行事',
                           artist: '《原则》',
-                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VVQlpRYW5oRjZ0Q3BzNXQ1bkRMUjN3Qks1aXE5Rkpha3AzSG9QSUhNbEJUWEE/ZT15R1BhNHk=.mp3',
+                          url: 'https://files.catbox.moe/7l33tg.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '运用工具和行为准则指导工作',
                           artist: '《原则》',
-                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VmcWV0TUlaXzVwQW1RWnFVb1JvWEVnQnBCVld4cXlLbmcyNUZRaU13a1lpR0E/ZT1RRFk5UEE=.mp3',
+                          url: 'https://files.catbox.moe/5nvvme.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '千万别忽视了公司治理',
                           artist: '《原则》',
-                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VZZzNwVXZhR2ZORGcxMG9GblFFeWJNQmY5OTZPVVVIbWxORURmQTNXZi03UVE/ZT1seGNod3k=.mp3',
+                          url: 'https://files.catbox.moe/ubzatt.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '结语及附录',
                           artist: '《原则》',
-                          url: 'https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9lZHVpbmhrLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL2h1YW5xaW5nX2VkdWluaGtfb25taWNyb3NvZnRfY29tL0VZdVl6ejF4QVhCSW1qNEFYNmRPTXJrQksxMmNuZnBVNF8tVGs0a1djQktxdGc/ZT1EYTY4V1Q=.mp3',
+                          url: 'https://files.catbox.moe/bnow56.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
                           theme: '#46718b'
                       },

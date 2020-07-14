@@ -20,7 +20,7 @@ tags:
 
 ------
 
-OneDrive外链，加载可能有点慢，请耐心等待。
+APlayer
 
 <html>
 <head>
