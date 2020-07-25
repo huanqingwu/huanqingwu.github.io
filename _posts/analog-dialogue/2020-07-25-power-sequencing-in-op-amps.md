@@ -4,7 +4,7 @@ title:      "运算放大器电源上电时序导致的风险分析"
 subtitle:   " Analog Dialogue 50卷4期 OCT 2016 "
 date:       2020-07-25
 author:     "huanqing"
-header-img: "img/post-bg-digital-control-power.jpg"
+header-img: "https://uploader.shimo.im/f/wZnKIC2QZu5Q372c.png"
 mathjax: true
 catalog: true
 tags:
@@ -1026,7 +1026,7 @@ mA电流流经芯片。由此产生的功耗为48 mA × (–2.5 V + 15 V) =
 [ADA4177](https://www.analog.com/cn/products/ADA4177-1.html). ADI公司。
 
 > Arkin, Michael and Eric Modica. "[鲁棒的放大器提供集成过压保护。](https://www.analog.com/cn/analog-dialogue/articles/robust-amplifiers-provide-integrated-overvoltage-protection.html)"《模拟对话》，第46卷，第1期，2012年。
-> 
+>
 > Blanchard, Paul and Brian Pelletier. "[ESD二极管用于电压箝位.](https://www.analog.com/cn/analog-dialogue/articles/esd-diodes-as-voltage-clamps.html)"《模拟对话》，第49卷，第10期，2015年。
 
 欲了解更多有关ADA4177和ADA4077的信息，请参见产品页面和数 据手册[ADA4177](https://www.analog.com/cn/products/ada4177-2.html) 和 [ADA4077](https://www.analog.com/cn/products/ADA4077-2.html)。
