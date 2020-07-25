@@ -4,7 +4,7 @@ title:      "运算放大器电源上电时序导致的风险分析"
 subtitle:   " Analog Dialogue 50卷4期 OCT 2016 "
 date:       2020-07-25
 author:     "huanqing"
-header-img: "https://uploader.shimo.im/f/wZnKIC2QZu5Q372c.png"
+header-img: "img/post-bg-power-sequencing-in-op-amps.png"
 mathjax: true
 catalog: true
 tags:
