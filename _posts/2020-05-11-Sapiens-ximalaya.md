@@ -33,7 +33,7 @@ APlayer
 </head>
 <body>
     <div class="demo">
-        <p><strong>在线播放</strong></p>
+        <p><strong>蓝奏云播放</strong></p>
         <div id="player1">
         </div>
     </div>
@@ -314,7 +314,7 @@ APlayer
     </div>
 
     <div class="demo">
-        <p><strong>catbox</strong></p>
+        <p><strong>catbox播放</strong></p>
         <div id="player2">
         </div>
     </div>
