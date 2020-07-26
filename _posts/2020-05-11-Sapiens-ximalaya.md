@@ -55,14 +55,14 @@ APlayer
                       {
                           name: '第1章 人类：一种也没什么特别的动物（1）',
                           artist: '《人类简史》',
-                          url: 'https://files.catbox.moe/00h1k9.mp3',
+                          url: 'https://attachments-cdn.shimo.im/roUkyJOocWp3Ezez.m4a',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第1章 人类：一种也没什么特别的动物（2）',
                           artist: '《人类简史》',
-                          url: 'https://files.catbox.moe/4jy9wd.mp3',
+                          url: 'https://attachments-cdn.shimo.im/wktGlFurJyVkypcG.m4a',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
