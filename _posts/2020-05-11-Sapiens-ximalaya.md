@@ -27,7 +27,7 @@ APlayer
     <link href="https://cdn.bootcss.com/aplayer/1.10.1/APlayer.min.css" rel="stylesheet">
     <script src="https://cdn.bootcss.com/aplayer/1.10.1/APlayer.min.js"></script>
     <style>
-        .demo{width:340px;margin:60px auto 10px auto}
+        .demo{width:auto;margin:60px auto 10px auto}
         .demo p{padding:10px 0}
     </style>
 </head>
