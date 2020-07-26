@@ -48,7 +48,7 @@ APlayer
                   autoplay: false,
                   theme: '#FADFA3',
                   loop: 'all',
-                  order: 'random',
+                  order: 'list',
                   preload: 'auto',
                   volume: 0.7,
                   mutex: true,
