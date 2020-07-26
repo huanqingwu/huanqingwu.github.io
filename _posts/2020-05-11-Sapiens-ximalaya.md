@@ -55,7 +55,7 @@ APlayer
                       {
                           name: '第1章 人类：一种也没什么特别的动物（1）',
                           artist: '《人类简史》',
-                          url: 'https://files.catbox.moe/4t0eci.mp3',
+                          url: 'http://note.youdao.com/yws/public/resource/c82bdf193ae1ce6c47805e8f0c4bea6c/xmlnote/WEBRESOURCEfaba9b2b3d97f7ca2e9985060c03f15f/12',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
