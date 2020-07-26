@@ -307,6 +307,6 @@ APlayer
 
                   ]
                 });
-        ap.init();
+        ap1.init();
     </script>
 </body>
