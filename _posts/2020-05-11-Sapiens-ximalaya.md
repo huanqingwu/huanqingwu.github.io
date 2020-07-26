@@ -313,6 +313,11 @@ APlayer
     </script>
     </div>
 
+    <div class="demo">
+        <p><strong>在线播放2</strong></p>
+        <div id="player2">
+        </div>
+    </div>
     <div>
     <script>
         var ap2 = new APlayer
