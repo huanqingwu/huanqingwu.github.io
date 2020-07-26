@@ -58,7 +58,8 @@ APlayer
                       {
                           name: '中文版序',
                           artist: '《原则》',
-                          url: 'https://files.catbox.moe/ydrtd9.mp3',
+                          url: 'https://yiqixie.com/d/loadimage?id=-4805362471166820524',
+                          //url: 'https://files.catbox.moe/ydrtd9.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-PRINCIPLES.jpg',
                           theme: '#46718b'
                       },
