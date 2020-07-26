@@ -69,7 +69,7 @@ APlayer
                       {
                           name: '第2章 知善恶树（1）',
                           artist: '《人类简史》',
-                          url: 'https://files.catbox.moe/0ipm9d.mp3',
+                          url: 'https://attachments-cdn.shimo.im/VUmqxouNpEcTewG4.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
