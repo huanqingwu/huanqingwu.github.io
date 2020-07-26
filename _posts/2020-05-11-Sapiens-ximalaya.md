@@ -314,7 +314,7 @@ APlayer
     </div>
 
     <div class="demo">
-        <p><strong>在线播放2</strong></p>
+        <p><strong>catbox</strong></p>
         <div id="player2">
         </div>
     </div>
@@ -331,7 +331,7 @@ APlayer
                   preload: 'auto',
                   volume: 0.7,
                   mutex: true,
-                  listFolded: false,
+                  listFolded: true,    //第二个catbox源较慢，默认折叠
                   listMaxHeight: 90,
                   audio: [
                       {
