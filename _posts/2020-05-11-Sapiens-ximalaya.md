@@ -64,84 +64,84 @@ APlayer ↓
                       {
                           name: '第1章 人类：一种也没什么特别的动物（2）',
                           artist: '《人类简史》',
-                          url: 'https://files.catbox.moe/i7ze43.mp3',
+                          url: 'https://api.pingping6.com/tools/lanzou/?down&url=https://huanqing.lanzous.com/i0lfmf0r2ed',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第2章 知善恶树（1）',
                           artist: '《人类简史》',
-                          url: 'https://files.catbox.moe/90vhh5.mp3',
+                          url: 'https://api.pingping6.com/tools/lanzou/?down&url=https://huanqing.lanzous.com/iGK4bf0r2fe',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第2章 知善恶树（2）',
                           artist: '《人类简史》',
-                          url: 'https://files.catbox.moe/kof1ij.mp3',
+                          url: 'https://api.pingping6.com/tools/lanzou/?down&url=https://huanqing.lanzous.com/ilYnqf0r2gf',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第3章 亚当和夏娃的一天（1）',
                           artist: '《人类简史》',
-                          url: 'https://files.catbox.moe/0l69a3.mp3',
+                          url: 'https://api.pingping6.com/tools/lanzou/?down&url=https://huanqing.lanzous.com/i54ajf0r2hg',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第3章 亚当和夏娃的一天（2）',
                           artist: '《人类简史》',
-                          url: 'https://files.catbox.moe/e4tu7n.mp3',
+                          url: 'https://api.pingping6.com/tools/lanzou/?down&url=https://huanqing.lanzous.com/idkLff0r2ih',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第4章 毁天灭地的人类洪水',
                           artist: '《人类简史》',
-                          url: 'https://files.catbox.moe/q61w0w.mp3',
+                          url: 'https://api.pingping6.com/tools/lanzou/?down&url=https://wwa.lanzous.com/iw1j4f0r2ji',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第5章 史上最大骗局（1）',
                           artist: '《人类简史》',
-                          url: 'https://files.catbox.moe/jbu4qm.mp3',
+                          url: 'https://api.pingping6.com/tools/lanzou/?down&url=https://wwa.lanzous.com/icDxUf0r2kj',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第5章 史上最大骗局（2）',
                           artist: '《人类简史》',
-                          url: 'https://files.catbox.moe/zp4fqr.mp3',
+                          url: 'https://api.pingping6.com/tools/lanzou/?down&url=https://wwa.lanzous.com/imQmuf0r2la',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第6章 盖起金字塔（1）',
                           artist: '《人类简史》',
-                          url: 'https://files.catbox.moe/s85e1i.mp3',
+                          url: 'https://api.pingping6.com/tools/lanzou/?down&url=https://wwa.lanzous.com/idcJif0r2mb',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第6章 盖起金字塔（2）',
                           artist: '《人类简史》',
-                          url: 'https://files.catbox.moe/x2pu9m.mp3',
+                          url: 'https://api.pingping6.com/tools/lanzou/?down&url=https://wwa.lanzous.com/iRELff0r2od',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第7章 记忆过载',
                           artist: '《人类简史》',
-                          url: 'https://files.catbox.moe/jelw08.mp3',
+                          url: 'https://api.pingping6.com/tools/lanzou/?down&url=https://wwa.lanzous.com/ixlyWf0r2pe',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第8章 历史从无正义（1）',
                           artist: '《人类简史》',
-                          url: 'https://files.catbox.moe/spu69k.mp3',
+                          url: 'https://api.pingping6.com/tools/lanzou/?down&url=https://wwa.lanzous.com/iVKRtf0r2qf',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
@@ -337,7 +337,7 @@ APlayer ↓
                       {
                           name: '第1章 人类：一种也没什么特别的动物（1）',
                           artist: '《人类简史》',
-                          url: 'https://api.pingping6.com/tools/lanzou/?down&url=https://huanqing.lanzous.com/iTKEof0r2dc',
+                          url: 'https://files.catbox.moe/4t0eci.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
