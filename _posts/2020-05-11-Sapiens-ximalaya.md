@@ -55,7 +55,7 @@ APlayer
                       {
                           name: '第1章 人类：一种也没什么特别的动物（1）',
                           artist: '《人类简史》',
-                          url: 'https://attachments-cdn.shimo.im/roUkyJOocWp3Ezez.m4a?attname=%E7%AC%AC1%E7%AB%A0+%E4%BA%BA%E7%B1%BB%EF%BC%9A%E4%B8%80%E7%A7%8D%E4%B9%9F%E6%B2%A1%E4%BB%80%E4%B9%88%E7%89%B9%E5%88%AB%E7%9A%84%E5%8A%A8%E7%89%A9%EF%BC%881%EF%BC%89.m4a',
+                          url: 'https://attachments-cdn.shimo.im/IwQMmYx71cRbWAaZ.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
