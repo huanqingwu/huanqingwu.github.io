@@ -33,7 +33,7 @@ APlayer ↓
 </head>
 <body>
     <div class="demo">
-        <p><strong>网易云</strong></p>
+        <p><strong>腾讯云</strong></p>
         <div id="player1">
         </div>
     </div>
@@ -57,252 +57,252 @@ APlayer ↓
                       {
                           name: '第1章 人类：一种也没什么特别的动物（1）',
                           artist: '《人类简史》',
-                          url: 'http://note.youdao.com/yws/public/resource/c82bdf193ae1ce6c47805e8f0c4bea6c/xmlnote/WEBRESOURCEfaba9b2b3d97f7ca2e9985060c03f15f/12',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens01_1.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第1章 人类：一种也没什么特别的动物（2）',
                           artist: '《人类简史》',
-                          url: 'http://note.youdao.com/yws/public/resource/c82bdf193ae1ce6c47805e8f0c4bea6c/xmlnote/WEBRESOURCE1699b28805412b819224dc78f50e1940/19',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens01_2.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第2章 知善恶树（1）',
                           artist: '《人类简史》',
-                          url: 'http://note.youdao.com/yws/public/resource/c82bdf193ae1ce6c47805e8f0c4bea6c/xmlnote/WEBRESOURCE2d76095561f871f96a05a2534090bfb2/22',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens02_1.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第2章 知善恶树（2）',
                           artist: '《人类简史》',
-                          url: 'http://note.youdao.com/yws/public/resource/c82bdf193ae1ce6c47805e8f0c4bea6c/xmlnote/WEBRESOURCE7bef441c60c7753432b3bdf36a0bb5d4/25',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens02_2.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第3章 亚当和夏娃的一天（1）',
                           artist: '《人类简史》',
-                          url: 'http://note.youdao.com/yws/public/resource/c82bdf193ae1ce6c47805e8f0c4bea6c/xmlnote/WEBRESOURCEc082ad56fa6988e20dabf166abfecf47/28',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens03_1.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第3章 亚当和夏娃的一天（2）',
                           artist: '《人类简史》',
-                          url: 'http://note.youdao.com/yws/public/resource/c82bdf193ae1ce6c47805e8f0c4bea6c/xmlnote/WEBRESOURCEe5043562cf97f3d9ffaeb5738743793e/31',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens03_2.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第4章 毁天灭地的人类洪水',
                           artist: '《人类简史》',
-                          url: 'http://note.youdao.com/yws/public/resource/c82bdf193ae1ce6c47805e8f0c4bea6c/xmlnote/WEBRESOURCE012c6183828941a0025194786c920124/34',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens04_1.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第5章 史上最大骗局（1）',
                           artist: '《人类简史》',
-                          url: 'http://note.youdao.com/yws/public/resource/c82bdf193ae1ce6c47805e8f0c4bea6c/xmlnote/WEBRESOURCE793619d7f3669b1c172f3cf6d1bdf330/37',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens05_1.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第5章 史上最大骗局（2）',
                           artist: '《人类简史》',
-                          url: 'http://note.youdao.com/yws/public/resource/c82bdf193ae1ce6c47805e8f0c4bea6c/xmlnote/WEBRESOURCEcff511afc14e529f0c9a627ad184c4c1/40',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens05_2.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第6章 盖起金字塔（1）',
                           artist: '《人类简史》',
-                          url: 'http://note.youdao.com/yws/public/resource/c82bdf193ae1ce6c47805e8f0c4bea6c/xmlnote/WEBRESOURCEa796a98a0fc60c86fdf544758e76f1a6/43',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens06_1.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第6章 盖起金字塔（2）',
                           artist: '《人类简史》',
-                          url: 'http://note.youdao.com/yws/public/resource/c82bdf193ae1ce6c47805e8f0c4bea6c/xmlnote/WEBRESOURCEd2d7ec40b45fd290c1781e2dbb91bc2c/46',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens06_2.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第7章 记忆过载',
                           artist: '《人类简史》',
-                          url: 'http://note.youdao.com/yws/public/resource/c82bdf193ae1ce6c47805e8f0c4bea6c/xmlnote/WEBRESOURCE19fc5c9e1be9e71db0e8b6042d5022fc/49',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens07_1.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第8章 历史从无正义（1）',
                           artist: '《人类简史》',
-                          url: 'http://note.youdao.com/yws/public/resource/c82bdf193ae1ce6c47805e8f0c4bea6c/xmlnote/WEBRESOURCEd8899b252b3801d472761c2128cfe63a/52',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens08_1.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第8章 历史从无正义（2）',
                           artist: '《人类简史》',
-                          url: 'http://note.youdao.com/yws/public/resource/c82bdf193ae1ce6c47805e8f0c4bea6c/xmlnote/WEBRESOURCE1f5eda900712f77fecc6eb3bf8d72af2/55',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens08_2.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第9章 历史的方向',
                           artist: '《人类简史》',
-                          url: 'http://note.youdao.com/yws/public/resource/c82bdf193ae1ce6c47805e8f0c4bea6c/xmlnote/WEBRESOURCE5722ed2f545e45732e2f1f9553855a7d/58',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens09_1.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第10章 金钱的味道',
                           artist: '《人类简史》',
-                          url: 'http://note.youdao.com/yws/public/resource/c82bdf193ae1ce6c47805e8f0c4bea6c/xmlnote/WEBRESOURCE4ed54a7095fdbe3cf2d43e3d4a464bfa/64',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens10_1.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第11章 帝国的愿景（1）',
                           artist: '《人类简史》',
-                          url: 'http://note.youdao.com/yws/public/resource/c82bdf193ae1ce6c47805e8f0c4bea6c/xmlnote/WEBRESOURCE29eec62f41f756169be17ab736e9549b/67',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens11_1.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第11章 帝国的愿景（2）',
                           artist: '《人类简史》',
-                          url: 'http://note.youdao.com/yws/public/resource/c82bdf193ae1ce6c47805e8f0c4bea6c/xmlnote/WEBRESOURCEf87525e5ffceb9d80f5d3bd39a2d6336/70',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens11_2.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第12章 宗教的法则（1）',
                           artist: '《人类简史》',
-                          url: 'http://note.youdao.com/yws/public/resource/c82bdf193ae1ce6c47805e8f0c4bea6c/xmlnote/WEBRESOURCE5e3d3f7c823480d2650f0217135e2af0/73',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens12_1.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第12章 宗教的法则（2）',
                           artist: '《人类简史》',
-                          url: 'http://note.youdao.com/yws/public/resource/c82bdf193ae1ce6c47805e8f0c4bea6c/xmlnote/WEBRESOURCEd1e737230c98f84da6312f9fc857db66/76',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens12_2.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第13章 成功的秘密',
                           artist: '《人类简史》',
-                          url: 'http://note.youdao.com/yws/public/resource/c82bdf193ae1ce6c47805e8f0c4bea6c/xmlnote/WEBRESOURCE0e0dbfddd04c639a52000030d7198ab3/79',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens13_1.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第14章 发现自己的无知（1）',
                           artist: '《人类简史》',
-                          url: 'http://note.youdao.com/yws/public/resource/c82bdf193ae1ce6c47805e8f0c4bea6c/xmlnote/WEBRESOURCEe552facc3f3301d52f10bf287ae2c6a6/82',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens14_1.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第14章 发现自己的无知（2）',
                           artist: '《人类简史》',
-                          url: 'http://note.youdao.com/yws/public/resource/c82bdf193ae1ce6c47805e8f0c4bea6c/xmlnote/WEBRESOURCE7cd5f7c7515f434cac1b96c251a07ea3/84',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens14_2.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第15章 科学与帝国的联姻（1）',
                           artist: '《人类简史》',
-                          url: 'http://note.youdao.com/yws/public/resource/c82bdf193ae1ce6c47805e8f0c4bea6c/xmlnote/WEBRESOURCE12aa0df5be146a6c5e6f0e25c584171e/87',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens15_1.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第15章 科学与帝国的联姻（2）',
                           artist: '《人类简史》',
-                          url: 'http://note.youdao.com/yws/public/resource/c82bdf193ae1ce6c47805e8f0c4bea6c/xmlnote/WEBRESOURCE789754f0cad068dc69137ddc4c572375/90',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens15_2.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第16章 资本主义教条（1）',
                           artist: '《人类简史》',
-                          url: 'http://note.youdao.com/yws/public/resource/c82bdf193ae1ce6c47805e8f0c4bea6c/xmlnote/WEBRESOURCE62955a6468d180c0404359ffb1220607/93',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens16_1.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第16章 资本主义教条（2）',
                           artist: '《人类简史》',
-                          url: 'http://note.youdao.com/yws/public/resource/c82bdf193ae1ce6c47805e8f0c4bea6c/xmlnote/WEBRESOURCEb735bb3fb599871ec6c7c4fa98a6d5ba/96',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens16_2.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第17章 工业的巨轮',
                           artist: '《人类简史》',
-                          url: 'http://note.youdao.com/yws/public/resource/c82bdf193ae1ce6c47805e8f0c4bea6c/xmlnote/WEBRESOURCE2496bd12e25e4ab283d461738100af1f/99',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens17_1.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第18章 一场永远的革命（1）',
                           artist: '《人类简史》',
-                          url: 'http://note.youdao.com/yws/public/resource/c82bdf193ae1ce6c47805e8f0c4bea6c/xmlnote/WEBRESOURCEa38f742a605992f64b9fcebae270a491/102',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens18_1.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第18章 一场永远的革命（2）',
                           artist: '《人类简史》',
-                          url: 'http://note.youdao.com/yws/public/resource/c82bdf193ae1ce6c47805e8f0c4bea6c/xmlnote/WEBRESOURCE87ab07f88f07e0eeb0396050926f42d3/105',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens18_2.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第19章 从此过着幸福快乐的日子（1）',
                           artist: '《人类简史》',
-                          url: 'http://note.youdao.com/yws/public/resource/c82bdf193ae1ce6c47805e8f0c4bea6c/xmlnote/WEBRESOURCE99f178d8db0dfd17bf9748a5bd816195/108',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens19_1.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第19章 从此过着幸福快乐的日子（2）',
                           artist: '《人类简史》',
-                          url: 'http://note.youdao.com/yws/public/resource/c82bdf193ae1ce6c47805e8f0c4bea6c/xmlnote/WEBRESOURCE6c240baf35f63a5d4c1d77a264d3ed5e/111',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens19_2.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第20章 智人末日（1）',
                           artist: '《人类简史》',
-                          url: 'http://note.youdao.com/yws/public/resource/c82bdf193ae1ce6c47805e8f0c4bea6c/xmlnote/WEBRESOURCEcccc9fc1ec21b864fd8f68ac946cbefe/114',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens20_1.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第20章 智人末日（2）',
                           artist: '《人类简史》',
-                          url: 'http://note.youdao.com/yws/public/resource/c82bdf193ae1ce6c47805e8f0c4bea6c/xmlnote/WEBRESOURCE3fda7bdfbaf786c73c49b00266461a75/117',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens20_2.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '后记',
                           artist: '《人类简史》',
-                          url: 'http://note.youdao.com/yws/public/resource/c82bdf193ae1ce6c47805e8f0c4bea6c/xmlnote/WEBRESOURCE74a2f299ae3bf6bfa7b514b9c04c0225/120',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens21.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '致谢',
                           artist: '《人类简史》',
-                          url: 'http://note.youdao.com/yws/public/resource/c82bdf193ae1ce6c47805e8f0c4bea6c/xmlnote/WEBRESOURCE8d0bd269d8b966e1ad5516866ae271f8/122',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens22.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
