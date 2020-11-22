@@ -107,12 +107,86 @@ APlayer ↓
                           cover: 'https://imagev2.xmcdn.com/group84/M0A/48/FC/wKg5JF8st4eiiMvTAAPWRTft8YU697.jpg',
                           theme: '#46718b'
                       },
-
                   ]
                 });
         ap1.init();
     </script>
     </div>
 
+    <div class="demo">
+        <p><strong>catbox播放</strong></p>
+        <div id="player2">
+        </div>
+    </div>
+    <div>
+    <script>
+        var ap2 = new APlayer
+                ({
+                  container: document.getElementById('player2'),
+                  mini: false,
+                  autoplay: false,
+                  theme: '#FADFA3',
+                  loop: 'all',
+                  order: 'list',
+                  preload: 'auto',
+                  volume: 0.7,
+                  mutex: true,
+                  listFolded: true,    //第二个catbox源较慢，默认折叠
+                  listMaxHeight: 90,
+                  audio: [
+                      {
+                          name: '【独家专访】联合创始人 刘德：小米如何渡过供应链难关？',
+                          artist: '《一往无前》',
+                          url: 'https://files.catbox.moe/lyn5cn.mp3',
+                          cover: 'https://imagev2.xmcdn.com/group84/M0A/48/FC/wKg5JF8st4eiiMvTAAPWRTft8YU697.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '【独家专访】副总裁 张峰：小米为何定位“高大上”？',
+                          artist: '《一往无前》',
+                          url: 'https://files.catbox.moe/801783.mp3',
+                          cover: 'https://imagev2.xmcdn.com/group84/M0A/48/FC/wKg5JF8st4eiiMvTAAPWRTft8YU697.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '【独家专访】小米第14号员工 管颖智：雷军亲自面试会聊什么问题？',
+                          artist: '《一往无前》',
+                          url: 'https://files.catbox.moe/vd7az7.mp3',
+                          cover: 'https://imagev2.xmcdn.com/group84/M0A/48/FC/wKg5JF8st4eiiMvTAAPWRTft8YU697.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '【独家专访】联合创始人 王川：怎么做出世界上按键最少的遥控器？',
+                          artist: '《一往无前》',
+                          url: 'https://files.catbox.moe/h1omnw.mp3',
+                          cover: 'https://imagev2.xmcdn.com/group84/M0A/48/FC/wKg5JF8st4eiiMvTAAPWRTft8YU697.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '【独家专访】副总裁 高自光：小米IoT是如何诞生的？',
+                          artist: '《一往无前》',
+                          url: 'https://files.catbox.moe/nsucy2.mp3',
+                          cover: 'https://imagev2.xmcdn.com/group84/M0A/48/FC/wKg5JF8st4eiiMvTAAPWRTft8YU697.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '【独家专访】生态链部副总经理 赵彩霞：小米生态链企业的成本考核机制',
+                          artist: '《一往无前》',
+                          url: 'https://files.catbox.moe/0xsfg1.mp3',
+                          cover: 'https://imagev2.xmcdn.com/group84/M0A/48/FC/wKg5JF8st4eiiMvTAAPWRTft8YU697.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '【独家专访】小米网副总裁 王海洲：“铁人三项”模式的创立基础',
+                          artist: '《一往无前》',
+                          url: 'https://files.catbox.moe/cckb88.mp3',
+                          cover: 'https://imagev2.xmcdn.com/group84/M0A/48/FC/wKg5JF8st4eiiMvTAAPWRTft8YU697.jpg',
+                          theme: '#46718b'
+                      },
+                  ]
+                });
+        ap2.init();
+    </script>
+    </div>
 
 </body>
