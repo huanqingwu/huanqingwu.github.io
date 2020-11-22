@@ -3,7 +3,7 @@ layout: post
 title: "《一往无前》雷军亲述小米热血10年【有声书+独家专访】更新中"
 subtitle: "喜马拉雅听 | 有声书 | 一往无前"
 author: "Huanqing"
-header-img: "img/post-bg-evolution.jpg"
+header-img: "img/post-bg-YWWQ-LeiJun.jpg"
 header-mask: 0.3
 mathjax: true
 tags:
