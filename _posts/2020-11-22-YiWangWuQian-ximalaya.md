@@ -107,6 +107,55 @@ APlayer ↓
                           cover: 'https://imagev2.xmcdn.com/group84/M0A/48/FC/wKg5JF8st4eiiMvTAAPWRTft8YU697.jpg',
                           theme: '#46718b'
                       },
+                      {
+                          name: '【正版有声书】001 推荐序 凡是过往，皆为序章 | 雷军',
+                          artist: '《一往无前》',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/YiWangWuQian_001.mp3',
+                          cover: 'https://imagev2.xmcdn.com/group84/M0A/48/FC/wKg5JF8st4eiiMvTAAPWRTft8YU697.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '【正版有声书】002 前言 小米10年，生而逢时',
+                          artist: '《一往无前》',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/YiWangWuQian_002.mp3',
+                          cover: 'https://imagev2.xmcdn.com/group84/M0A/48/FC/wKg5JF8st4eiiMvTAAPWRTft8YU697.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '【正版有声书】003 第一章 拉面馆停下的奔驰车',
+                          artist: '《一往无前》',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/YiWangWuQian_003.mp3',
+                          cover: 'https://imagev2.xmcdn.com/group84/M0A/48/FC/wKg5JF8st4eiiMvTAAPWRTft8YU697.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '【正版有声书】004 第一章 手机发烧友雷军的梦想',
+                          artist: '《一往无前》',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/YiWangWuQian_004.mp3',
+                          cover: 'https://imagev2.xmcdn.com/group84/M0A/48/FC/wKg5JF8st4eiiMvTAAPWRTft8YU697.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '【正版有声书】005 第一章 商业领域需要一场效率革命',
+                          artist: '《一往无前》',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/YiWangWuQian_005.mp3',
+                          cover: 'https://imagev2.xmcdn.com/group84/M0A/48/FC/wKg5JF8st4eiiMvTAAPWRTft8YU697.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '【正版有声书】006 第一章 往前冲，控制好节奏',
+                          artist: '《一往无前》',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/YiWangWuQian_006.mp3',
+                          cover: 'https://imagev2.xmcdn.com/group84/M0A/48/FC/wKg5JF8st4eiiMvTAAPWRTft8YU697.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '【正版有声书】007 第二章 寻找同盟者',
+                          artist: '《一往无前》',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/YiWangWuQian_007.mp3',
+                          cover: 'https://imagev2.xmcdn.com/group84/M0A/48/FC/wKg5JF8st4eiiMvTAAPWRTft8YU697.jpg',
+                          theme: '#46718b'
+                      },
                   ]
                 });
         ap1.init();
@@ -183,6 +232,7 @@ APlayer ↓
                           cover: 'https://imagev2.xmcdn.com/group84/M0A/48/FC/wKg5JF8st4eiiMvTAAPWRTft8YU697.jpg',
                           theme: '#46718b'
                       },
+
                   ]
                 });
         ap2.init();
