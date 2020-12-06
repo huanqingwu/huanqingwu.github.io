@@ -23,6 +23,7 @@ For instance, in many high end VCOs, power supply noise directly affects the VCO
 例如，在许多高端 VCO 中，电源噪声直接影响着 VCO 输出相位噪声（抖动）。而且，为了满足整体 系统效率要求，LDO 通常对噪声相对较大的开关转换器之输出进行后置稳压，因此 LDO 的高频电源抑制比（PSRR）性能变得至关重要。凭借其超低输出噪声和超高 PSRR 性能，[LT3042](https://www.analog.com/en/products/lt3042.html) 能够直接为某些对噪声最为敏感的应用供电，同时对开关转换器的输出实施后置稳压，并不需要庞大的滤波电路。表 1 比较了 LT3042 与传统低噪声稳压器的噪声性能。
 
 **Table 1. The LT3042 vs traditional low noise LDOs**
+
 | **Parameter** | **LT1763** | **LT3062** | **LT3082** | **LT3042** |
 | ------| :---: | :----: | :----: | ------|
 | RMS Noise (10Hz to 100kHz) | 20µVRMS | 30µVRMS | 33µVRMS | 0.8µVRMS |
@@ -36,7 +37,10 @@ For instance, in many high end VCOs, power supply noise directly affects the VCO
 | Rail-to-Rail Output Range | | | | ✓ |
 | Quiescent Current | 30µA | 45µA | 300µA | 2mA |
 
+
+
 **表1. LT3042 vs 传统低噪声LDO**
+
 | **参数** | **LT1763** | **LT3062** | **LT3082** | **LT3042** |
 | ------| :---: | :----: | :----: | :----:|
 | RMS噪声 (10Hz ~ 100kHz) | 20µVRMS | 30µVRMS | 33µVRMS | 0.8µVRMS |
