@@ -70,6 +70,7 @@ LT3042 是一款高性能低压差线性稳压器，其采用凌力尔特的超�
 
 <center> Figure 2. LT3042 demonstration circuit.
 
+
 Designed as a precision current reference followed by a high performance voltage buffer, the LT3042 is easily paralleled to increase output current, spread heat on the PCB and further reduce noise—output noise decreases by the square-root of the number of devices in parallel. Its current-reference based architecture offers wide output voltage range (0V to 15V) while maintaining unity-gain operation, thereby providing virtually constant output noise, PSRR, bandwidth and load regulation, independent of the programmed output voltage.
 
 LT3042 被设计为一款后随高性能电压缓冲器的高精度电流基准，其可容易地通过并联以增加输出电流、在 PCB 上散播热量并进一步降低噪声，输出噪声的降幅为并联器件数目的平方根。该器件基于电流基准的架构可提供宽输出电压范围 （0V 至 15V）并保持单位增益运作，从而获得了几乎恒定的输出噪声、PSRR、带宽和负载调节，这与编程输出电压无关。
