@@ -62,11 +62,11 @@ LT3042 是一款高性能低压差线性稳压器，其采用凌力尔特的超�
 
 <img src="https://gitee.com/hawkingwu/PicGo/raw/master/figure1.PNG" alt="figure1" style="zoom: 67%;" />
 
-<center> Figure 1. Typical LT3042 application.
+<center> Figure 1. Typical LT3042 application. </center>
 
 <img src="https://huanqingwu.coding.net/p/picgo/d/PicGo/git/raw/master/figure2.PNG" alt="figure2" style="zoom:50%;" />
 
-<center> Figure 2. LT3042 demonstration circuit.
+<center> Figure 2. LT3042 demonstration circuit. </center>
 
 
 Designed as a precision current reference followed by a high performance voltage buffer, the LT3042 is easily paralleled to increase output current, spread heat on the PCB and further reduce noise—output noise decreases by the square-root of the number of devices in parallel. Its current-reference based architecture offers wide output voltage range (0V to 15V) while maintaining unity-gain operation, thereby providing virtually constant output noise, PSRR, bandwidth and load regulation, independent of the programmed output voltage.
@@ -92,7 +92,7 @@ With its 0.8µVRMS output noise* in 10Hz to 100kHz bandwidth, the LT3042 is the 
 
 <img src="https://gitee.com/hawkingwu/PicGo/raw/master/figure3.PNG" alt="figure3" style="zoom:50%;" />
 
-<center>Figure 3. Output noise: 10Hz to 100kHz.
+<center>Figure 3. Output noise: 10Hz to 100kHz. </center>
 
 
 The SET pin capacitor (CSET) bypasses the reference current noise, the base current noise (of the error amplifier’s input stage) and the SET pin resistor’s (RSET) inherent thermal noise. As shown in Figure 4, low frequency noise performance is significantly improved with increasing CSET. With a 22µF CSET, the output noise is under 20nV/√Hz at 10Hz. Note that capacitors can also produce 1/f noise, particularly electrolytic capacitors. To minimize 1/f noise, use ceramic, tantalum or film capacitors on the SET pin.
@@ -103,7 +103,7 @@ SET 引脚电容器（CSET）负责对基准电流噪声、（误差放大器输
 
 <img src="https://gitee.com/hawkingwu/PicGo/raw/master/figure4.PNG" alt="figure4" style="zoom:50%;" />
 
-<center>Figure 4. Noise spectral density.
+<center>Figure 4. Noise spectral density. </center>
 
 
 Actively driving the SET pin with either a battery or a lower noise voltage reference reduces noise below 10Hz. Doing so essentially eliminates the reference current noise at lower frequencies, leaving only the extremely low error amplifier noise. This ability to drive the SET pin is another advantage of the current-reference architecture. The integrated RMS noise also improves as the SET pin capacitance increases, dropping below 1µVRMS with just 2.2µF CSET, as shown in Figure 5.
@@ -114,7 +114,7 @@ Actively driving the SET pin with either a battery or a lower noise voltage refe
 
 <img src="https://gitee.com/hawkingwu/PicGo/raw/master/figure5.PNG" alt="figure5" style="zoom:50%;" />
 
-<center>Figure 5. Integrated RMS output noise (10Hz to 100kHz).
+<center>Figure 5. Integrated RMS output noise (10Hz to 100kHz). </center>
 
 
 Increasing SET pin bypass capacitance for lower output noise generally leads to increased start-up time. But the LT3042’s fast start-up circuitry alleviates this trade-off. The fast start-up circuitry is easily configured using two resistors; Figure 6 shows the significant improvement in start-up time.
@@ -125,7 +125,7 @@ Increasing SET pin bypass capacitance for lower output noise generally leads to 
 
 <img src="https://gitee.com/hawkingwu/PicGo/raw/master/figure6.PNG" alt="figure6" style="zoom:50%;" />
 
-<center>Figure 6. Fast start-up capability.
+<center>Figure 6. Fast start-up capability. </center>
 
 
 
@@ -139,11 +139,11 @@ LT3042’s high PSRR* is important when powering noise-sensitive applications. F
 
 <img src="https://gitee.com/hawkingwu/PicGo/raw/master/figure7.PNG" alt="figure7" style="zoom:50%;" />
 
-<center>Figure 7. PSRR performance.
+<center>Figure 7. PSRR performance. </center>
 
 <img src="https://gitee.com/hawkingwu/PicGo/raw/master/figure8.PNG" style="zoom:50%;" />
 
-<center>Figure 8. PSRR for various load currents.
+<center>Figure 8. PSRR for various load currents. </center>
 
 
 Unlike conventional LDOs whose PSRR performance deteriorates into the 10s of dB as you approach dropout, the LT3042 maintains high PSRR at even low input-to-output differentials. As Figure 9 illustrates, LT3042 maintains 70dB PSRR up to 2MHz with only 1V input-to-output differential and almost 60dB PSRR up to 2MHz at a mere 600mV input-to-output differential. This capability allows the LT3042 to post-regulate switching converters at low input-to-output differentials—for high efficiency—while its PSRR performance satisfies the requirements of noise-sensitive applications.
@@ -154,7 +154,7 @@ Unlike conventional LDOs whose PSRR performance deteriorates into the 10s of dB 
 
 <img src="https://gitee.com/hawkingwu/PicGo/raw/master/figure9.PNG" alt="figure9" style="zoom:50%;" />
 
-<center>Figure 9. PSRR vs input-to-output differential.
+<center>Figure 9. PSRR vs input-to-output differential. </center>
 
 
 
@@ -174,7 +174,7 @@ Consider Figure 10, where the LT3042 is post-regulating the LT8614 Silent Switch
 
 <img src="https://gitee.com/hawkingwu/PicGo/raw/master/figure10.PNG" alt="figure10" style="zoom:80%;" />
 
-<center>Figure 10. The LT3042 post-regulating LT8614 Silent Switcher regulator.
+<center>Figure 10. The LT3042 post-regulating LT8614 Silent Switcher regulator. </center>
 
 
 To achieve this performance, however, as Figure 11a highlights, no additional capacitor—other than the 22µF at switcher’s output—is placed at the input of the LT3042. However, as shown in Figure 11b, even placing a small 4.7µF capacitor directly at the input of the LT3042 results in over 10× degradation in PSRR.
@@ -185,7 +185,7 @@ To achieve this performance, however, as Figure 11a highlights, no additional ca
 
 <img src="https://gitee.com/hawkingwu/PicGo/raw/master/figure11.PNG" alt="figure11" style="zoom: 80%;" />
 
-<center>Figure 11. The LT3042 post-regulating the LT8614 Silent Switcher (a) without any capacitor at the LT3042 input, (b) with a 4.7µF capacitor at LT3042 input.
+<center>Figure 11. The LT3042 post-regulating the LT8614 Silent Switcher (a) without any capacitor at the LT3042 input, (b) with a 4.7µF capacitor at LT3042 input. </center>
 
 
 This is peculiarly counter-intuitive—adding input capacitance *generally reduces* output ripple—but at 80dB rejection, the magnetic coupling, which is usually insignificant, resulting from moderately high frequency (500kHz) switching currents flowing though this 4.7µF capacitor, significantly degrades output ripple. While changing the orientation of the 4.7µF input capacitor and the traces connecting the switcher’s output to this capacitor help minimize magnetic coupling, it remains rather difficult to achieve nearly 80dB of rejection at these frequencies, not to mention the multiple PC board iterations it may require.
