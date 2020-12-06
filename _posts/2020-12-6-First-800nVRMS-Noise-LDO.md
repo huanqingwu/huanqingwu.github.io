@@ -23,7 +23,6 @@ For instance, in many high end VCOs, power supply noise directly affects the VCO
 例如，在许多高端 VCO 中，电源噪声直接影响着 VCO 输出相位噪声（抖动）。而且，为了满足整体 系统效率要求，LDO 通常对噪声相对较大的开关转换器之输出进行后置稳压，因此 LDO 的高频电源抑制比（PSRR）性能变得至关重要。凭借其超低输出噪声和超高 PSRR 性能，[LT3042](https://www.analog.com/en/products/lt3042.html) 能够直接为某些对噪声最为敏感的应用供电，同时对开关转换器的输出实施后置稳压，并不需要庞大的滤波电路。表 1 比较了 LT3042 与传统低噪声稳压器的噪声性能。
 
 **Table 1. The LT3042 vs traditional low noise LDOs**
-
 | **Parameter** | **LT1763** | **LT3062** | **LT3082** | **LT3042** |
 | ------| :---: | :----: | :----: | ------|
 | RMS Noise (10Hz to 100kHz) | 20µVRMS | 30µVRMS | 33µVRMS | 0.8µVRMS |
@@ -38,7 +37,6 @@ For instance, in many high end VCOs, power supply noise directly affects the VCO
 | Quiescent Current | 30µA | 45µA | 300µA | 2mA |
 
 **表1. LT3042 vs 传统低噪声LDO**
-
 | **参数** | **LT1763** | **LT3062** | **LT3082** | **LT3042** |
 | ------| :---: | :----: | :----: | :----:|
 | RMS噪声 (10Hz ~ 100kHz) | 20µVRMS | 30µVRMS | 33µVRMS | 0.8µVRMS |
@@ -54,18 +52,16 @@ For instance, in many high end VCOs, power supply noise directly affects the VCO
 
 
 
-## Performance, Robustness & Simplicity  高性能、坚固性和简单性
+## 高性能、坚固性和简单性  Performance, Robustness & Simplicity
 
 The LT3042 is a high performance low dropout linear regulator featuring Linear Technology’s ultralow noise and ultrahigh PSRR architecture for powering noise-sensitive applications. Even with its high performance, the LT3042 maintains simplicity and robustness. Figure 1 is a typical application and Figure 2 shows a complete demonstration circuit. The LT3042’s tiny 3mm × 3mm DFN package and minimal component requirements keep overall solution size small.
 
 LT3042 是一款高性能低压差线性稳压器，其采用凌力尔特的超低噪声和超高 PSRR 架构以为对噪声敏感的应用供电。LT3042 尽管拥有高性能，但其同时也保持了简单性和坚固性。图 1 为该器件的一款典型应用电路，图 2 则示出一个完整的演示电路。 LT3042 的纤巧型 3mm x 3mm DFN 封装和极低的组 件要求可使整体解决方案尺寸保持小巧。
 
 <img src="https://gitee.com/hawkingwu/PicGo/raw/master/figure1.PNG" alt="figure1" style="zoom: 67%;" />
-
 <center> Figure 1. Typical LT3042 application. </center>
 
 <img src="https://huanqingwu.coding.net/p/picgo/d/PicGo/git/raw/master/figure2.PNG" alt="figure2" style="zoom:50%;" />
-
 <center> Figure 2. LT3042 demonstration circuit. </center>
 
 
@@ -82,7 +78,7 @@ In addition to offering ultralow noise and ultrahigh PSRR performance, the LT304
 
 
 
-## Ultralow Output Noise  超低输出噪声
+## 超低输出噪声  Ultralow Output Noise
 
 With its 0.8µVRMS output noise* in 10Hz to 100kHz bandwidth, the LT3042 is the industry’s first sub-1µVRMS noise regulator. Figure 3 compares the LT3042’s integrated output noise from 10Hz to 100kHz to that of the LT1763, Linear’s lowest noise regulator for over a decade. The LT3042’s ultralow noise performance opens up applications that were previously not possible, or otherwise required expensive and bulky filtering components.
 
@@ -91,7 +87,6 @@ With its 0.8µVRMS output noise* in 10Hz to 100kHz bandwidth, the LT3042 is the 
 
 
 <img src="https://gitee.com/hawkingwu/PicGo/raw/master/figure3.PNG" alt="figure3" style="zoom:50%;" />
-
 <center>Figure 3. Output noise: 10Hz to 100kHz. </center>
 
 
@@ -102,7 +97,6 @@ SET 引脚电容器（CSET）负责对基准电流噪声、（误差放大器输
 
 
 <img src="https://gitee.com/hawkingwu/PicGo/raw/master/figure4.PNG" alt="figure4" style="zoom:50%;" />
-
 <center>Figure 4. Noise spectral density. </center>
 
 
@@ -113,7 +107,6 @@ Actively driving the SET pin with either a battery or a lower noise voltage refe
 
 
 <img src="https://gitee.com/hawkingwu/PicGo/raw/master/figure5.PNG" alt="figure5" style="zoom:50%;" />
-
 <center>Figure 5. Integrated RMS output noise (10Hz to 100kHz). </center>
 
 
@@ -124,12 +117,11 @@ Increasing SET pin bypass capacitance for lower output noise generally leads to 
 
 
 <img src="https://gitee.com/hawkingwu/PicGo/raw/master/figure6.PNG" alt="figure6" style="zoom:50%;" />
-
 <center>Figure 6. Fast start-up capability. </center>
 
 
 
-## Ultrahigh PSRR Performance  超高 PSRR 性能
+## 超高 PSRR 性能  Ultrahigh PSRR Performance
 
 LT3042’s high PSRR* is important when powering noise-sensitive applications. Figure 7 shows the LT3042’s incredible low and high frequency PSRR performance—approaching almost 120dB at 120Hz, 79dB at 1MHz, and better than 70dB all the way to 3MHz. PSRR performance is even better with decreasing load currents, as shown in Figure 8.
 
@@ -138,11 +130,9 @@ LT3042’s high PSRR* is important when powering noise-sensitive applications. F
 
 
 <img src="https://gitee.com/hawkingwu/PicGo/raw/master/figure7.PNG" alt="figure7" style="zoom:50%;" />
-
 <center>Figure 7. PSRR performance. </center>
 
 <img src="https://gitee.com/hawkingwu/PicGo/raw/master/figure8.PNG" style="zoom:50%;" />
-
 <center>Figure 8. PSRR for various load currents. </center>
 
 
@@ -153,12 +143,11 @@ Unlike conventional LDOs whose PSRR performance deteriorates into the 10s of dB 
 
 
 <img src="https://gitee.com/hawkingwu/PicGo/raw/master/figure9.PNG" alt="figure9" style="zoom:50%;" />
-
 <center>Figure 9. PSRR vs input-to-output differential. </center>
 
 
 
-## Post-Regulating A Switcher  对开关电源实施后置稳压
+## 对开关电源实施后置稳压  Post-Regulating A Switcher
 
 In applications where the LT3042 is post-regulating the output of a switching converter to achieve ultrahigh PSRR at high frequencies, care must be taken with the electromagnetic coupling from the switching converter to the output of the LT3042. In particular, while the “hotloop” of the switching converter should be as small as possible, the “warm-loop” (with AC currents flowing at the switching frequency) formed by the switcher IC, output inductor, and output capacitor (for a buck converter) should also be minimized, and it should either be shielded or placed a couple of inches away from ultralow noise devices like the LT3042 and its load. While the LT3042’s orientation with respect to the “warm-loop” can be optimized for minimum magnetic coupling, it can be challenging in practice to achieve 80dB of rejection simply with optimized orientation—multiple iterations of the PC board may be required.
 
@@ -173,7 +162,6 @@ Consider Figure 10, where the LT3042 is post-regulating the LT8614 Silent Switch
 
 
 <img src="https://gitee.com/hawkingwu/PicGo/raw/master/figure10.PNG" alt="figure10" style="zoom:80%;" />
-
 <center>Figure 10. The LT3042 post-regulating LT8614 Silent Switcher regulator. </center>
 
 
@@ -184,7 +172,6 @@ To achieve this performance, however, as Figure 11a highlights, no additional ca
 
 
 <img src="https://gitee.com/hawkingwu/PicGo/raw/master/figure11.PNG" alt="figure11" style="zoom: 80%;" />
-
 <center>Figure 11. The LT3042 post-regulating the LT8614 Silent Switcher (a) without any capacitor at the LT3042 input, (b) with a 4.7µF capacitor at LT3042 input. </center>
 
 
@@ -225,7 +212,7 @@ LT3042 在一个很宽的频率范围内拥有超高的 PSRR，因此可实现�
 
 
 
-## Conclusion  结论
+## 结论  Conclusion
 
 The LT3042’s breakthrough noise and PSRR performance, coupled with its robustness and ease-of-use, make it ideal for powering noise-sensitive applications. With its current-reference based architecture, noise and PSRR performance remain independent of the output voltage. Additionally, multiple LT3042s can be directly paralleled to further reduce output noise, increase output current and spread heat on the PCB.
 
