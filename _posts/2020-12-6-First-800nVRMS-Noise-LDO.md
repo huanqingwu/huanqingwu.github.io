@@ -12,9 +12,7 @@ tags:
     - 模拟电路
 ---
 
-# Industry’s First 0.8µVRMS Noise LDO Has 79dB Power Supply Rejection Ratio at 1MHz
-
-# 业界首款0.8µVRMS噪声的LDO，具备1MHz处79dB的电源纹波抑制比
+# Industry’s First 0.8µVRMS Noise LDO Has 79dB Power Supply Rejection Ratio at 1MHz  业界首款0.8µVRMS噪声的LDO，具备1MHz处79dB的电源纹波抑制比
 
 When it comes to powering noise-sensitive analog/RF applications, low dropout (LDO) linear regulators are generally preferred over their switching counterparts. Low noise LDOs power a wide range of analog/RF designs, including frequency synthesizers (PLLs/VCOs), RF mixers and modulators, high speed and high resolution data converters (ADCs and DACs) and precision sensors. Nevertheless, these applications have reached capabilities and sensitivities that are testing the limits of conventional low noise LDOs.
 
