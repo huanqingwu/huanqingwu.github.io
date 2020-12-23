@@ -2,7 +2,7 @@
 title: "OEO的一些电路和控制"
 subtitle: "Read Notes - 欢庆的笔记"
 layout: post
-date:   2020-04-12
+date:   2020-12-23
 author: "Huanqing"
 header-style: text
 hidden: true
