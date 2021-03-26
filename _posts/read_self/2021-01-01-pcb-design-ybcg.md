@@ -51,3 +51,31 @@ tags:
 <p>内容以图文为主，涉及到软件操作以及需要精讲的部分会以视频进行讲解，视频以录播的形式不是直播授课的形式。</p>
 <p>为方便大家对于信号在PCB上传输行为的理解，老wu会大量借助于电磁场3D全波仿真软件，以可视化的场视图以及电流分布视图进行讲解。</p>
 </div>
+
+<link href="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.css" rel="stylesheet">
+<div id="dplayer"></div>
+<script src="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.js"></script>
+<script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script>
+<script>
+var url="https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/video/right-the-first-time-for-high-speed-pcb-design.mp4";    //这里填写视频地址
+var id=md5(url);
+const dp = new DPlayer({
+    container: document.getElementById('dplayer'),
+    autoplay: false,
+    theme: '#FADFA3',
+    loop: true,
+    lang: 'zh-cn',
+    screenshot: true,
+    hotkey: true,
+    preload: 'auto',
+    logo: 'logo.png',
+    volume: 0.7,
+    mutex: true,
+    video: {
+        url: url,
+        pic: 'dplayer.png',
+        thumbnails: 'thumbnails.jpg',
+        type: 'auto',
+    },
+});
+</script>
