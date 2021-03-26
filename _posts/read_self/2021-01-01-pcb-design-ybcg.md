@@ -77,6 +77,13 @@ const dp = new DPlayer({
         thumbnails: 'thumbnails.jpg',
         type: 'auto',
     },
+    subtitle: {
+        url: 'dplayer.vtt',
+        type: 'webvtt',
+        fontSize: '25px',
+        bottom: '10%',
+        color: '#b7daff',
+    },
     contextmenu: [
         {
             text: 'custom1',
@@ -89,6 +96,15 @@ const dp = new DPlayer({
             },
         },
     ],
-
+    highlight: [
+        {
+            time: 20,
+            text: '这是第 20 秒',
+        },
+        {
+            time: 120,
+            text: '这是 2 分钟',
+        },
+    ],
 });
 </script>
