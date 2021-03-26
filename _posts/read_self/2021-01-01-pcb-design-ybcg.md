@@ -73,18 +73,10 @@ const dp = new DPlayer({
     mutex: true,
     video: {
         url: url1,
-        pic: 'https://gitee.com/hawkingwu/PicGo/raw/master/right-the-first-time-for-high-speed-pcb-design.jpg',
-        thumbnails: 'thumbnails.jpg',
+        pic: "https://gitee.com/hawkingwu/PicGo/raw/master/right-the-first-time-for-high-speed-pcb-design.jpg",
+        thumbnails: "https://gitee.com/hawkingwu/PicGo/raw/master/right-the-first-time-for-high-speed-pcb-design.jpg",
         type: 'auto',
     },
-    subtitle: {
-        url: 'dplayer.vtt',
-        type: 'webvtt',
-        fontSize: '25px',
-        bottom: '10%',
-        color: '#b7daff',
-    },
-
     contextmenu: [
         {
             text: 'custom1',
@@ -97,6 +89,6 @@ const dp = new DPlayer({
             },
         },
     ],
-  
+
 });
 </script>
