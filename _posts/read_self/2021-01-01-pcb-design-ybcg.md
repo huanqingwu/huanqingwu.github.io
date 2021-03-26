@@ -58,7 +58,7 @@ tags:
 <script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script>
 <script>
 var url1="https://files.catbox.moe/su1djc.mp4";    //这里填写视频地址
-var id=md5(url);
+var id=md5(url1);
 const dp = new DPlayer({
     container: document.getElementById('dplayer'),
     autoplay: false,
