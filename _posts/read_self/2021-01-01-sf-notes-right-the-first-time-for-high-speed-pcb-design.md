@@ -50,15 +50,4 @@ tags:
 <p><strong>内容形式：&nbsp;&nbsp;</strong></p>
 <p>内容以图文为主，涉及到软件操作以及需要精讲的部分会以视频进行讲解，视频以录播的形式不是直播授课的形式。</p>
 <p>为方便大家对于信号在PCB上传输行为的理解，老wu会大量借助于电磁场3D全波仿真软件，以可视化的场视图以及电流分布视图进行讲解。</p>
-
-<p><script type="text/javascript" src="https://player.dogecloud.com/js/loader"></script><br>
-<script type="text/javascript">
-var player = new DogePlayer({
-    container: document.getElementById('player'),
-    userId: 1661,
-    vcode: 'f070045ee6aa85a8',
-    autoPlay: false
-});
-</script></p>
-
-        </div>
+</div>
