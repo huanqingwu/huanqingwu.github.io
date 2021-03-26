@@ -72,7 +72,7 @@ const dp = new DPlayer({
     volume: 0.7,
     mutex: true,
     video: {
-        url: 'https://note.youdao.com/yws/api/personal/file/A5179538524342F78C5B3A865E96AA80?method=download&shareKey=af4a2d77bf71f15423cb980755998052',
+        url: 'https://files.catbox.moe/su1djc.mp4',
         pic: 'dplayer.png',
         thumbnails: 'thumbnails.jpg',
         type: 'auto',
