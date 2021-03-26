@@ -72,7 +72,7 @@ const dp = new DPlayer({
     volume: 0.7,
     mutex: true,
     video: {
-        url: 'https://files.catbox.moe/su1djc.mp4',
+        url: url1,
         pic: 'dplayer.png',
         thumbnails: 'thumbnails.jpg',
         type: 'auto',
