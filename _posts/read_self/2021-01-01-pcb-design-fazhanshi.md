@@ -1,5 +1,5 @@
 ---
-title: "PCB设计一板即成功专栏 持续更新中"
+title: "PCB的发展历史"
 subtitle: "PCB设计一板即成功专栏"
 layout: post
 date:   2021-01-01
