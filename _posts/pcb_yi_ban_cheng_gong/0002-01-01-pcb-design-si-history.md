@@ -126,7 +126,7 @@ tags:
 [2] Clayton R.Paul ，《电磁兼容导论 第2版》 ，人民邮电出版社， pp. 9–12.<p></p>
 <p>&nbsp;</p>		
 <div class="tutor-next-previous-pagination-wrap">
-			<a class="tutor-previous-link tutor-previous-link-27453" href="https://www.mr-wu.cn/courses/right-the-first-time-for-high-speed-pcb-design/lesson/pcb%e7%9a%84%e5%8f%91%e5%b1%95%e5%8e%86%e5%8f%b2/">← 上一个</a>
+			<a class="tutor-previous-link tutor-previous-link-27453" href="https://huanqingwu.github.io/2021/01/01/pcb-design-fazhanshi/">← 上一个</a>
 				<a class="tutor-next-link tutor-next-link-38426" href="https://www.mr-wu.cn/courses/right-the-first-time-for-high-speed-pcb-design/lesson/%e4%bf%a1%e5%8f%b7%e5%ae%8c%e6%95%b4%e6%80%a7%e7%9a%84%e5%8e%86%e5%8f%b2%ef%bc%88%e9%bb%91%e9%ad%94%e6%b3%95%e5%bc%80%e5%a7%8b%e5%87%ba%e7%8e%b0%ef%bc%89/">继续			→
 		</a>
 		</div>
