@@ -65,8 +65,8 @@ tags:
 <script src="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.js"></script>
 <script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script>
 <script>
-var url1="https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaE14N21leGY2b3FhNkJtaXNnYXdaTFo3MjQ/ZT1lV1pJOUU=.mp4";    //这里填写视频地址
-var pic1="https://gitee.com/hawkingwu/PicGo/raw/master/right-the-first-time-for-high-speed-pcb-design.jpg"
+var url1="https://files.catbox.moe/itg72m.mp4";    //这里填写视频地址
+var pic1="https://files.catbox.moe/fdwxnv.jpg"
 var id=md5(url1);
 const dp = new DPlayer({
     container: document.getElementById('dplayer'),
