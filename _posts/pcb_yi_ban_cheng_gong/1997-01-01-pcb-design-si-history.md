@@ -13,6 +13,7 @@ tags:
 
 <div class="tutor-lesson-content-area">
 
+
     <input type="hidden" id="tutor_video_tracking_information" value="{&quot;post_id&quot;:37358,&quot;best_watch_time&quot;:0,&quot;autoload_next_course_content&quot;:false}">
 		<p>市面上的关于信号完整性的书籍，开篇概述信号完整性的内容部分，老wu总结了一下，大概都是这样描述的：</p>
 <p>在时钟频率只有10 MHz的年代，电路板或封装设计的主要挑战就是如何在双层板上布通所有信号线，以及如何在组装时不破坏封装。由于互连线并未影响过系统性能，所以互连线本身的电气特性并不重要。在这种意义下，可以说<strong>“对信号而言，过去的互连线是畅通透明的”</strong>。</p>

@@ -13,6 +13,7 @@ tags:
 
 <div class="tutor-lesson-content-area">
 
+
     <input type="hidden" id="tutor_video_tracking_information" value="{&quot;post_id&quot;:27453,&quot;best_watch_time&quot;:0,&quot;autoload_next_course_content&quot;:false}">
 		<p>印刷电路板(PCB)是由相互连接的电子元件组成的独立模块，从我们身边日常使用的电子设备，如：手机、路由器、个人电脑到复杂的雷达、导弹、卫星上，都能找到它们的身影，只是它们靓丽的光芒被设备外壳给遮盖住了，你那天才般的设计往往被用户所忽视，直到设备出现故障或者需要功能扩展，拆开设备外壳的刹那才能领略它的美。</p>
 <h3>PCB史前时代</h3>
