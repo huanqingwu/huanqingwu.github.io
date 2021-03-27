@@ -57,7 +57,7 @@ tags:
 <script src="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.js"></script>
 <script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script>
 <script>
-var url1="https://files.catbox.moe/su1djc.mp4";    //这里填写视频地址
+var url1="https://ugc-att.shimo.im/RgDkmMxwgFPDeGXz.mp4?Expires=1616810999&OSSAccessKeyId=LTAI4FoEPTasjWkqu1meFaHK&Signature=DvAHQw7TnePGxMxHN1qyMFkKTGk%3D&response-content-disposition=inline%3B+filename%3D%22right-the-first-time-for-high-speed-pcb-design.mp4%22%3B+filename%2A%3DUTF-8%27%27right-the-first-time-for-high-speed-pcb-design.mp4";    //这里填写视频地址
 var pic1="https://gitee.com/hawkingwu/PicGo/raw/master/right-the-first-time-for-high-speed-pcb-design.jpg"
 var id=md5(url1);
 const dp = new DPlayer({
