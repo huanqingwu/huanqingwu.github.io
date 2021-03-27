@@ -97,3 +97,16 @@ const dp = new DPlayer({
 [![img](https://cdnimg.mr-wu.cn/wp-content/uploads/2021/01/信号完整性的历史（黑魔法开始出现）-反射问题.jpg)](https://cdnimg.mr-wu.cn/wp-content/uploads/2021/01/信号完整性的历史（黑魔法开始出现）-反射问题.jpg)
 
 还要关注阻抗不匹配造成的反射影响
+
+<div class="tutor-page-segment tutor-attachments-wrap">
+        <h3>附件</h3>
+                    <a href="https://www.mr-wu.cn/wp-content/uploads/2021/01/TI-Advanced-Schottky-Family.pdf" download="TI Advanced Schottky Family.pdf" class="tutor-lesson-attachment clearfix">
+                <div class="tutor-attachment-icon">
+                    <i class="tutor-icon-document"></i>
+                </div>
+                <div class="tutor-attachment-info">
+                    <span>TI Advanced Schottky Family.pdf</span>
+                    <span>1.85 MB</span>
+                </div>
+            </a>
+                </div>
