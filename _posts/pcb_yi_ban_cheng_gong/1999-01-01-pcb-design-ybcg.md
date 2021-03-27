@@ -8,7 +8,7 @@ header-style: text
 hidden: true
 catalog: true
 tags:
-  - 笔记
+  - PCB一板成功
 ---
 
 <div class="tutor-course-content-content">
