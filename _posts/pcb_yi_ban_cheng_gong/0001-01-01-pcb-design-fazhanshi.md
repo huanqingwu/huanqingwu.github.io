@@ -145,7 +145,7 @@ tags:
 <p>而光通信有很多传统电信号不具备的优势，比如带宽高、损耗低、无串扰、抗电磁干扰等等。实际上光纤已经彻底替代传统铜线用于长距离通信长达几十年之久，未来的发展趋势是光互连的通信距离将会逐渐变短，从国家之间的长距离通信到未来芯片内部的信号传输。</p>
 <p>目前业界普遍认为，当单通道速率达到25 Gb/s以上时，无论从技术实现还是成本上比较，电互连都将面临着极大的挑战。因此，要想克服电子计算机的“瓶颈”，就必须改变传统的基于铜线的互连方式，将光科技引入到电子系统中，用新的光互连代替传统的电互连，才能够大幅度提升计算机的运行速度并促进高速信息通信网的发展，进而满足社会发展的需要。</p>		
 <div class="tutor-next-previous-pagination-wrap">
-			<a class="tutor-next-link tutor-next-link-37358" href="https://www.mr-wu.cn/courses/right-the-first-time-for-high-speed-pcb-design/lesson/%e4%bf%a1%e5%8f%b7%e5%ae%8c%e6%95%b4%e6%80%a7%e7%9a%84%e5%8e%86%e5%8f%b2%ef%bc%88%e4%ba%92%e8%81%94%e6%98%af%e9%80%8f%e6%98%8e%e9%98%b6%e6%ae%b5%ef%bc%89/">继续			→
+			<a class="tutor-next-link tutor-next-link-37358" href="https://huanqingwu.github.io/2021/01/01/pcb-design-si-history/">继续			→
 		</a>
 		</div>
 </div>
