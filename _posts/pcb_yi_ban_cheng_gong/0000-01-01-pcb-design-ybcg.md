@@ -59,15 +59,13 @@ tags:
 
 为方便大家对于信号在PCB上传输行为的理解，老wu会大量借助于电磁场3D全波仿真软件，以可视化的场视图以及电流分布视图进行讲解。
 
-<iframe src="https://onedrive.live.com/embed?cid=2AAA7FB167EE3113&resid=2AAA7FB167EE3113%21107&authkey=AJgWRZ4q5oUCUHA" width="98" height="120" frameborder="0" scrolling="no"></iframe>
-
 
 <link href="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.css" rel="stylesheet">
 <div id="dplayer"></div>
 <script src="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.js"></script>
 <script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script>
 <script>
-var url1="https://onedrive.live.com/embed?cid=2AAA7FB167EE3113&resid=2AAA7FB167EE3113%21107&authkey=AJgWRZ4q5oUCUHA";    //这里填写视频地址
+var url1="https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaE14N21leGY2b3FhNkJtaXNnYXdaTFo3MjQ/ZT1lV1pJOUU=.mp4";    //这里填写视频地址
 var pic1="https://gitee.com/hawkingwu/PicGo/raw/master/right-the-first-time-for-high-speed-pcb-design.jpg"
 var id=md5(url1);
 const dp = new DPlayer({
