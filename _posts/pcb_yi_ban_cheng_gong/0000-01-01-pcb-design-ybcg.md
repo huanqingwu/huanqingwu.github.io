@@ -66,7 +66,8 @@ tags:
 <script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script>
 <script>
 var url1="https://files.catbox.moe/itg72m.mp4";    //这里填写视频地址
-var pic1="https://files.catbox.moe/fdwxnv.jpg"
+var pic1="https://files.catbox.moe/fdwxnv.jpg";
+var logopng="https://gitee.com/hawkingwu/PicGo/raw/master/linearroglogo_l.png";
 var id=md5(url1);
 const dp = new DPlayer({
     container: document.getElementById('dplayer'),
@@ -77,7 +78,7 @@ const dp = new DPlayer({
     screenshot: true,
     hotkey: true,
     preload: 'auto',
-    logo: 'logo.png',
+    logo: logopng,
     volume: 0.7,
     mutex: true,
     video: {
