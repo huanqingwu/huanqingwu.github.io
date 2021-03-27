@@ -18,7 +18,7 @@ tags:
 <script src="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.js"></script>
 <script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script>
 <script>
-var url1="https://files.catbox.moe/itg72m.mp4";    //这里填写视频地址
+var url1="https://files.catbox.moe/wj5c9d.ts";    //这里填写视频地址
 var pic1="https://files.catbox.moe/fdwxnv.jpg";
 var logopng="https://gitee.com/hawkingwu/PicGo/raw/master/linearroglogo_l.png";
 var id=md5(url1);
