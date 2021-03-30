@@ -16,7 +16,7 @@ tags:
 
 PSRR（Power supply rejection ratio）又称电源抑制比，是衡量电路对于输入电源中纹波抑制大小的重要参数，表示为输出纹波和输入纹波的对数比，单位为分贝（dB）[1]，其计算公式为:
 
-$${ PSRR } = 20 \lg \frac {  { Ripple } _ {  {input } } } {  { Ripple } _ {  {output } } }$$
+$$ { PSRR } = 20 \lg \frac {  { Ripple } _ {  {input } } } {  { Ripple } _ {  {output } } } $$
 
 式中
 
