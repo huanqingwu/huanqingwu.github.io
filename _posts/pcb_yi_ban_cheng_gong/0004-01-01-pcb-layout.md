@@ -126,8 +126,10 @@ const dp = new DPlayer({
 
 <a href="https://www.mr-wu.cn/wp-content/uploads/2021/01/电路分析基础.pdf" target="_blank">电路分析基础.pdf 8.29 MB</a>
 
-[电磁现象的基本规律 与电磁波.pdf 2.46 MB](https://www.mr-wu.cn/wp-content/uploads/2021/01/电磁现象的基本规律-与电磁波.pdf)
+<a href="https://www.mr-wu.cn/wp-content/uploads/2021/01/电磁现象的基本规律-与电磁波.pdf" target="_blank">电磁现象的基本规律 与电磁波.pdf 2.46 MB</a>
 
-[由基尔霍夫定律看电磁场理论与电路理论的关系.pdf 318.84 KB](https://www.mr-wu.cn/wp-content/uploads/2021/01/由基尔霍夫定律看电磁场理论与电路理论的关系.pdf)
+<a href="https://www.mr-wu.cn/wp-content/uploads/2021/01/由基尔霍夫定律看电磁场理论与电路理论的关系.pdf" target="_blank">由基尔霍夫定律看电磁场理论与电路理论的关系.pdf 318.84 KB</a>
+
+[]()
 
 [← 上一个](https://www.mr-wu.cn/courses/right-the-first-time-for-high-speed-pcb-design/lesson/信号完整性的历史（黑魔法开始出现）/) [继续 →](https://www.mr-wu.cn/courses/right-the-first-time-for-high-speed-pcb-design/lesson/高频？高速？更要关注带宽！/)
