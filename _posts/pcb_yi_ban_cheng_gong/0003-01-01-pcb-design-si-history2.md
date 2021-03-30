@@ -43,7 +43,7 @@ const dp = new DPlayer({
     contextmenu: [
         {
             text: 'custom1',
-            link: 'https://github.com/DIYgod/DPlayer',
+            link: 'https://huanqingwu.github.io/',
         },
         {
             text: 'custom2',
