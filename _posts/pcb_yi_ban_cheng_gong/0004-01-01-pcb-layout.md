@@ -124,7 +124,7 @@ const dp = new DPlayer({
 
 ### 附件
 
-[电路分析基础.pdf 8.29 MB](https://www.mr-wu.cn/wp-content/uploads/2021/01/电路分析基础.pdf)
+<a href="https://www.mr-wu.cn/wp-content/uploads/2021/01/电路分析基础.pdf" target="_blank">电路分析基础.pdf 8.29 MB</a>
 
 [电磁现象的基本规律 与电磁波.pdf 2.46 MB](https://www.mr-wu.cn/wp-content/uploads/2021/01/电磁现象的基本规律-与电磁波.pdf)
 
