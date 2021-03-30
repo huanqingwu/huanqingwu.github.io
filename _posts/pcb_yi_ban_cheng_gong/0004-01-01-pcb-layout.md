@@ -32,6 +32,49 @@ tags:
 而真实世界的情形是，导体本身是不能传输和存储能量的。能量存储在场中，也通过场来传输能量，而导体只是为能量流动路径提供了方向指引。
 
 
+<link href="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.css" rel="stylesheet">
+<div id="dplayer"></div>
+<script src="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.js"></script>
+<script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script>
+<script>
+var url1="https://files.catbox.moe/gg562y.mp4";    //这里填写视频地址
+var pic1="https://files.catbox.moe/tmg0nm.jpg";   //这里填写预览图片地址
+var logopng="https://gitee.com/hawkingwu/PicGo/raw/master/linearroglogo_l.png";  //logo
+var id=md5(url1);
+const dp = new DPlayer({
+    container: document.getElementById('dplayer'),
+    autoplay: false,
+    theme: '#FADFA3',
+    loop: true,
+    lang: 'zh-cn',
+    screenshot: true,
+    hotkey: true,
+    preload: 'auto',
+    logo: logopng,
+    volume: 0.7,
+    mutex: true,
+    video: {
+        url: url1,
+        pic: pic1,
+        thumbnails: pic1,
+        type: 'auto',
+    },
+    contextmenu: [
+        {
+            text: 'custom1',
+            link: 'https://github.com/DIYgod/DPlayer',
+        },
+        {
+            text: 'custom2',
+            click: (player) => {
+                console.log(player);
+            },
+        },
+    ],
+
+});
+</script>
+
 
 **这看起来很疯狂不是吗，但这就是真实的世界。**
 
