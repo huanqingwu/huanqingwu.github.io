@@ -81,6 +81,3 @@ tags:
 <a href="https://www.mr-wu.cn/wp-content/uploads/2021/01/Transceiver-Link-Design-Guidelines-for-High-Gbps.pdf" target="_blank">Transceiver Link Design Guidelines for High-Gbps.pdf 3.15 MB</a>
 
 <a href="https://www.mr-wu.cn/wp-content/uploads/2021/01/serdes_and_its_role_in_future_designs.pdf" target="_blank">serdes_and_its_role_in_future_designs.pdf 1.41 MB</a>
-
-
-[← 上一个](https://www.mr-wu.cn/courses/right-the-first-time-for-high-speed-pcb-design/lesson/pcb设计拉线到底拉的是什么/) [继续 →](https://www.mr-wu.cn/courses/right-the-first-time-for-high-speed-pcb-design/lesson/pcb上信号传播的速度，绕等长？不！我们要的是等/)
