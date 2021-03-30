@@ -5,6 +5,8 @@ subtitle:   " PSRR的测量原理及方法 "
 date:       2021-03-30
 author:     "huanqing"
 header-img: "img/post-bg-LT3042.jpg"
+mathjax: true
+catalog: true
 tags:
     - 电源
     - 模拟电路
@@ -12,7 +14,7 @@ tags:
 
 ## 电源抑制比（PSRR）的测量原理及解决方法
 
-PSRR（Power supply rejection ratio）又称电源抑制比，是衡量电路对于输入电源中纹波抑制大小的重要参数，表示为输出纹波和输入纹波的对数比，单位为分贝（dB）[1]，其计算公式为: 
+PSRR（Power supply rejection ratio）又称电源抑制比，是衡量电路对于输入电源中纹波抑制大小的重要参数，表示为输出纹波和输入纹波的对数比，单位为分贝（dB）[1]，其计算公式为:
 $$
 { PSRR } = 20 \lg \frac {  { Ripple } _ {  {input } } } {  { Ripple } _ {  {output } } }
 $$
@@ -156,4 +158,3 @@ THS3120和OPA211供电电压为±15V，THS3120直流电压为3.2V，交流正弦
 相关文献：
 
 [LDO PSRR Measurement Simplified (Rev. A)](https://www.ti.com/lit/an/slaa414a/slaa414a.pdf)
-
