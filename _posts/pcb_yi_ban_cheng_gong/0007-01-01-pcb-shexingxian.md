@@ -15,6 +15,8 @@ tags:
 
 但走线间物理长度相等了，信号传播时间也会不一致，在[PCB上信号传播的速度，绕等长？不！我们要的是等时！（一）](https://huanqing.netlify.app/2021/01/01/pcb-weidaixian/) 这篇专栏文章我们了解到微带线和带状线由于有效介电常数不一致，物理长度相等而信号传播延时不相等的情况，此篇我们来了解绕蛇线等长而不等时的情况。
 
+<p>
+
 <link href="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.css" rel="stylesheet">
 <div id="dplayer"></div>
 <script src="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.js"></script>
@@ -57,7 +59,7 @@ const dp = new DPlayer({
 });
 </script>
 
-
+</p>
 
 如上视频所示，两条微带线物理长度相等，我们可以看到信号在走线中传播的路径有很大区别，并且信号传播的时间也不一致。
 
@@ -82,6 +84,7 @@ const dp = new DPlayer({
 <img src="https://cdnimg.mr-wu.cn/wp-content/uploads/2021/03/蛇形线间距.png" alt="img" style="zoom: 33%;" />
 
 **控制走线间距（g)为多少合适？**
+<p>
 
 <link href="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.css" rel="stylesheet">
 <div id="dplayer"></div>
@@ -125,6 +128,6 @@ const dp = new DPlayer({
 });
 </script>
 
-通过上边的演示视频我们可以发现，走线间距（g)为多少合适考虑到走线与参考层间距H的因素
+</p>
 
-![img](https://cdnimg.mr-wu.cn/wp-content/uploads/2021/03/串扰-关于h关系.png)
+通过上边的演示视频我们可以发现，走线间距（g)为多少合适考虑到走线与参考层间距H的因素
