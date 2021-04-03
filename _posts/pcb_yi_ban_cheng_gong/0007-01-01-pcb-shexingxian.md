@@ -25,7 +25,7 @@ var url1="https://files.catbox.moe/uof8wj.mp4";    //这里填写视频地址
 var pic1="https://files.catbox.moe/oox6rt.jpg";   //这里填写预览图片地址
 var logopng="https://gitee.com/hawkingwu/PicGo/raw/master/linearroglogo_l.png";  //logo
 var id=md5(url1);
-const dp = new DPlayer1({
+const dp = new DPlayer({
     container: document.getElementById('dplayer'),
     autoplay: false,
     theme: '#FADFA3',
