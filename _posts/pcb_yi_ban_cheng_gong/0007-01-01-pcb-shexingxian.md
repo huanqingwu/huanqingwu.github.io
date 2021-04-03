@@ -56,9 +56,9 @@ tags:
 <script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script>
 <script>
 var url1="https://files.catbox.moe/uof8wj.mp4";    //这里填写视频地址
-var pic1="https://files.catbox.moe/oox6rt.jpg";   //这里填写预览图片地址
+var pic1="https://files.catbox.moe/m0nbx0.jpg";   //这里填写预览图片地址
 var url2="https://files.catbox.moe/0qghyi.mp4";    //这里填写视频地址
-var pic2="https://files.catbox.moe/8a6tq2.jpg";   //这里填写预览图片地址
+var pic2="https://files.catbox.moe/mg8ouv.jpg";   //这里填写预览图片地址
 var logopng="https://gitee.com/hawkingwu/PicGo/raw/master/linearroglogo_l.png";  //logo
 var id=md5(url1);
 var id=md5(url2);
