@@ -26,7 +26,7 @@ var pic1="https://files.catbox.moe/oox6rt.jpg";   //这里填写预览图片地�
 var logopng="https://gitee.com/hawkingwu/PicGo/raw/master/linearroglogo_l.png";  //logo
 var id=md5(url1);
 const dp = new DPlayer({
-    container: document.getElementById('dplayer'),
+    container: document.getElementById('dplayer1'),
     autoplay: false,
     theme: '#FADFA3',
     loop: true,
@@ -94,7 +94,7 @@ var pic2="https://files.catbox.moe/8a6tq2.jpg";   //这里填写预览图片地�
 var logopng="https://gitee.com/hawkingwu/PicGo/raw/master/linearroglogo_l.png";  //logo
 var id=md5(url2);
 const dp = new DPlayer({
-    container: document.getElementById('dplayer'),
+    container: document.getElementById('dplayer2'),
     autoplay: false,
     theme: '#FADFA3',
     loop: true,
