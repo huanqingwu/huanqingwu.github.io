@@ -16,8 +16,9 @@ tags:
 但走线间物理长度相等了，信号传播时间也会不一致，在[PCB上信号传播的速度，绕等长？不！我们要的是等时！（一）](https://huanqing.netlify.app/2021/01/01/pcb-weidaixian/) 这篇专栏文章我们了解到微带线和带状线由于有效介电常数不一致，物理长度相等而信号传播延时不相等的情况，此篇我们来了解绕蛇线等长而不等时的情况。
 
 
-<link href="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.css" rel="stylesheet">
+
 <div id="dplayer1"></div>
+<link href="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.css" rel="stylesheet">
 <script src="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.js"></script>
 <script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script>
 <script>
