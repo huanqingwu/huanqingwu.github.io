@@ -15,10 +15,9 @@ tags:
 
 但走线间物理长度相等了，信号传播时间也会不一致，在[PCB上信号传播的速度，绕等长？不！我们要的是等时！（一）](https://huanqing.netlify.app/2021/01/01/pcb-weidaixian/) 这篇专栏文章我们了解到微带线和带状线由于有效介电常数不一致，物理长度相等而信号传播延时不相等的情况，此篇我们来了解绕蛇线等长而不等时的情况。
 
-<div id="dplayer1">
 
 <link href="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.css" rel="stylesheet">
-<div id="dplayer"></div>
+<div id="dplayer1"></div>
 <script src="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.js"></script>
 <script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script>
 <script>
@@ -26,7 +25,7 @@ var url1="https://files.catbox.moe/uof8wj.mp4";    //这里填写视频地址
 var pic1="https://files.catbox.moe/oox6rt.jpg";   //这里填写预览图片地址
 var logopng="https://gitee.com/hawkingwu/PicGo/raw/master/linearroglogo_l.png";  //logo
 var id=md5(url1);
-const dp = new DPlayer({
+const dp = new DPlayer1({
     container: document.getElementById('dplayer'),
     autoplay: false,
     theme: '#FADFA3',
@@ -59,7 +58,6 @@ const dp = new DPlayer({
 });
 </script>
 
-</div>
 
 如上视频所示，两条微带线物理长度相等，我们可以看到信号在走线中传播的路径有很大区别，并且信号传播的时间也不一致。
 
@@ -85,17 +83,16 @@ const dp = new DPlayer({
 
 **控制走线间距（g)为多少合适？**
 
-<div id="dplayer2">
 
 <link href="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.css" rel="stylesheet">
-<div id="dplayer"></div>
+<div id="dplayer2"></div>
 <script src="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.js"></script>
 <script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script>
 <script>
-var url1="https://files.catbox.moe/0qghyi.mp4";    //这里填写视频地址
-var pic1="https://files.catbox.moe/8a6tq2.jpg";   //这里填写预览图片地址
+var url2="https://files.catbox.moe/0qghyi.mp4";    //这里填写视频地址
+var pic2="https://files.catbox.moe/8a6tq2.jpg";   //这里填写预览图片地址
 var logopng="https://gitee.com/hawkingwu/PicGo/raw/master/linearroglogo_l.png";  //logo
-var id=md5(url1);
+var id=md5(url2);
 const dp = new DPlayer({
     container: document.getElementById('dplayer'),
     autoplay: false,
@@ -109,9 +106,9 @@ const dp = new DPlayer({
     volume: 0.7,
     mutex: true,
     video: {
-        url: url1,
-        pic: pic1,
-        thumbnails: pic1,
+        url: url2,
+        pic: pic2,
+        thumbnails: pic2,
         type: 'auto',
     },
     contextmenu: [
@@ -129,6 +126,5 @@ const dp = new DPlayer({
 });
 </script>
 
-</div>
 
 通过上边的演示视频我们可以发现，走线间距（g)为多少合适考虑到走线与参考层间距H的因素
