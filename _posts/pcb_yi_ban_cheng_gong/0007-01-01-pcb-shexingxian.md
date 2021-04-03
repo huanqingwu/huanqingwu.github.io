@@ -46,8 +46,9 @@ tags:
 
 <div id="dplayer2"></div>
 
-
 通过上边的演示视频我们可以发现，走线间距（g)为多少合适考虑到走线与参考层间距H的因素
+
+<img src="https://cdnimg.mr-wu.cn/wp-content/uploads/2021/03/串扰-关于h关系.png" alt="img" style="zoom: 33%;" />
 
 
 
