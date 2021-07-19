@@ -57,7 +57,7 @@ APlayer ↓
                       {
                           name: '第1章 人类：一种也没什么特别的动物（1）',
                           artist: '《人类简史》',
-                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens01_1.mp3',
+                          url: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3YwVFE5dU1ETEZiTmlQOU0yNDZjRy04dk0_ZT1aUjFzdlc.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
