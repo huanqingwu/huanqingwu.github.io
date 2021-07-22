@@ -57,42 +57,42 @@ APlayer ↓
                       {
                           name: '第1章 人类：一种也没什么特别的动物（1）',
                           artist: '《人类简史》',
-                          url: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3YwVFE5dU1ETEZiTmlQOU0yNDZjRy04dk0_ZT1aUjFzdlc.mp3',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens01_1.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第1章 人类：一种也没什么特别的动物（2）',
                           artist: '《人类简史》',
-                          url: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3YwVFE5dU1ETEZibm9GSTlEQWVSZkZTN2M_ZT1yMUVlZUM.mp3',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens01_2.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第2章 知善恶树（1）',
                           artist: '《人类简史》',
-                          url: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3YwVFE5dU1ETEZiZE5nVHdKRmhjeGJaUzg_ZT02RmZLTTE.mp3',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens02_1.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第2章 知善恶树（2）',
                           artist: '《人类简史》',
-                          url: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3YwVFE5dU1ETEZiM0MxQnJDdy1tT1l3emM_ZT1uY2g5NGQ.mp3',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens02_2.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第3章 亚当和夏娃的一天（1）',
                           artist: '《人类简史》',
-                          url: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3YwVFE5dU1ETEZjQVJmSkJQV3ZfNFlRYU0_ZT1sYVF5WWE.mp3',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens03_1.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '第3章 亚当和夏娃的一天（2）',
                           artist: '《人类简史》',
-                          url: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3YwVFE5dU1ETEZjWVpXNmV6WWJhQlhiLXM_ZT1XRGhNc1k.mp3',
+                          url: 'https://huanqingwu.coding.net/p/netdisk/d/netdisk/git/raw/master/audio/Sapiens03_2.mp3',
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
