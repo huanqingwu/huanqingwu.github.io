@@ -8,7 +8,9 @@ catalog: true
 tags:
     - 经济学
     - 电子书
-typora-root-url: ./..\img\in-post\post-30mins-economics
+
+typora-copy-images-to: ./..\img\in-post\post-30mins-economics
+typora-root-url: ./..
 ---
 
 
@@ -33,3 +35,4 @@ typora-root-url: ./..\img\in-post\post-30mins-economics
 
 ### 一、开篇：们为什么要读经济学
 
+![image-20230909174920467](/img/in-post/post-30mins-economics/image-20230909174920467.png)
