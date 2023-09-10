@@ -1029,14 +1029,3 @@ typora-root-url: ./..
 &emsp;&emsp;
 
 &emsp;&emsp;
-
-&emsp;&emsp;
-
-# This is a title	注意：此处“#”代指这是一处标题，标题名为“This is a title”
-
-...
-...
-
-# 链接到上面的 title
-[任意文本](#This is a title)
-
