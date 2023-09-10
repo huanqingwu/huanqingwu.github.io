@@ -125,7 +125,7 @@ typora-root-url: ./..
 
 #### <center>经济是怎么来的？</center>
 
-##### 一、经济起源
+##### I、经济起源
 
 &emsp;&emsp;首先，经济是什么？
 
@@ -234,7 +234,7 @@ typora-root-url: ./..
 
 <img src="/img/in-post/post-30mins-economics/image-20230910090113742.png" alt="image-20230910090113742" style="zoom:67%;" />
 
-##### 二、 “经济”这个词是咋来的
+##### II、 “经济”这个词是咋来的
 
 &emsp;&emsp;其实经济这个词，一开始的意思跟现在差了八条街。想知道它咋来的，咱得记住三个地方：
 
@@ -278,7 +278,7 @@ typora-root-url: ./..
 
 <img src="/img/in-post/post-30mins-economics/image-20230910090534997.png" alt="image-20230910090534997" style="zoom:67%;" />
 
-##### 三、经济的学问
+##### III、经济的学问
 
 &emsp;&emsp;有了经济，人们就开始研究它，用力一猛，就研究出很多学科，混子哥帮你做了张表：
 
