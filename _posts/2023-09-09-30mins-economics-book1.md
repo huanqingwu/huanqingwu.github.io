@@ -66,3 +66,94 @@ typora-root-url: ./..
 &emsp;&emsp;比如美国南北战争：
 
 <img src="/img/in-post/post-30mins-economics/image-20230909175316750.png" alt="image-20230909175316750" style="zoom:67%;" />
+
+<img src="/img/in-post/post-30mins-economics/image-20230910083338432.png" alt="image-20230910083338432" style="zoom:67%;" />
+
+&emsp;&emsp;经济问题没谈拢，南北方一言不合杠上了，后来就发生了南北战争。
+
+&emsp;&emsp;比如第二次世界大战：
+
+&emsp;&emsp;典型的全球经济多米诺，美国经济歇菜，影响了世界格局。
+
+<img src="/img/in-post/post-30mins-economics/image-20230910083506518.png" alt="image-20230910083506518" style="zoom:67%;" />
+
+&emsp;&emsp;再比如中国古代农民起义：
+
+&emsp;&emsp;表面上是政治原因，
+
+&emsp;&emsp;<img src="/img/in-post/post-30mins-economics/image-20230910083534089.png" alt="image-20230910083534089" style="zoom:67%;" />
+
+&emsp;&emsp;其实很大程度是经济原因。官府横征暴敛，征的是税，敛的是老百姓财产。
+
+&emsp;&emsp;想象一下，你家的钱全被皇帝收走去泡妹子了，你会咋做？
+
+<img src="/img/in-post/post-30mins-economics/image-20230910083628231.png" alt="image-20230910083628231" style="zoom:67%;" />
+
+#####         2、微观方面
+
+&emsp;&emsp;无论你是谁，是哪里人，无论你喜欢诗词歌赋还是地理生物，只要你活着，就逃不开经济。
+
+&emsp;&emsp;比如牛顿：
+
+&emsp;&emsp;你只知道他是个物理学家，却不知道他还是英国铸币厂高管，提出了金本位。
+
+<img src="/img/in-post/post-30mins-economics/image-20230910083730351.png" alt="image-20230910083730351" style="zoom:67%;" />
+
+&emsp;&emsp;再比如个人和市场：
+
+&emsp;&emsp;烧烤店师傅起早贪黑提供夜宵服务，是因为有钱赚。
+
+<img src="/img/in-post/post-30mins-economics/image-20230910083758909.png" alt="image-20230910083758909" style="zoom:67%;" />
+
+&emsp;&emsp;公司研发减肥产品，是因为市场有这个刚需，利润丰富。
+
+<img src="/img/in-post/post-30mins-economics/image-20230910083832470.png" alt="image-20230910083832470" style="zoom:67%;" />
+
+&emsp;&emsp;有些经济学家就觉得，市场上的产品和服务，大多是受利益驱使的。在利益的驱使下，经济就自行运转开了。
+
+<img src="/img/in-post/post-30mins-economics/image-20230910083909700.png" alt="image-20230910083909700" style="zoom:67%;" />
+
+&emsp;&emsp;恭喜你，一不小心就看懂了亚当·斯密的隐喻——看不见的手。
+
+&emsp;&emsp;看明白了吧，如果我们把人类社会比作烤串，那经济的作用，就是这根签子，
+
+<img src="/img/in-post/post-30mins-economics/image-20230910083943802.png" alt="image-20230910083943802" style="zoom:67%;" />
+
+&emsp;&emsp;贯穿始终，支撑全局。
+
+&emsp;&emsp;如果我们要想搞明白人类是怎么活成这样的、世界是怎么运转起来的，就要跟着混子哥，先搞明白这个问题：
+
+#### <center>经济是怎么来的？</center>
+
+&emsp;&emsp;
+
+&emsp;&emsp;
+
+&emsp;&emsp;
+
+&emsp;&emsp;
+
+&emsp;&emsp;
+
+&emsp;&emsp;
+
+&emsp;&emsp;
+
+&emsp;&emsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
