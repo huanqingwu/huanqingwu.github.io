@@ -620,41 +620,77 @@ typora-root-url: ./..
 
 <img src="/img/in-post/post-30mins-economics/image-20230910132655251.png" alt="image-20230910132655251" style="zoom:25%;" />
 
-&emsp;&emsp;
+&emsp;&emsp;话说每一个初入职场的年轻人，都会有相同的烦恼：说好税前一万五，发完工资只够吃土，莫名其妙少了一大笔钱，这是怎么回事？
 
-&emsp;&emsp;
+<img src="/img/in-post/post-30mins-economics/image-20230910083909700.png" alt="image-20230910083909700" style="zoom:67%;" />
 
-&emsp;&emsp;
+&emsp;&emsp;除了税，少的这笔钱就是我们工作中逃不开的五险一金。
 
-&emsp;&emsp;
+&emsp;&emsp;辛辛苦苦缴了这么多年，但你真的懂五险一金是什么吗？
 
-&emsp;&emsp;
+##### 一、 五险一金是啥
 
-&emsp;&emsp;
+&emsp;&emsp;咱们先来捋一下“一金”。
 
-&emsp;&emsp;
+&emsp;&emsp;话说，这年头大多数人上班挣钱都想买房。但混子哥还不了解你们吗？工资全贡献给GDP了，拿啥买？
 
-&emsp;&emsp;
+<img src="/img/in-post/post-30mins-economics/image-20230912081023846.png" alt="image-20230912081023846" style="zoom: 67%;" />
 
-&emsp;&emsp;
+&emsp;&emsp;别怕，你每个月的工资，有一部分会自动存到一个账户里。
 
-&emsp;&emsp;
+<img src="/img/in-post/post-30mins-economics/image-20230912081101265.png" alt="image-20230912081101265" style="zoom:67%;" />
 
-&emsp;&emsp;
+&emsp;&emsp;说完了“一金”，那“五险”又是什么？
 
-&emsp;&emsp;
+&emsp;&emsp;话说咱们上班族，要是出点啥意外，可不得了，下能影响加班，上能拖经济后腿。
 
-&emsp;&emsp;
+<img src="/img/in-post/post-30mins-economics/image-20230912081126561.png" alt="image-20230912081126561" style="zoom:67%;" />
 
-&emsp;&emsp;
+&emsp;&emsp;公司为了让你好好工作，没有后顾之忧，帮你买了五份保险，也就是五险：
 
-&emsp;&emsp;
+<img src="/img/in-post/post-30mins-economics/image-20230912081146791.png" alt="image-20230912081146791" style="zoom:67%;" />
 
-&emsp;&emsp;
+&emsp;&emsp;统称社保，生老病死一条龙服务，谁都用得着。
 
-&emsp;&emsp;
+&emsp;&emsp;人在江湖飘，在你上班赚钱的时候，最怕啥？
 
-&emsp;&emsp;
+<img src="/img/in-post/post-30mins-economics/image-20230912081206331.png" alt="image-20230912081206331" style="zoom:67%;" />
+
+<img src="/img/in-post/post-30mins-economics/image-20230910083338432.png" alt="image-20230910083338432" style="zoom:67%;" />
+
+&emsp;&emsp;温馨提示：
+
+&emsp;&emsp;五险一金是国家强制公司缴的公司不给缴就是违法。
+
+&emsp;&emsp;公司给员工缴了社保，大家干起活儿来才没后顾之忧嘛！
+
+<img src="/img/in-post/post-30mins-economics/image-20230912081259990.png" alt="image-20230912081259990" style="zoom:67%;" />
+
+<img src="/img/in-post/post-30mins-economics/image-20230910083909700.png" alt="image-20230910083909700" style="zoom:67%;" />
+
+&emsp;&emsp;想对五险一金有个全面认识，得先搞懂社保的起源。
+
+##### 二、 社保是怎么来的
+
+&emsp;&emsp;故事是这样的：
+
+&emsp;&emsp;话说十六七世纪的英国，五行缺土，贵族们天天骑着宝马，到处抢地皮——
+
+<img src="/img/in-post/post-30mins-economics/image-20230912081410331.png" alt="image-20230912081410331" style="zoom:67%;" />
+
+&emsp;&emsp;史称圈地运动。
+
+&emsp;&emsp;圈地干啥？养羊啊！
+
+&emsp;&emsp;因为当时英国纺织业厉害，非常赚钱！
+
+&emsp;&emsp;全养了羊，没地种了，英国那么多农民怎么办？
+
+<img src="/img/in-post/post-30mins-economics/image-20230912081450276.png" alt="image-20230912081450276" style="zoom:67%;" />
+
+&emsp;&emsp;于是农民惨遭驱赶，到处流浪，社会动荡，英国政府急了，决定颁布条法律管管——
+
+<img src="/img/in-post/post-30mins-economics/image-20230912081517188.png" alt="image-20230912081517188" style="zoom:67%;" />
 
 &emsp;&emsp;
 
