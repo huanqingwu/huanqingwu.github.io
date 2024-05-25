@@ -10,7 +10,9 @@ catalog: true
 tags:
     - 模拟电路
     - 理想二极管
-
+    - 
+typora-copy-images-to: ./..\img\in-post\post-half-wave-rectifier
+typora-root-url: ./..
 ---
 
 ## 电源抑制比（PSRR）的测量原理及解决方法
@@ -19,25 +21,25 @@ tags:
 
 如果你在百度搜索“理想二极管电路”或“精密整流电路”，大概率会获得形如下图的电路：
 
-<img src="img\in-post\post-half-wave-rectifier\20240525100800.png" style="zoom: 50%;" />
+<img src="/img/in-post/post-half-wave-rectifier/20240525100800.png" style="zoom: 50%;" />
 
 ​	此电路在低频或运放压摆率非常高的情况下可以实现理想二极管的功能，在高频下的问题我们后面再讨论。先来看一下ADI是如何实现半波整流的：
 
-<img src="img\in-post\post-half-wave-rectifier\20240525100852.png" style="zoom: 67%;" />
+<img src="/img/in-post/post-half-wave-rectifier/20240525100852.png" style="zoom: 67%;" />
 
 ​	运放U3是我加的1倍反向放大电路，其余部分摘自ADI小型指南 MT-212 。两个电路有怎样的区别？ADI为什么要用更多的器件？先看一下仿真输出的波形：
 
-<img src="img\in-post\post-half-wave-rectifier\20240525100853.png" alt="图片" style="zoom:67%;" />
+<img src="/img/in-post/post-half-wave-rectifier/20240525100853.png" alt="图片" style="zoom:67%;" />
 
 ​	蓝色输入信号为20kHz正弦波，似乎红色Vout1在交流信号过零处有一些“反应不过来”，而绿色的Vout2则好很多。
 
 ​	再来观察一下运放的输出端波形：
 
-<img src="img\in-post\post-half-wave-rectifier\20240525100956.png" style="zoom:67%;" />
+<img src="/img/in-post/post-half-wave-rectifier/20240525100956.png" style="zoom:67%;" />
 
 ​	看到这里应该破案了吧，回到ADI的经典电路：
 
-<img src="img\in-post\post-half-wave-rectifier\20240525101022.png" style="zoom: 67%;" />
+<img src="/img/in-post/post-half-wave-rectifier/20240525101022.png" style="zoom: 67%;" />
 
 ​	对于正输入电压，运放会输出负电压，D2正向导通，运放只要输出约-0.7V的电压就能使Vin- = Vin+；当信号输入为负电压时，运放输出正电压，D2截止D1导通，就成了经典的反向放大电路。
 
