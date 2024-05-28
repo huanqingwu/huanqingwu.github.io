@@ -26,12 +26,15 @@ typora-root-url: ./..
 $$
 I_{R_2}=I_{R_1}+I_{R_3}
 $$
+
 $$
 \frac{V_{F B}}{R_2}=\frac{V_{\text {out }}-V_{F B}}{R_1}+\frac{V_{\text {dac }}-V_{F B}}{R_3}
 $$
+
 $$
 V_{\text {out }}=V_{F B}\left(\frac{R_1+R_2}{R_2}+\frac{R_1}{R_3}\right)-V_{\text {dac }} \frac{R_1}{R_3}
 $$
+
 ​	可得出 Vout 与 Vdac 是负线性关系，确定与坐标轴的两个截距就能确定输入输出关系。
 
 <img src="/img/in-post/post-control-dcdc-output/image-20240528104443386.png" alt="image-20240528104443386" style="zoom: 80%;" />
@@ -49,7 +52,9 @@ $$
 $$
 \frac{R_2 R_3}{R_2 + R_3} =18100 \mathrm{Ω}
 $$
+
 ​	根据上面两个等式用数学软件解出：
+
 $$
 \begin{aligned}
 & R_1=430 \mathrm{k} \Omega \\
@@ -57,6 +62,7 @@ $$
 & R_3=57.2994 \mathrm{k} \Omega
 \end{aligned}
 $$
+
 ​	使用E24系电阻并联，在LTspice中仿真得到，输出电压最高23.95V。
 
 ![image-20240528134359770](/img/in-post/post-control-dcdc-output/image-20240528134359770.png)
