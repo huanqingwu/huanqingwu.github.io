@@ -29,7 +29,7 @@ I_{R_2}=I_{R_1}+I_{R_3} \\
 \frac{V_{F B}}{R_2}=\frac{V_{\text {out }}-V_{F B}}{R_1}+\frac{V_{\mathrm{dac}}-V_{F B}}{R_3} \\
 V_{\text {out }}=V_{F B}\left(\frac{R_1+R_2}{R_2}+\frac{R_1}{R_3}\right)-V_{\mathrm{dac}} \frac{R_1}{R_3}
 \end{gathered}
-\[
+\]
 
 ​	可得出 Vout 与 Vdac 是负线性关系，确定与坐标轴的两个截距就能确定输入输出关系。
 
@@ -39,9 +39,9 @@ V_{\text {out }}=V_{F B}\left(\frac{R_1+R_2}{R_2}+\frac{R_1}{R_3}\right)-V_{\mat
 
 ​	边界条件1：Vdac = 3.2V时， Vout = 0，即
 
-$$
+\[
 \left(\frac{R_1 R_3+R_2 R_3}{R_1 R_2}+1\right) V_{F B}=3.2 \mathrm{~V}
-$$
+\]
 
 ​	边界条件2：Vdac = 0 时，有 R1 和 R2//R3 组成的分压网络，可以取 R1=430kΩ ，R2//R3=18.1kΩ，即
 
