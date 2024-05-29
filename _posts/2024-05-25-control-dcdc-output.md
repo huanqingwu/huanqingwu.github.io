@@ -40,7 +40,9 @@ $$
 ​	边界条件1：Vdac = 3.2V时， Vout = 0，即
 
 $$
+\begin{gathered}
 \left(\frac{R_1 R_3+R_2 R_3}{R_1 R_2}+1\right) V_{F B}=3.2 \mathrm{~V}
+\end{gathered}
 $$
 
 ​	边界条件2：Vdac = 0 时，有 R1 和 R2//R3 组成的分压网络，可以取 R1=430kΩ ，R2//R3=18.1kΩ，即
