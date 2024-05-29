@@ -27,11 +27,9 @@ $$
 I_{R_2}=I_{R_1}+I_{R_3}
 $$
 
-
 $$
 \frac{V_{F B}}{R_2}=\frac{V_{\text {out }}-V_{F B}}{R_1}+\frac{V_{\mathrm{dac}}-V_{F B}}{R_3} 
 $$
-
 
 $$
 V_{\text {out }}=V_{F B}\left(\frac{R_1+R_2}{R_2}+\frac{R_1}{R_3}\right)-V_{\mathrm{dac}} \frac{R_1}{R_3}
@@ -53,13 +51,12 @@ $$
 
 ​	边界条件2：Vdac = 0 时，有 R1 和 R2//R3 组成的分压网络，可以取 R1=430kΩ ，R2//R3=18.1kΩ，即
 
-
 $$
 \frac{R_2 R_3}{R_2 + R_3} =18100 \mathrm{Ω}
 $$
 
-
 ​	根据上面两个等式用数学软件解出：
+
 $$
 \begin{aligned}
 & R_1=430 \mathrm{k} \Omega \\
