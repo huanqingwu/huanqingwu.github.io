@@ -24,11 +24,15 @@ typora-root-url: ./..
 ​	假设电源的反馈网络工作在平衡状态，即VFB电位为DC-DC（或LDO）芯片的内部参考电压。根据基尔霍夫电流定律
 
 $$
-I_{R_2}=I_{R_1}+I_{R_3} 
+I_{R_2}=I_{R_1}+I_{R_3}
 $$
+
+
 $$
 \frac{V_{F B}}{R_2}=\frac{V_{\text {out }}-V_{F B}}{R_1}+\frac{V_{\mathrm{dac}}-V_{F B}}{R_3} 
 $$
+
+
 $$
 V_{\text {out }}=V_{F B}\left(\frac{R_1+R_2}{R_2}+\frac{R_1}{R_3}\right)-V_{\mathrm{dac}} \frac{R_1}{R_3}
 $$
