@@ -104,21 +104,21 @@ tags:
                       {
                           name: '008三体-【三体游戏】混乱世界！',
                           artist: '《三体I》',
-                          url: '',
+                          url: 'https://files.catbox.moe/im5psm',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '009三体-【三体游戏】浸泡！浸泡！！',
                           artist: '《三体I》',
-                          url: '',
+                          url: 'https://files.catbox.moe/jh7omh',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '010三体-【2007年】探访杨冬之母',
                           artist: '《三体I》',
-                          url: '',
+                          url: 'https://files.catbox.moe/p4tqve',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
