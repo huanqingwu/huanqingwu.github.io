@@ -24,13 +24,14 @@ APlayer ↓
 
 <html>
 <head>
-    <link href="https://cdn.bootcss.com/aplayer/1.10.1/APlayer.min.css" rel="stylesheet">
-    <script src="https://cdn.bootcss.com/aplayer/1.10.1/APlayer.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/aplayer/1.10.1/APlayer.min.css" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aplayer/1.10.1/APlayer.min.js"></script>
     <style>
         .demo{width:auto;margin:30px auto 10px auto}
         .demo p{padding:10px 0}
     </style>
 </head>
+
 <body>
     <div class="demo">
         <p><strong>腾讯云</strong></p>
@@ -51,7 +52,7 @@ APlayer ↓
                   preload: 'auto',
                   volume: 0.7,
                   mutex: true,
-                  listFolded: false,
+                  listFolded: true,
                   listMaxHeight: 90,
                   audio: [
                       {
@@ -306,13 +307,13 @@ APlayer ↓
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
-
+    
                   ]
                 });
         ap1.init();
     </script>
     </div>
-
+    
     <div class="demo">
         <p><strong>catbox播放</strong></p>
         <div id="player2">
@@ -586,7 +587,7 @@ APlayer ↓
                           cover: 'http://imagev2.xmcdn.com/group31/M03/68/5B/wKgJSVmRFTODYleSAACHuAVZxnc944.jpg',
                           theme: '#46718b'
                       },
-
+    
                   ]
                 });
         ap2.init();
