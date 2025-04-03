@@ -27,9 +27,10 @@ tags:
 APlayer ↓
 
 <html>
+
 <head>
-    <link href="https://cdn.bootcss.com/aplayer/1.10.1/APlayer.min.css" rel="stylesheet">
-    <script src="https://cdn.bootcss.com/aplayer/1.10.1/APlayer.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/aplayer/1.10.1/APlayer.min.css" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aplayer/1.10.1/APlayer.min.js"></script>
     <style>
         .demo{width:auto;margin:30px auto 10px auto}
         .demo p{padding:10px 0}
@@ -161,7 +162,7 @@ APlayer ↓
         ap1.init();
     </script>
     </div>
-
+    
     <div class="demo">
         <p><strong>catbox播放</strong></p>
         <div id="player2">
@@ -232,7 +233,7 @@ APlayer ↓
                           cover: 'https://imagev2.xmcdn.com/group84/M0A/48/FC/wKg5JF8st4eiiMvTAAPWRTft8YU697.jpg',
                           theme: '#46718b'
                       },
-
+    
                   ]
                 });
         ap2.init();
