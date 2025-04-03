@@ -83,28 +83,28 @@ tags:
                       {
                           name: '005三体-【2007年】向科学边界求助',
                           artist: '《三体I》',
-                          url: 'https://files.catbox.moe/njd5tu.mp3',
+                          url: 'https://files.catbox.moe/ry44eo.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '006三体-【2007年】幽灵倒计时',
                           artist: '《三体I》',
-                          url: 'https://files.catbox.moe/dz5iu1.mp3',
+                          url: 'https://files.catbox.moe/kmtcba.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '007三体-【三体游戏】乱纪元',
                           artist: '《三体I》',
-                          url: 'https://files.catbox.moe/38bdjt.mp3',
+                          url: 'https://files.catbox.moe/bc39bt.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '008三体-【三体游戏】混乱世界！',
                           artist: '《三体I》',
-                          url: 'https://files.catbox.moe/im5psm.mp3',
+                          url: 'https://files.catbox.moe/72moe8.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
