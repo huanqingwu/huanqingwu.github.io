@@ -62,63 +62,63 @@ tags:
                       {
                           name: '002三体-【2007年】杨冬的遗书',
                           artist: '《三体I》',
-                          url: 'https://files.catbox.moe/cg6zj8',
+                          url: 'https://files.catbox.moe/cg6zj8.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '003三体-【2007年】台球',
                           artist: '《三体I》',
-                          url: 'https://files.catbox.moe/7q9mby',
+                          url: 'https://files.catbox.moe/7q9mby.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '004三体-【2007年】射手和农场主',
                           artist: '《三体I》',
-                          url: 'https://files.catbox.moe/wpnhji',
+                          url: 'https://files.catbox.moe/wpnhji.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '005三体-【2007年】向科学边界求助',
                           artist: '《三体I》',
-                          url: 'https://files.catbox.moe/njd5tu',
+                          url: 'https://files.catbox.moe/njd5tu.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '006三体-【2007年】幽灵倒计时',
                           artist: '《三体I》',
-                          url: 'https://files.catbox.moe/dz5iu1',
+                          url: 'https://files.catbox.moe/dz5iu1.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '007三体-【三体游戏】乱纪元',
                           artist: '《三体I》',
-                          url: 'https://files.catbox.moe/38bdjt',
+                          url: 'https://files.catbox.moe/38bdjt.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '008三体-【三体游戏】混乱世界！',
                           artist: '《三体I》',
-                          url: 'https://files.catbox.moe/im5psm',
+                          url: 'https://files.catbox.moe/im5psm.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '009三体-【三体游戏】浸泡！浸泡！！',
                           artist: '《三体I》',
-                          url: 'https://files.catbox.moe/jh7omh',
+                          url: 'https://files.catbox.moe/jh7omh.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '010三体-【2007年】探访杨冬之母',
                           artist: '《三体I》',
-                          url: 'https://files.catbox.moe/p4tqve',
+                          url: 'https://files.catbox.moe/p4tqve.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
