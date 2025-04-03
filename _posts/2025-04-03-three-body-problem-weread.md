@@ -48,7 +48,7 @@ tags:
                       {
                           name: '000《三体》预告：登陆成功，三体世界即将开启!',
                           artist: '《三体I 地球往事》',
-                          url: 'https://njc-download.weiyun.com/ftn_handler/38ba9d25873e8ead0c4ac245b93ac48d2550070c07aaad3b78236f9253d2285f76b80639487cd5f850ff0193d5c16d595a0cd2972a7ca8facec1d6f729d2ad3b/000%E3%80%8A%E4%B8%89%E4%BD%93%E3%80%8B%E9%A2%84%E5%91%8A%EF%BC%9A%E7%99%BB%E9%99%86%E6%88%90%E5%8A%9F%EF%BC%8C%E4%B8%89%E4%BD%93%E4%B8%96%E7%95%8C%E5%8D%B3%E5%B0%86%E5%BC%80%E5%90%AF%21.mp3',
+                          url: 'https://njc-download.weiyun.com/ftn_handler/d517cb500594bfe4a24d28af290a31838a788115b050adb9a376b023be936f2d4681b0582f5d7196ae3f101d4db05153006ff60d8216ea0c35d34c13ab052652/000%E3%80%8A%E4%B8%89%E4%BD%93%E3%80%8B%E9%A2%84%E5%91%8A%EF%BC%9A%E7%99%BB%E9%99%86%E6%88%90%E5%8A%9F%EF%BC%8C%E4%B8%89%E4%BD%93%E4%B8%96%E7%95%8C%E5%8D%B3%E5%B0%86%E5%BC%80%E5%90%AF%21.mp3?fname=000%E3%80%8A%E4%B8%89%E4%BD%93%E3%80%8B%E9%A2%84%E5%91%8A%EF%BC%9A%E7%99%BB%E9%99%86%E6%88%90%E5%8A%9F%EF%BC%8C%E4%B8%89%E4%BD%93%E4%B8%96%E7%95%8C%E5%8D%B3%E5%B0%86%E5%BC%80%E5%90%AF%21.mp3,
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
