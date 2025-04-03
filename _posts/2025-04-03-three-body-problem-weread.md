@@ -69,7 +69,7 @@ tags:
                       {
                           name: '003三体-【2007年】台球',
                           artist: '《三体I》',
-                          url: 'https://files.catbox.moe/7q9mby.mp3',
+                          url: 'https://files.catbox.moe/tdmdj2.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
