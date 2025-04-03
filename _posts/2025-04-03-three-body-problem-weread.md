@@ -125,56 +125,63 @@ tags:
                       {
                           name: '011三体-【1967年】疯狂年代',
                           artist: '《三体I》',
-                          url: '',
+                          url: 'https://files.catbox.moe/41w8fd.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
-                          name: '',
+                          name: '012三体-【1967年】大批判',
                           artist: '《三体I》',
-                          url: '',
+                          url: 'https://files.catbox.moe/kp66jr.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
-                          name: '',
+                          name: '013三体-【1969年】寂静的春天',
                           artist: '《三体I》',
-                          url: '',
+                          url: 'https://files.catbox.moe/11rd12.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
-                          name: '',
+                          name: '014三体-【1969年】雷达峰',
                           artist: '《三体I》',
-                          url: '',
+                          url: 'https://files.catbox.moe/ko9l9o.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
-                          name: '',
+                          name: '015三体-【1969年】审问',
                           artist: '《三体I》',
-                          url: '',
+                          url: 'https://files.catbox.moe/nh609q.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
-                          name: '',
+                          name: '016三体-【1969年】重回雷达峰',
                           artist: '《三体I》',
-                          url: '',
+                          url: 'https://files.catbox.moe/0nkpu2.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
-                          name: '',
+                          name: '017三体-【2007年】宇宙闪烁',
                           artist: '《三体I》',
-                          url: '',
+                          url: 'https://files.catbox.moe/0oyd1p.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
-                          name: '',
+                          name: '018三体-【2007年】大史的终极定理',
                           artist: '《三体I》',
-                          url: '',
+                          url: 'https://files.catbox.moe/e16bgz.mp3',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '019三体-【三体游戏】宇宙模型',
+                          artist: '《三体I》',
+                          url: 'https://files.catbox.moe/9k5tbp.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
