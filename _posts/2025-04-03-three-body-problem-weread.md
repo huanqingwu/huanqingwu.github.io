@@ -166,7 +166,7 @@ tags:
                       },
                       {
                           name: '017三体-【2007年】宇宙闪烁',
-                          artist: '《三体I》',
+                          artist: '《三体I》', 
                           url: 'https://files.catbox.moe/0oyd1p.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
