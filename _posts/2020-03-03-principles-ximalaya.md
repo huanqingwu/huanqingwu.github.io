@@ -26,14 +26,16 @@ tags:
 APlayer
 
 <html>
+
 <head>
-    <link href="https://cdn.bootcss.com/aplayer/1.10.1/APlayer.min.css" rel="stylesheet">
-    <script src="https://cdn.bootcss.com/aplayer/1.10.1/APlayer.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/aplayer/1.10.1/APlayer.min.css" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aplayer/1.10.1/APlayer.min.js"></script>
     <style>
         .demo{width:340px;margin:60px auto 10px auto}
         .demo p{padding:10px 0}
     </style>
 </head>
+
 <body>
     <div class="demo">
         <p><strong>在线播放</strong></p>
