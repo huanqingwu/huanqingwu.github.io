@@ -47,43 +47,134 @@ tags:
                   audio: [
                       {
                           name: '000《三体》预告：登陆成功，三体世界即将开启!',
-                          artist: '《三体I 地球往事》',
+                          artist: '《三体I》',
                           url: 'https://files.catbox.moe/kizv74.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '001三体-【2007年】科学边界',
-                          artist: '《三体I 地球往事》',
+                          artist: '《三体I》',
                           url: 'https://files.catbox.moe/y6c7gg.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '002三体-【2007年】杨冬的遗书',
-                          artist: '《三体I 地球往事》',
+                          artist: '《三体I》',
                           url: 'https://files.catbox.moe/cg6zj8',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '003三体-【2007年】台球',
-                          artist: '《三体I 地球往事》',
+                          artist: '《三体I》',
                           url: 'https://files.catbox.moe/7q9mby',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '004三体-【2007年】射手和农场主',
-                          artist: '《三体I 地球往事》',
+                          artist: '《三体I》',
                           url: 'https://files.catbox.moe/wpnhji',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '005三体-【2007年】向科学边界求助',
-                          artist: '《三体I 地球往事》',
+                          artist: '《三体I》',
                           url: 'https://files.catbox.moe/njd5tu',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '006三体-【2007年】幽灵倒计时',
+                          artist: '《三体I》',
+                          url: 'https://files.catbox.moe/dz5iu1',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '007三体-【三体游戏】乱纪元',
+                          artist: '《三体I》',
+                          url: 'https://files.catbox.moe/38bdjt',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '008三体-【三体游戏】混乱世界！',
+                          artist: '《三体I》',
+                          url: '',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '009三体-【三体游戏】浸泡！浸泡！！',
+                          artist: '《三体I》',
+                          url: '',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '010三体-【2007年】探访杨冬之母',
+                          artist: '《三体I》',
+                          url: '',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '011三体-【1967年】疯狂年代',
+                          artist: '《三体I》',
+                          url: '',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '',
+                          artist: '《三体I》',
+                          url: '',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '',
+                          artist: '《三体I》',
+                          url: '',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '',
+                          artist: '《三体I》',
+                          url: '',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '',
+                          artist: '《三体I》',
+                          url: '',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '',
+                          artist: '《三体I》',
+                          url: '',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '',
+                          artist: '《三体I》',
+                          url: '',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '',
+                          artist: '《三体I》',
+                          url: '',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
