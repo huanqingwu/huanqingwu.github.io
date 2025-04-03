@@ -62,7 +62,7 @@ tags:
                       {
                           name: '002三体-【2007年】杨冬的遗书',
                           artist: '《三体I》',
-                          url: 'https://files.catbox.moe/74ib1l.mp3',
+                          url: 'https://files.catbox.moe/74ib1l',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
