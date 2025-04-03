@@ -55,28 +55,28 @@ tags:
                       {
                           name: '001三体-【2007年】科学边界',
                           artist: '《三体I 地球往事》',
-                          url: 'https://files.catbox.moe/0ankby.mp3',
+                          url: 'https://files.catbox.moe/y6c7gg.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '002三体-【2007年】杨冬的遗书',
                           artist: '《三体I 地球往事》',
-                          url: 'https://files.catbox.moe/0ankby.mp3',
+                          url: 'https://files.catbox.moe/cg6zj8',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
-                          name: '001三体-【2007年】科学边界',
+                          name: '003三体-【2007年】台球',
                           artist: '《三体I 地球往事》',
-                          url: 'https://files.catbox.moe/0ankby.mp3',
+                          url: 'https://files.catbox.moe/cg6zj8',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
-                          name: '001三体-【2007年】科学边界',
+                          name: '004三体-【2007年】射手和农场主',
                           artist: '《三体I 地球往事》',
-                          url: 'https://files.catbox.moe/0ankby.mp3',
+                          url: 'https://files.catbox.moe/cg6zj8',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
