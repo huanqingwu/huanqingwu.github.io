@@ -76,7 +76,7 @@ tags:
                       {
                           name: '004三体-【2007年】射手和农场主',
                           artist: '《三体I》',
-                          url: 'https://files.catbox.moe/wpnhji.mp3',
+                          url: 'https://files.catbox.moe/owc1qu.mp3',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
