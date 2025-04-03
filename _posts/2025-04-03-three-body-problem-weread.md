@@ -69,14 +69,21 @@ tags:
                       {
                           name: '003三体-【2007年】台球',
                           artist: '《三体I 地球往事》',
-                          url: 'https://files.catbox.moe/cg6zj8',
+                          url: 'https://files.catbox.moe/7q9mby',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '004三体-【2007年】射手和农场主',
                           artist: '《三体I 地球往事》',
-                          url: 'https://files.catbox.moe/cg6zj8',
+                          url: 'https://files.catbox.moe/wpnhji',
+                          cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '005三体-【2007年】向科学边界求助',
+                          artist: '《三体I 地球往事》',
+                          url: 'https://files.catbox.moe/njd5tu',
                           cover: 'https://raw.githubusercontent.com/huanqingwu/huanqingwu.github.io/master/img/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
