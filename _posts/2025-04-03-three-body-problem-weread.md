@@ -90,98 +90,98 @@ tags:
                       {
                           name: '006三体-【2007年】幽灵倒计时',
                           artist: '《三体I》',
-                          url: 'https://files.catbox.moe/kmtcba.mp3',
+                          url: 'http://pan.ezlabs.top/audio/three-body-problem/006%E4%B8%89%E4%BD%93-%E3%80%902007%E5%B9%B4%E3%80%91%E5%B9%BD%E7%81%B5%E5%80%92%E8%AE%A1%E6%97%B6.mp3',
                           cover: 'http://pan.ezlabs.top/audio/three-body-problem/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '007三体-【三体游戏】乱纪元',
                           artist: '《三体I》',
-                          url: 'https://files.catbox.moe/bc39bt.mp3',
+                          url: 'http://pan.ezlabs.top/audio/three-body-problem/007%E4%B8%89%E4%BD%93-%E3%80%90%E4%B8%89%E4%BD%93%E6%B8%B8%E6%88%8F%E3%80%91%E4%B9%B1%E7%BA%AA%E5%85%83.mp3',
                           cover: 'http://pan.ezlabs.top/audio/three-body-problem/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '008三体-【三体游戏】混乱世界！',
                           artist: '《三体I》',
-                          url: 'https://files.catbox.moe/72moe8.mp3',
+                          url: 'http://pan.ezlabs.top/audio/three-body-problem/008%E4%B8%89%E4%BD%93-%E3%80%90%E4%B8%89%E4%BD%93%E6%B8%B8%E6%88%8F%E3%80%91%E6%B7%B7%E4%B9%B1%E4%B8%96%E7%95%8C%EF%BC%81.mp3',
                           cover: 'http://pan.ezlabs.top/audio/three-body-problem/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '009三体-【三体游戏】浸泡！浸泡！！',
                           artist: '《三体I》',
-                          url: 'https://files.catbox.moe/t4fkvk.mp3',
+                          url: 'http://pan.ezlabs.top/audio/three-body-problem/009%E4%B8%89%E4%BD%93-%E3%80%90%E4%B8%89%E4%BD%93%E6%B8%B8%E6%88%8F%E3%80%91%E6%B5%B8%E6%B3%A1%EF%BC%81%E6%B5%B8%E6%B3%A1%EF%BC%81%EF%BC%81.mp3',
                           cover: 'http://pan.ezlabs.top/audio/three-body-problem/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '010三体-【2007年】探访杨冬之母',
                           artist: '《三体I》',
-                          url: 'https://files.catbox.moe/r91s6j.mp3',
+                          url: 'http://pan.ezlabs.top/audio/three-body-problem/010%E4%B8%89%E4%BD%93-%E3%80%902007%E5%B9%B4%E3%80%91%E6%8E%A2%E8%AE%BF%E6%9D%A8%E5%86%AC%E4%B9%8B%E6%AF%8D.mp3',
                           cover: 'http://pan.ezlabs.top/audio/three-body-problem/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '011三体-【1967年】疯狂年代',
                           artist: '《三体I》',
-                          url: 'https://files.catbox.moe/41w8fd.mp3',
+                          url: 'http://pan.ezlabs.top/audio/three-body-problem/011%E4%B8%89%E4%BD%93-%E3%80%901967%E5%B9%B4%E3%80%91%E7%96%AF%E7%8B%82%E5%B9%B4%E4%BB%A3.mp3',
                           cover: 'http://pan.ezlabs.top/audio/three-body-problem/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '012三体-【1967年】大批判',
                           artist: '《三体I》',
-                          url: 'https://files.catbox.moe/kp66jr.mp3',
+                          url: 'http://pan.ezlabs.top/audio/three-body-problem/012%E4%B8%89%E4%BD%93-%E3%80%901967%E5%B9%B4%E3%80%91%E5%A4%A7%E6%89%B9%E5%88%A4.mp3',
                           cover: 'http://pan.ezlabs.top/audio/three-body-problem/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '013三体-【1969年】寂静的春天',
                           artist: '《三体I》',
-                          url: 'https://files.catbox.moe/11rd12.mp3',
+                          url: 'http://pan.ezlabs.top/audio/three-body-problem/013%E4%B8%89%E4%BD%93-%E3%80%901969%E5%B9%B4%E3%80%91%E5%AF%82%E9%9D%99%E7%9A%84%E6%98%A5%E5%A4%A9.mp3',
                           cover: 'http://pan.ezlabs.top/audio/three-body-problem/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '014三体-【1969年】雷达峰',
                           artist: '《三体I》',
-                          url: 'https://files.catbox.moe/ko9l9o.mp3',
+                          url: 'http://pan.ezlabs.top/audio/three-body-problem/014%E4%B8%89%E4%BD%93-%E3%80%901969%E5%B9%B4%E3%80%91%E9%9B%B7%E8%BE%BE%E5%B3%B0.mp3',
                           cover: 'http://pan.ezlabs.top/audio/three-body-problem/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '015三体-【1969年】审问',
                           artist: '《三体I》',
-                          url: 'https://files.catbox.moe/nh609q.mp3',
+                          url: 'http://pan.ezlabs.top/audio/three-body-problem/015%E4%B8%89%E4%BD%93-%E3%80%901969%E5%B9%B4%E3%80%91%E5%AE%A1%E9%97%AE.mp3',
                           cover: 'http://pan.ezlabs.top/audio/three-body-problem/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '016三体-【1969年】重回雷达峰',
                           artist: '《三体I》',
-                          url: 'https://files.catbox.moe/0nkpu2.mp3',
+                          url: 'http://pan.ezlabs.top/audio/three-body-problem/016%E4%B8%89%E4%BD%93-%E3%80%901969%E5%B9%B4%E3%80%91%E9%87%8D%E5%9B%9E%E9%9B%B7%E8%BE%BE%E5%B3%B0.mp3',
                           cover: 'http://pan.ezlabs.top/audio/three-body-problem/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '017三体-【2007年】宇宙闪烁',
                           artist: '《三体I》', 
-                          url: 'https://files.catbox.moe/0oyd1p.mp3',
+                          url: 'http://pan.ezlabs.top/audio/three-body-problem/017%E4%B8%89%E4%BD%93-%E3%80%902007%E5%B9%B4%E3%80%91%E5%AE%87%E5%AE%99%E9%97%AA%E7%83%81.mp3',
                           cover: 'http://pan.ezlabs.top/audio/three-body-problem/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '018三体-【2007年】大史的终极定理',
                           artist: '《三体I》',
-                          url: 'https://files.catbox.moe/e16bgz.mp3',
+                          url: 'http://pan.ezlabs.top/audio/three-body-problem/018%E4%B8%89%E4%BD%93-%E3%80%902007%E5%B9%B4%E3%80%91%E5%A4%A7%E5%8F%B2%E7%9A%84%E7%BB%88%E6%9E%81%E5%AE%9A%E7%90%86.mp3',
                           cover: 'http://pan.ezlabs.top/audio/three-body-problem/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
                       {
                           name: '019三体-【三体游戏】宇宙模型',
                           artist: '《三体I》',
-                          url: 'https://files.catbox.moe/9k5tbp.mp3',
+                          url: 'http://pan.ezlabs.top/audio/three-body-problem/019%E4%B8%89%E4%BD%93-%E3%80%90%E4%B8%89%E4%BD%93%E6%B8%B8%E6%88%8F%E3%80%91%E5%AE%87%E5%AE%99%E6%A8%A1%E5%9E%8B.mp3',
                           cover: 'http://pan.ezlabs.top/audio/three-body-problem/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
