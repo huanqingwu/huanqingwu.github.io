@@ -185,6 +185,83 @@ tags:
                           cover: 'http://pan.ezlabs.top/audio/three-body-problem/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
+                      {
+                          name: '020三体-【三体游戏】脱水！脱水！',
+                          artist: '《三体I》',
+                          url: 'http://pan.ezlabs.top/audio/three-body-problem/020%E4%B8%89%E4%BD%93-%E3%80%90%E4%B8%89%E4%BD%93%E6%B8%B8%E6%88%8F%E3%80%91%E8%84%B1%E6%B0%B4%EF%BC%81%E8%84%B1%E6%B0%B4%EF%BC%81.mp3',
+                          cover: 'http://pan.ezlabs.top/audio/three-body-problem/audio-bg-three-body-problem.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '021三体-【1969年】红岸—发射系统',
+                          artist: '《三体I》',
+                          url: 'http://pan.ezlabs.top/audio/three-body-problem/021%E4%B8%89%E4%BD%93-%E3%80%901969%E5%B9%B4%E3%80%91%E7%BA%A2%E5%B2%B8%E2%80%94%E5%8F%91%E5%B0%84%E7%B3%BB%E7%BB%9F.mp3',
+                          cover: 'http://pan.ezlabs.top/audio/three-body-problem/audio-bg-three-body-problem.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '022三体-【1969年】红岸—监听系统',
+                          artist: '《三体I》',
+                          url: 'http://pan.ezlabs.top/audio/three-body-problem/022%E4%B8%89%E4%BD%93-%E3%80%901969%E5%B9%B4%E3%80%91%E7%BA%A2%E5%B2%B8%E2%80%94%E7%9B%91%E5%90%AC%E7%B3%BB%E7%BB%9F.mp3',
+                          cover: 'http://pan.ezlabs.top/audio/three-body-problem/audio-bg-three-body-problem.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '023三体-【1969年】真实的红岸工程(无剧情)',
+                          artist: '《三体I》',
+                          url: 'http://pan.ezlabs.top/audio/three-body-problem/023%E4%B8%89%E4%BD%93-%E3%80%901969%E5%B9%B4%E3%80%91%E7%9C%9F%E5%AE%9E%E7%9A%84%E7%BA%A2%E5%B2%B8%E5%B7%A5%E7%A8%8B%28%E6%97%A0%E5%89%A7%E6%83%85%29.mp3',
+                          cover: 'http://pan.ezlabs.top/audio/three-body-problem/audio-bg-three-body-problem.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '024三体-【2007年】红岸工程的结局',
+                          artist: '《三体I》',
+                          url: 'http://pan.ezlabs.top/audio/three-body-problem/024%E4%B8%89%E4%BD%93-%E3%80%902007%E5%B9%B4%E3%80%91%E7%BA%A2%E5%B2%B8%E5%B7%A5%E7%A8%8B%E7%9A%84%E7%BB%93%E5%B1%80.mp3',
+                          cover: 'http://pan.ezlabs.top/audio/three-body-problem/audio-bg-three-body-problem.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '025三体-【三体游戏】三日凌空',
+                          artist: '《三体I》',
+                          url: 'http://pan.ezlabs.top/audio/three-body-problem/025%E4%B8%89%E4%BD%93-%E3%80%90%E4%B8%89%E4%BD%93%E6%B8%B8%E6%88%8F%E3%80%91%E4%B8%89%E6%97%A5%E5%87%8C%E7%A9%BA.mp3',
+                          cover: 'http://pan.ezlabs.top/audio/three-body-problem/audio-bg-three-body-problem.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '026三体-【2007年】三体问题',
+                          artist: '《三体I》',
+                          url: 'http://pan.ezlabs.top/audio/three-body-problem/026%E4%B8%89%E4%BD%93-%E3%80%902007%E5%B9%B4%E3%80%91%E4%B8%89%E4%BD%93%E9%97%AE%E9%A2%98.mp3',
+                          cover: 'http://pan.ezlabs.top/audio/three-body-problem/audio-bg-three-body-problem.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '027三体-【2007年】是否继续研究？',
+                          artist: '《三体I》',
+                          url: 'http://pan.ezlabs.top/audio/three-body-problem/027%E4%B8%89%E4%BD%93-%E3%80%902007%E5%B9%B4%E3%80%91%E6%98%AF%E5%90%A6%E7%BB%A7%E7%BB%AD%E7%A0%94%E7%A9%B6%EF%BC%9F.mp3',
+                          cover: 'http://pan.ezlabs.top/audio/three-body-problem/audio-bg-three-body-problem.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '028三体-【2007年】两个极端的敌人',
+                          artist: '《三体I》',
+                          url: 'http://pan.ezlabs.top/audio/three-body-problem/028%E4%B8%89%E4%BD%93-%E3%80%902007%E5%B9%B4%E3%80%91%E4%B8%A4%E4%B8%AA%E6%9E%81%E7%AB%AF%E7%9A%84%E6%95%8C%E4%BA%BA.mp3',
+                          cover: 'http://pan.ezlabs.top/audio/three-body-problem/audio-bg-three-body-problem.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '029三体-【三体游戏】三千万大军',
+                          artist: '《三体I》',
+                          url: 'http://pan.ezlabs.top/audio/three-body-problem/029%E4%B8%89%E4%BD%93-%E3%80%90%E4%B8%89%E4%BD%93%E6%B8%B8%E6%88%8F%E3%80%91%E4%B8%89%E5%8D%83%E4%B8%87%E5%A4%A7%E5%86%9B.mp3',
+                          cover: 'http://pan.ezlabs.top/audio/three-body-problem/audio-bg-three-body-problem.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '030三体-【三体游戏】人列计算机',
+                          artist: '《三体I》',
+                          url: 'http://pan.ezlabs.top/audio/three-body-problem/030%E4%B8%89%E4%BD%93-%E3%80%90%E4%B8%89%E4%BD%93%E6%B8%B8%E6%88%8F%E3%80%91%E4%BA%BA%E5%88%97%E8%AE%A1%E7%AE%97%E6%9C%BA.mp3',
+                          cover: 'http://pan.ezlabs.top/audio/three-body-problem/audio-bg-three-body-problem.jpg',
+                          theme: '#46718b'
+                      },
                   ]
                 });
         ap.init();
