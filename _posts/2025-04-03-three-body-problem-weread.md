@@ -262,6 +262,69 @@ tags:
                           cover: 'http://pan.ezlabs.top/audio/three-body-problem/audio-bg-three-body-problem.jpg',
                           theme: '#46718b'
                       },
+                      {
+                          name: '031三体-【三体游戏】三日连珠',
+                          artist: '《三体I》',
+                          url: 'http://pan.ezlabs.top/audio/three-body-problem/031%E4%B8%89%E4%BD%93-%E3%80%90%E4%B8%89%E4%BD%93%E6%B8%B8%E6%88%8F%E3%80%91%E4%B8%89%E6%97%A5%E8%BF%9E%E7%8F%A0.mp3',
+                          cover: 'http://pan.ezlabs.top/audio/three-body-problem/audio-bg-three-body-problem.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '032三体-【2007年】玩家聚会',
+                          artist: '《三体I》',
+                          url: 'http://pan.ezlabs.top/audio/three-body-problem/032%E4%B8%89%E4%BD%93-%E3%80%902007%E5%B9%B4%E3%80%91%E7%8E%A9%E5%AE%B6%E8%81%9A%E4%BC%9A.mp3',
+                          cover: 'http://pan.ezlabs.top/audio/three-body-problem/audio-bg-three-body-problem.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '033三体-【三体游戏】大撕裂',
+                          artist: '《三体I》',
+                          url: 'http://pan.ezlabs.top/audio/three-body-problem/033%E4%B8%89%E4%BD%93-%E3%80%90%E4%B8%89%E4%BD%93%E6%B8%B8%E6%88%8F%E3%80%91%E5%A4%A7%E6%92%95%E8%A3%82.mp3',
+                          cover: 'http://pan.ezlabs.top/audio/three-body-problem/audio-bg-three-body-problem.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '034三体-【三体游戏】单摆启动！',
+                          artist: '《三体I》',
+                          url: 'http://pan.ezlabs.top/audio/three-body-problem/034%E4%B8%89%E4%BD%93-%E3%80%90%E4%B8%89%E4%BD%93%E6%B8%B8%E6%88%8F%E3%80%91%E5%8D%95%E6%91%86%E5%90%AF%E5%8A%A8%EF%BC%81.mp3',
+                          cover: 'http://pan.ezlabs.top/audio/three-body-problem/audio-bg-three-body-problem.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '035三体-【三体游戏】三体星际舰队',
+                          artist: '《三体I》',
+                          url: 'http://pan.ezlabs.top/audio/three-body-problem/035%E4%B8%89%E4%BD%93-%E3%80%90%E4%B8%89%E4%BD%93%E6%B8%B8%E6%88%8F%E3%80%91%E4%B8%89%E4%BD%93%E6%98%9F%E9%99%85%E8%88%B0%E9%98%9F.mp3',
+                          cover: 'http://pan.ezlabs.top/audio/three-body-problem/audio-bg-three-body-problem.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '036三体-【2007年】地球叛军',
+                          artist: '《三体I》',
+                          url: 'http://pan.ezlabs.top/audio/three-body-problem/036%E4%B8%89%E4%BD%93-%E3%80%902007%E5%B9%B4%E3%80%91%E5%9C%B0%E7%90%83%E5%8F%9B%E5%86%9B.mp3',
+                          cover: 'http://pan.ezlabs.top/audio/three-body-problem/audio-bg-three-body-problem.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '037三体-【1970年】重大发现！',
+                          artist: '《三体I》',
+                          url: 'http://pan.ezlabs.top/audio/three-body-problem/037%E4%B8%89%E4%BD%93-%E3%80%901970%E5%B9%B4%E3%80%91%E9%87%8D%E5%A4%A7%E5%8F%91%E7%8E%B0%EF%BC%81.mp3',
+                          cover: 'http://pan.ezlabs.top/audio/three-body-problem/audio-bg-three-body-problem.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '038三体-【1971年】向太阳发信号！',
+                          artist: '《三体I》',
+                          url: 'http://pan.ezlabs.top/audio/three-body-problem/038%E4%B8%89%E4%BD%93-%E3%80%901971%E5%B9%B4%E3%80%91%E5%90%91%E5%A4%AA%E9%98%B3%E5%8F%91%E4%BF%A1%E5%8F%B7%EF%BC%81.mp3',
+                          cover: 'http://pan.ezlabs.top/audio/three-body-problem/audio-bg-three-body-problem.jpg',
+                          theme: '#46718b'
+                      },
+                      {
+                          name: '039三体-【1971年】不要回答! 不要回答!! 不要回答!!!',
+                          artist: '《三体I》',
+                          url: 'http://pan.ezlabs.top/audio/three-body-problem/039%E4%B8%89%E4%BD%93-%E3%80%901971%E5%B9%B4%E3%80%91%E4%B8%8D%E8%A6%81%E5%9B%9E%E7%AD%94%21%20%E4%B8%8D%E8%A6%81%E5%9B%9E%E7%AD%94%21%21%20%E4%B8%8D%E8%A6%81%E5%9B%9E%E7%AD%94%21%21%21.mp3',
+                          cover: 'http://pan.ezlabs.top/audio/three-body-problem/audio-bg-three-body-problem.jpg',
+                          theme: '#46718b'
+                      },
                   ]
                 });
         ap.init();
